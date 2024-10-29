@@ -1,0 +1,3741 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="CTDOT_EXITS" id="CTDOT_EXITS">
+	<SimpleField name="Description" type="string"></SimpleField>
+</Schema>
+<Folder><name>CTDOT_EXITS</name>
+  <Placemark>
+	<name>189 NB Exit:-  / TO TARIFFVILLE RD#1(001)</name>
+      <Point><coordinates>-72.7469714979561,41.8847992455903</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>189 SB Exit:-  / TO TARIFFVILLE RD #1(005)</name>
+      <Point><coordinates>-72.7494405762794,41.8912034500913</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 EB Exit:2  / ACCESS TO I-84(TR-833)</name>
+      <Point><coordinates>-72.6598575174781,41.7660444119363</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 EB Exit:17  / TO MILL HILL RD(041)</name>
+      <Point><coordinates>-72.3654530608345,41.5828751273447</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 EB Exit:27  / TO SR-642(085)</name>
+      <Point><coordinates>-72.1253027835481,41.5597448261667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 EB Exit:28N  / TO I-395(TR-804)</name>
+      <Point><coordinates>-72.1082414221352,41.5460791156987</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 EB Exit:-  / TO SR-680(FOXWOODS BLVD)(093)</name>
+      <Point><coordinates>-71.9515511594579,41.4707192428853</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 WB Exit:5A  / TO SR-517(MAIN ST)(006)</name>
+      <Point><coordinates>-72.6300591759725,41.7398621940679</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 WB Exit:24  / TO SR-608(064)</name>
+      <Point><coordinates>-72.1402280573312,41.5659505094451</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>20 EB Exit:-  / ACC TO I-91 SB(TR-843)</name>
+      <Point><coordinates>-72.6422155913427,41.9000355352796</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>25 NB Exit:9  / TO SR-734(005)</name>
+      <Point><coordinates>-73.1946336538619,41.2509877501236</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>291 WB Exit:4  / TO US-5(007)</name>
+      <Point><coordinates>-72.6112089546562,41.8045715285599</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2A EB Exit:11  / TO SR-82(013)</name>
+      <Point><coordinates>-72.1183611612058,41.5126888969797</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2A WB Exit:-  / TO I-395 NB(TR-802)</name>
+      <Point><coordinates>-72.1095967670344,41.4868905678839</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2A WB Exit:6  / TO MOHEGAN SUN BLVD(PVT)(008)</name>
+      <Point><coordinates>-72.0776164961186,41.4815918850566</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3 NB Exit:-  / TO SR-2(TR-801)</name>
+      <Point><coordinates>-72.6139833568108,41.7253525751266</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3 SB Exit:-  / TO I-91(TR-802)</name>
+      <Point><coordinates>-72.6467896966037,41.7073124084378</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>32 NB Exit:28S  / TO I-395(TR-803)</name>
+      <Point><coordinates>-72.1096537180656,41.5464699679064</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>384 WB Exit:-  / TO I-291(TR-801)</name>
+      <Point><coordinates>-72.5746874285455,41.7664807670889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>395 NB Exit:41  / TO SR-101(HARTFORD PIKE)(052)</name>
+      <Point><coordinates>-71.8779797844907,41.8399646632738</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>395 SB Exit:14  / TO SR-642(WEST TOWN ST)(018)</name>
+      <Point><coordinates>-72.1044004751252,41.5568005536223</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5 NB Exit:-  / TO SR-2(TR-801)</name>
+      <Point><coordinates>-72.6491202237377,41.7560885856257</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>500 SB Exit:-  / TO I-84(TR-804)</name>
+      <Point><coordinates>-72.6519684658816,41.7684486365852</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 EB Exit:-  / TO SSR-487(KETTLETOWN RD)(023)</name>
+      <Point><coordinates>-73.2114338320228,41.4758140457461</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 EB Exit:48A 48B / TO ASYLUM ST &amp; CAPITOL AVE</name>
+      <Point><coordinates>-72.6880428218728,41.7659616496725</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 EB Exit:59  / JCT I-384</name>
+      <Point><coordinates>-72.5975185774597,41.7718847001065</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 WB Exit:-  / TO SR-632(017)</name>
+      <Point><coordinates>-72.201017132482,41.7315216161667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>66 WB Exit:11  / ACCESS TO I-91(TR-815)</name>
+      <Point><coordinates>-72.7579838448259,41.5364224573652</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>691 EB Exit:7  / TO COLUMBIA ST(009)</name>
+      <Point><coordinates>-72.8042999223749,41.5468797053825</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>691 EB Exit:5  / TO SR-71(012)</name>
+      <Point><coordinates>-72.8170715757736,41.5496964071111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7 SB Exit:12  / TO US-202(061)</name>
+      <Point><coordinates>-73.4109023396494,41.4757727606864</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>72 SB Exit:4 3 / ACCESS I-84(TR-814)&amp; SR-536</name>
+      <Point><coordinates>-72.8468254856324,41.6732862409958</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 NB Exit:29  / TO SR-847(071)</name>
+      <Point><coordinates>-73.0480933231674,41.5124758654562</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 NB Exit:30  / TO SOUTH LEONARD ST(074)</name>
+      <Point><coordinates>-73.0439874719556,41.5378975893756</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 NB Exit:39  / JCT US-6</name>
+      <Point><coordinates>-73.0669449887189,41.6718620517076</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 SB Exit:11  / TO SR-714(BRIDGEPORT AVE)(014)</name>
+      <Point><coordinates>-73.1345281907345,41.261733669055</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 SB Exit:28  / TO SR-710(069)</name>
+      <Point><coordinates>-73.0460198473161,41.5083215266484</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 SB Exit:29  / TO SR-847(072)</name>
+      <Point><coordinates>-73.0493164990496,41.514455174575</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 SB Exit:40  / TO SR-222(NORTH MAIN ST)(095)</name>
+      <Point><coordinates>-73.068289959208,41.6844009771096</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:43  / JCT SR-501</name>
+      <Point><coordinates>-72.7348021224942,41.7434147113547</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:-  / HOV TO HOV LANE 700(704)</name>
+      <Point><coordinates>-72.6195370569577,41.7671488529018</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:10  / TO US-6 &amp; SR-816(026)</name>
+      <Point><coordinates>-73.2910944471581,41.4178294321192</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:23  / TO SR-69(225)</name>
+      <Point><coordinates>-73.0364805445623,41.5513241315743</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:27  / TO I-691(TR-835)</name>
+      <Point><coordinates>-72.9230756624909,41.5575008660602</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:30  / TO ATWATER ST(365)</name>
+      <Point><coordinates>-72.8986824001055,41.5834180041812</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:34  / TO SR-536(177)</name>
+      <Point><coordinates>-72.8439703187346,41.6688476315448</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:37  / TO FIENEMANN RD(098)</name>
+      <Point><coordinates>-72.8047823647932,41.7019260028174</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:-  / BGN HOV LANE(700)</name>
+      <Point><coordinates>-72.6409276633502,41.7633106218265</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:70  / TO SR-32(273)</name>
+      <Point><coordinates>-72.2905856152702,41.8963376121918</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:35  / TO SR-72(TR-815)</name>
+      <Point><coordinates>-72.8216348866197,41.6725263683654</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:4  / TO US-6 &amp; US-202(206)</name>
+      <Point><coordinates>-73.4779265220468,41.3923469845132</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:37  / TO FIENEMANN RD(100)</name>
+      <Point><coordinates>-72.802913810025,41.7059523850762</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:43  / TO SR-501(TR-822)</name>
+      <Point><coordinates>-72.7323840995578,41.7493618248615</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:47  / TO SIGOURNEY ST(115)</name>
+      <Point><coordinates>-72.6912840870728,41.7651494468526</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:56  / TO SR-500(TR-832)</name>
+      <Point><coordinates>-72.6494856694237,41.7656535401725</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 NB Exit:32  / TO I-84(TR-806)</name>
+      <Point><coordinates>-72.7706713347002,41.7237461154564</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 NB Exit:3  / TO SR-154(007)</name>
+      <Point><coordinates>-72.4011904845524,41.3478236467973</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 NB Exit:5  / TO SR-80(013)</name>
+      <Point><coordinates>-72.4402328949472,41.3778292257627</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 NB Exit:9  / TO SR-81(026)</name>
+      <Point><coordinates>-72.556589410645,41.471684817038</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 SB Exit:3  / TO SR-154(009)</name>
+      <Point><coordinates>-72.4077589910556,41.3538501917346</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 SB Exit:6  / TO SR-148(019)</name>
+      <Point><coordinates>-72.4750256297794,41.4041377036786</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 SB Exit:16  / JCT SR-17(NB)(HARTFORD AVE)</name>
+      <Point><coordinates>-72.6507610263937,41.5679284416009</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 NB Exit:5  / TO US-5(STATE ST)(138)</name>
+      <Point><coordinates>-72.9074389353871,41.3152868474821</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 NB Exit:14  / TO SR-150(030)</name>
+      <Point><coordinates>-72.8051161926662,41.4323356249275</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 NB Exit:24  / TO SR-99(050)</name>
+      <Point><coordinates>-72.6532001094559,41.6809287831791</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 NB Exit:47E  / TO SR-190(TR-847)</name>
+      <Point><coordinates>-72.5883746079328,41.9867200207273</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 SB Exit:3  / TO TRUMBULL ST(133)</name>
+      <Point><coordinates>-72.9130359454127,41.3126813933043</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 SB Exit:19  / TO BALDWIN AVE(038)</name>
+      <Point><coordinates>-72.7495899781438,41.5456606803502</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 SB Exit:24  / TO SR-99(049)</name>
+      <Point><coordinates>-72.653983205393,41.6803683646605</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 SB Exit:27  / TO SR-530(AIRPORT RD)(166)</name>
+      <Point><coordinates>-72.6622733788271,41.7442886775381</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 SB Exit:40  / TO SR-20(TR-844)</name>
+      <Point><coordinates>-72.6366695541256,41.9022290877433</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 SB Exit:48  / TO SR-220(122)</name>
+      <Point><coordinates>-72.5853754134122,41.999976545864</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:4  / TO INDIAN FIELD RD(011)</name>
+      <Point><coordinates>-73.6084539426666,41.0258872370203</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:10  / TO NOROTON AVE(036)</name>
+      <Point><coordinates>-73.4926183622714,41.0678326060179</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:29  / TO SEAVIEW AVE(357)</name>
+      <Point><coordinates>-73.1753692883869,41.1779271112241</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:31  / TO HONEYSPOT RD(104)</name>
+      <Point><coordinates>-73.1453634935081,41.1807422116089</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:36  / TO PLAINS RD #1(123)</name>
+      <Point><coordinates>-73.0796488393904,41.2205584927003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:40  / TO SR-708(136)</name>
+      <Point><coordinates>-73.0303538320588,41.2345260445542</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:63  / TO NORTH HIGH ST(205)</name>
+      <Point><coordinates>-72.5316370878125,41.2879181548878</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:74  / TO SR-161(FLANDERS RD)(237)</name>
+      <Point><coordinates>-72.2118246385815,41.3590304265443</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:81  / TO WATERFORD PKWY SOUTH(324)</name>
+      <Point><coordinates>-72.1721641687996,41.3699199394071</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:8  / TO NORTH STATE ST #2(350)</name>
+      <Point><coordinates>-73.5216922098295,41.0551823939944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:10  / TO LEDGE RD(038)</name>
+      <Point><coordinates>-73.483146682774,41.0712487157138</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:13  / TO US-1(BOSTON POST RD)(048)</name>
+      <Point><coordinates>-73.4561115940407,41.0887879009608</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:34  / TO US-1(BRIDGEPORT AVE)(117)</name>
+      <Point><coordinates>-73.0919697885847,41.2091889377992</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:39B  / TO US-1(134)</name>
+      <Point><coordinates>-73.0386399892585,41.233450663576</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:40  / TO WOODMONT RD #1(138)</name>
+      <Point><coordinates>-73.019455584041,41.240087912848</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:42  / TO SR-162(SAWMILL RD)(360)</name>
+      <Point><coordinates>-72.9711517032843,41.2720824012136</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:83  / JCT SR-623(NORTH FRONTAGE RD)</name>
+      <Point><coordinates>-72.1034103330212,41.3650162180063</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 NB Exit:38  / TO SR-123(205)</name>
+      <Point><coordinates>-73.4545278701176,41.1347650509092</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 NB Exit:41  / TO SR-33(197)</name>
+      <Point><coordinates>-73.3741011798917,41.1637395328133</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 NB Exit:54  / TO SR-796(TR-801)</name>
+      <Point><coordinates>-73.0879785772384,41.2464467302423</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 NB Exit:60  / TO SR-10(220)</name>
+      <Point><coordinates>-72.9258212631827,41.3654991815054</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 NB Exit:64  / TO QUINNIPIAC ST(133)</name>
+      <Point><coordinates>-72.8385944424131,41.4562593186528</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 NB Exit:67  / TO I-91 RAMP 144(146)</name>
+      <Point><coordinates>-72.7704475856577,41.5224392756613</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 NB Exit:68W  / ACCESS TO I-691(TR-802)</name>
+      <Point><coordinates>-72.768377318966,41.534913844607</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 NB Exit:-  / TO SR-9(175)</name>
+      <Point><coordinates>-72.7414959445926,41.6224067714056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 NB Exit:89  / ACCESS TO I-91 NB(TR-861)</name>
+      <Point><coordinates>-72.6604039776835,41.7463993103503</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 SB Exit:53  / TO SR-110(MAIN ST)(095)</name>
+      <Point><coordinates>-73.0974086278972,41.2462065131738</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 SB Exit:55  / TO WELLINGTON RD(100)</name>
+      <Point><coordinates>-73.0728652166843,41.2533974171307</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 SB Exit:57  / TO SR-34(108)</name>
+      <Point><coordinates>-73.0339965817016,41.3056185994463</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 SB Exit:64  / TO QUINNIPIAC ST(212)</name>
+      <Point><coordinates>-72.8366261766368,41.4586533647853</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>190 EB Exit:-  / TO SR-515(FREW TER)(002)</name>
+      <Point><coordinates>-72.6002949935099,41.990337757538</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>190 WB Exit:-  / TO US-5(ENFIELD ST)(003)</name>
+      <Point><coordinates>-72.5919249710742,41.9904947901795</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 EB Exit:5C  / TO MAPLE ST(009)</name>
+      <Point><coordinates>-72.6240784480959,41.733742246462</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 EB Exit:10  / TO SR-83(024)</name>
+      <Point><coordinates>-72.5417637275088,41.67926007651</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 EB Exit:12  / TO WEST RD(030)</name>
+      <Point><coordinates>-72.488541414284,41.6499216677972</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 EB Exit:16  / TO SR-149(037)</name>
+      <Point><coordinates>-72.3995601195457,41.5908622447748</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 EB Exit:19  / JCT SR-11</name>
+      <Point><coordinates>-72.3288052287776,41.5643090081338</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 EB Exit:23  / TO SR-163(062)</name>
+      <Point><coordinates>-72.1638064882444,41.561788670192</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 EB Exit:29  / TO NEW LONDON TPKE(072)</name>
+      <Point><coordinates>-72.0978467688156,41.5443818230685</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 WB Exit:2W  / ACCESS TO I-84(827)</name>
+      <Point><coordinates>-72.6540825396461,41.7633608721519</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 WB Exit:4  / TO SR-502(083)</name>
+      <Point><coordinates>-72.6515270101364,41.7568729774428</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>202 NB Exit:5  / TO SR-841(010)</name>
+      <Point><coordinates>-73.4645164102017,41.4023920730277</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>25 NB Exit:2  / TO LAFAYETTE SQ(125)</name>
+      <Point><coordinates>-73.195205206338,41.1774053985052</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>291 WB Exit:2A  / TO I-91 SB(TR-801)</name>
+      <Point><coordinates>-72.6667762650646,41.8187357371058</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>384 EB Exit:1  / TO SR-502(SPENCER ST)(001)</name>
+      <Point><coordinates>-72.5823552672087,41.7722252931279</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>384 WB Exit:2  / TO KEENEY ST &amp; HARTFORD RD(015)</name>
+      <Point><coordinates>-72.5361787851058,41.7631129772251</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>384 WB Exit:4  / TO SR-534(HIGHLAND ST)(022)</name>
+      <Point><coordinates>-72.4934311471065,41.7643312583189</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>395 NB Exit:35  / JCT SR-695(GOVERNOR J D LODGE TPKE)</name>
+      <Point><coordinates>-71.8720199868427,41.7633001295408</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>395 NB Exit:45  / TO KENNEDY DR(061)</name>
+      <Point><coordinates>-71.898895436224,41.8990627950277</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>395 SB Exit:47  / TO US-44(SCHOOL ST)(071)</name>
+      <Point><coordinates>-71.8829265271553,41.9280291775242</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>395 SB Exit:53  / TO WILSONVILLE RD(081)</name>
+      <Point><coordinates>-71.8562079100869,42.0111922742135</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>40 SB Exit:-  / TO BAILEY RD(007)</name>
+      <Point><coordinates>-72.8693962452278,41.3760031594519</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>40 SB Exit:1  / TO SR-717(DIXWELL AVE)(003)</name>
+      <Point><coordinates>-72.8846172087998,41.3827205494294</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>401 SB Exit:-  / TO SR-20(TR-801)</name>
+      <Point><coordinates>-72.6961913959386,41.9264926272848</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5 NB Exit:-  / TO SR-175(150)</name>
+      <Point><coordinates>-72.704919807444,41.6959153709674</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5 NB Exit:86  / ACCESS TO I-91(TR-826)</name>
+      <Point><coordinates>-72.6644546301456,41.7303889191916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 EB Exit:-  / HOV TO HOV LANE 700(704)</name>
+      <Point><coordinates>-72.6195370569577,41.7671488529018</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 EB Exit:49  / TO HIGH ST #1(188)</name>
+      <Point><coordinates>-72.6813402912264,41.7706373932671</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 EB Exit:-  / TO I-395(TR-802)</name>
+      <Point><coordinates>-71.8757671309103,41.7926330644027</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 WB Exit:-  / TO SR-32(MAIN ST)(013)</name>
+      <Point><coordinates>-72.2375997933185,41.7277959868949</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>623 WB Exit:-  / TO SR-908(COLMAN ST)(003)</name>
+      <Point><coordinates>-72.1132142953407,41.3681870671372</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>66 EB Exit:12  / TO PRESTON AVE(002)</name>
+      <Point><coordinates>-72.7571325159603,41.5349999983777</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>691 EB Exit:10  / TO SR-15(TR-803)</name>
+      <Point><coordinates>-72.7720234578086,41.5397552590642</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>691 WB Exit:9  / TO SR-15(TR-801)</name>
+      <Point><coordinates>-72.7682907184357,41.5394644854422</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>691 WB Exit:7  / TO STATE ST EXT(006)</name>
+      <Point><coordinates>-72.7927237214881,41.5439015439318</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>691 WB Exit:3  / TO SR-10(017)</name>
+      <Point><coordinates>-72.8857200670642,41.5566559001046</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7 NB Exit:4  / TO US-6 &amp; US-202(205)</name>
+      <Point><coordinates>-73.4764217628751,41.3899131919442</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7 NB Exit:5  / TO SR-841(010)</name>
+      <Point><coordinates>-73.4645164102017,41.4023920730277</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7 NB Exit:11  / JCT US-202 NB</name>
+      <Point><coordinates>-73.4132215436442,41.4276971507853</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7 SB Exit:11  / TO US-202(058)</name>
+      <Point><coordinates>-73.4077263335229,41.4333521558356</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>72 NB Exit:33  / JCT SR-72</name>
+      <Point><coordinates>-72.840683117979,41.6704142361477</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>72 NB Exit:2  / TO SR-372(030)</name>
+      <Point><coordinates>-72.8453875054874,41.6730614523747</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>72 SB Exit:9  / TO SR-71(033)</name>
+      <Point><coordinates>-72.7815240561852,41.6694102611344</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 NB Exit:11  / TO HUNTINGTON RD(011)</name>
+      <Point><coordinates>-73.147557078921,41.2526787479822</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 NB Exit:13  / TO CONSTITUTION BLVD SOUTH(020)</name>
+      <Point><coordinates>-73.1006509141544,41.302379291648</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 NB Exit:23  / TO SR-42(136)</name>
+      <Point><coordinates>-73.0675508170732,41.4269304116197</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 NB Exit:27  / TO NORTH MAIN ST &amp; CALVIN ST(065)</name>
+      <Point><coordinates>-73.0508117197815,41.4936360543858</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 NB Exit:42  / TO SR-118(100)</name>
+      <Point><coordinates>-73.1153880214063,41.758844173282</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 SB Exit:13  / TO SR-714(021)</name>
+      <Point><coordinates>-73.0996561463394,41.3044908556357</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 SB Exit:31  / ACCESS TO I-84(TR-809)</name>
+      <Point><coordinates>-73.0553197458216,41.554640472342</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 SB Exit:38  / TO SR-254(090)</name>
+      <Point><coordinates>-73.0783139915571,41.6606689004701</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 SB Exit:46  / TO PINEWOODS RD(119)</name>
+      <Point><coordinates>-73.0715341719185,41.8826880212844</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:35  / JCT SR-72</name>
+      <Point><coordinates>-72.8307435866951,41.6688389356028</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:39  / TO SR-508(WB)(TR-818)</name>
+      <Point><coordinates>-72.794919521677,41.7192861809393</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:18  / TO SR-845(053)</name>
+      <Point><coordinates>-73.067342356243,41.5480711485098</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:39A  / TO SR-9(TR-819)</name>
+      <Point><coordinates>-72.7824765241014,41.7252590852835</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:52  / TO I-91(TR-825)</name>
+      <Point><coordinates>-72.6700502940314,41.7695222784205</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:60  / JCT US-6</name>
+      <Point><coordinates>-72.5735636904468,41.7764383834888</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:63  / TO RTES 30 &amp; 83(247)</name>
+      <Point><coordinates>-72.5205228135805,41.8114516169569</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB-700 Exit:-  / HOV TO BUCKLAND ST(706)</name>
+      <Point><coordinates>-72.556525865739,41.7987180942241</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:54  / TO SR-2(TR-829)</name>
+      <Point><coordinates>-72.6538840627859,41.7669134934754</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:1  / TO SAW MILL RD(238)</name>
+      <Point><coordinates>-73.5338450601384,41.3922610828366</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:5  / TO SR-39(012)</name>
+      <Point><coordinates>-73.4615303983614,41.404859421626</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:11  / TO RAMP 029(031)(TO SSR-490)</name>
+      <Point><coordinates>-73.2637152667045,41.417366781527</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:17  / TO SR-64(050)</name>
+      <Point><coordinates>-73.0803916076259,41.5408562546308</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:28  / TO SR-322(298)</name>
+      <Point><coordinates>-72.9144728258166,41.5629232624699</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:44  / TO KANE ST(112)</name>
+      <Point><coordinates>-72.7155575336834,41.7500825848235</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:51  / TO I-91(TR-826)</name>
+      <Point><coordinates>-72.6666902348906,41.7695616893493</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:69  / TO SR-74(271)</name>
+      <Point><coordinates>-72.309016809127,41.8877364010681</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 NB Exit:12  / TO BOW LA(038)</name>
+      <Point><coordinates>-72.6293430183998,41.5455697042971</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 NB Exit:29  / TO SR-175(067)</name>
+      <Point><coordinates>-72.757281758504,41.6907494722457</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 SB Exit:21  / TO SR-15 &amp; US-5(052)</name>
+      <Point><coordinates>-72.7403215227309,41.624666415463</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 SB Exit:25  / TO ELLIS ST(058)</name>
+      <Point><coordinates>-72.7726545013388,41.6573181784889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 NB Exit:11  / TO US-5 &amp; SR-22(024)</name>
+      <Point><coordinates>-72.8650176334,41.3901355568296</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 NB Exit:18  / TO SR-66(TR-814)</name>
+      <Point><coordinates>-72.7639001594423,41.5362098171388</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 NB Exit:42  / TO SR-569(184)</name>
+      <Point><coordinates>-72.6323353994683,41.9089835166972</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 SB Exit:1  / TO SR-34(TR-802)</name>
+      <Point><coordinates>-72.9142289568426,41.3028496088017</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 SB Exit:10  / TO SR-40(TR-805)</name>
+      <Point><coordinates>-72.8682611095606,41.3790940287644</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 SB Exit:21  / TO SR-372(043)</name>
+      <Point><coordinates>-72.7015972117899,41.6086692380124</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 SB Exit:45  / TO SR-140(106)</name>
+      <Point><coordinates>-72.6084833971982,41.932020951013</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:8  / TO SR-790 (S STATE ST)</name>
+      <Point><coordinates>-73.5419418165383,41.0475487618599</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:13  / TO US-1(BOSTON POST RD)(047)</name>
+      <Point><coordinates>-73.4566478172971,41.0882501521127</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:16  / TO EAST AVE #1(052)</name>
+      <Point><coordinates>-73.4080121187581,41.1080453934945</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:30  / TO SR-113(101)</name>
+      <Point><coordinates>-73.161893350039,41.1748168303468</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:44  / TO SR-10(ELLA T GRASSO BLVD)(365)</name>
+      <Point><coordinates>-72.9385060789332,41.283444382189</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:55  / TO US-1(EAST MAIN ST)(176)</name>
+      <Point><coordinates>-72.7819934574749,41.2937281242123</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:64  / TO SR-145(HORSE HILL RD)(208)</name>
+      <Point><coordinates>-72.4918326341676,41.2929449212978</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:14  / TO US-1(CONNECTICUT AVE)(050)</name>
+      <Point><coordinates>-73.4318759261703,41.1032500761351</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:17  / TO SR-33(SAUGATUCK AVE)(058)</name>
+      <Point><coordinates>-73.3742887540603,41.120508852004</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:18  / TO SSR-476(062)</name>
+      <Point><coordinates>-73.3291191891456,41.1214959834494</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:19  / TO PEASE AVE(067)</name>
+      <Point><coordinates>-73.2835622288313,41.1415632816562</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:27A  / TO SR-8 NB(TR-805)</name>
+      <Point><coordinates>-73.1909084871113,41.1720084464177</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:39A  / TO US-1(131)</name>
+      <Point><coordinates>-73.0422492352077,41.2344718635695</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:44  / TO SR-10(ELLA T GRASSO BLVD)(368)</name>
+      <Point><coordinates>-72.9310042715544,41.2846646303505</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:51  / TO US-1(319)</name>
+      <Point><coordinates>-72.8759687257026,41.2853841182395</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:55  / TO US-1(EAST MAIN ST)(175)</name>
+      <Point><coordinates>-72.7848107344154,41.2944216971171</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:65  / TO SR-153(ESSEX RD)(215)</name>
+      <Point><coordinates>-72.4411383498172,41.291633144968</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:91  / TO TAUGWONK RD(280)</name>
+      <Point><coordinates>-71.8997916010738,41.3812900707432</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:92  / TO SR-49(283)</name>
+      <Point><coordinates>-71.8415868945239,41.4219105491873</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 NB Exit:40B  / TO SR-719(045)</name>
+      <Point><coordinates>-73.4249412136595,41.1427316892576</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 NB Exit:63  / TO SR-22(129)</name>
+      <Point><coordinates>-72.8770700504491,41.3913798635377</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 SB Exit:27  / TO NY SR-120A(004)</name>
+      <Point><coordinates>-73.67452264018,41.0385489528836</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 SB Exit:36  / TO SR-106(194)</name>
+      <Point><coordinates>-73.4996209073753,41.11727495316</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 SB Exit:40A  / TO SR-719(044)</name>
+      <Point><coordinates>-73.4260004782808,41.1426758834851</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 SB Exit:44  / TO SR-58(087)</name>
+      <Point><coordinates>-73.2695302508164,41.2041197588975</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 SB Exit:46  / TO SR-713(066)</name>
+      <Point><coordinates>-73.25498471938,41.2203313810679</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 SB Exit:-  / TO SSR-424(154)</name>
+      <Point><coordinates>-72.7041944311935,41.6998485555684</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 EB Exit:6  / TO GRISWOLD ST(080)</name>
+      <Point><coordinates>-72.611982524667,41.7271613060981</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 EB Exit:18  / TO SR-16(044)</name>
+      <Point><coordinates>-72.3378803484434,41.569802406726</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 EB Exit:22  / TO SCOTT HILL RD(056)</name>
+      <Point><coordinates>-72.2129888277582,41.5694069289381</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 EB Exit:-  / TO SR-680(FOXWOODS BLVD)(091)</name>
+      <Point><coordinates>-71.9548646882795,41.4739600152559</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 WB Exit:2E  / ACCESS TO SR-500(TR-801)</name>
+      <Point><coordinates>-72.6538563237068,41.762499522857</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 WB Exit:8  / TO SR-910(OAK ST)(020)</name>
+      <Point><coordinates>-72.5879317106356,41.7120907019495</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 WB Exit:16  / TO SR-149(039)</name>
+      <Point><coordinates>-72.3945480622468,41.591442749326</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 WB Exit:18  / TO SR-16(045)</name>
+      <Point><coordinates>-72.3347922556804,41.568579631536</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>25 SB Exit:8B 8A / TO SR-15 &amp; SR-15</name>
+      <Point><coordinates>-73.1902489807801,41.2416970365866</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3 SB Exit:-  / TO I-91(TR-803)</name>
+      <Point><coordinates>-72.6435383474551,41.7111657587135</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>395 NB Exit:11  / TO SR-82(009)</name>
+      <Point><coordinates>-72.1148561302256,41.5068403351636</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>395 NB Exit:29  / TO SR-14A(040)</name>
+      <Point><coordinates>-71.9080968153074,41.6819917010479</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>395 NB Exit:37  / TO US-6(TR-806)</name>
+      <Point><coordinates>-71.8766648413777,41.7933486395231</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>395 NB Exit:46  / TO HERITAGE RD(064)</name>
+      <Point><coordinates>-71.8929149765213,41.9065785916755</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>395 SB Exit:5  / JCT SR-693(MONTVILLE CONNECTOR)</name>
+      <Point><coordinates>-72.1237330209155,41.430337510621</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>395 SB Exit:6  / TO SR-163(008)</name>
+      <Point><coordinates>-72.1179124220551,41.4475134325258</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>395 SB Exit:11  / TO SR-82(013)</name>
+      <Point><coordinates>-72.1183611612058,41.5126888969797</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>395 SB Exit:18  / TO SR-97(021)</name>
+      <Point><coordinates>-72.0486608097576,41.5852848853542</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>395 SB Exit:37A  / TO US-6 EB(TR-805)</name>
+      <Point><coordinates>-71.8769072652953,41.7930785520339</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>395 SB Exit:41  / TO SR-101(HARTFORD PIKE)(054)</name>
+      <Point><coordinates>-71.8795560905988,41.8458789011267</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>40 NB Exit:1  / TO SR-720(DEVINE ST)(001)</name>
+      <Point><coordinates>-72.8802981177871,41.3781765711968</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5 NB Exit:87  / TO BRAINARD RD(160)</name>
+      <Point><coordinates>-72.6634107646037,41.7347553720891</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>598 EB Exit:-  / TO I-91 NB(TR-803)</name>
+      <Point><coordinates>-72.667405214663,41.7603988120197</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 EB Exit:51  / TO I-91(TR-839)</name>
+      <Point><coordinates>-72.6766366733347,41.7701914722824</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 EB Exit:-  / TO HORSE HILL RD(002)</name>
+      <Point><coordinates>-71.8437111942125,41.7894624266498</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>691 EB Exit:11  / ACCESS TO I-91(TR-816)</name>
+      <Point><coordinates>-72.7621448370406,41.5369189930699</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>691 EB Exit:8  / TO US-5(BROAD ST)(003)</name>
+      <Point><coordinates>-72.7851158237879,41.5426245139581</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>691 WB Exit:10  / ACCESS TO I-91(TR-813)</name>
+      <Point><coordinates>-72.7622246872536,41.5379870479982</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7 NB Exit:9  / ACCESS TO I-84(TR-802)</name>
+      <Point><coordinates>-73.4753813608599,41.3830387545347</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7 NB Exit:2  / TO SR-123(009)</name>
+      <Point><coordinates>-73.425854457303,41.1257528867348</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7 SB Exit:-  / ACCESS TO I-95(TR-801)</name>
+      <Point><coordinates>-73.4191447031878,41.1097568957036</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>72 NB Exit:7  / TO SR-372(022)</name>
+      <Point><coordinates>-72.8024352546664,41.6644019134588</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>72 SB Exit:7  / TO SR-372(CORBIN AVE)(023)</name>
+      <Point><coordinates>-72.8087703117745,41.6634625068693</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 NB Exit:4  / TO LINDLEY ST(004)</name>
+      <Point><coordinates>-73.1950578039522,41.1949802867096</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 NB Exit:15  / TO SR-34(028)</name>
+      <Point><coordinates>-73.0853150862659,41.3161756095982</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 NB Exit:18  / TO DIVISION ST(036)</name>
+      <Point><coordinates>-73.0921918968626,41.3370183240323</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 NB Exit:19  / TO SR-334(038)</name>
+      <Point><coordinates>-73.0930024292779,41.355461745488</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 NB Exit:41  / TO CAMPVILLE RD(097)</name>
+      <Point><coordinates>-73.0981728404551,41.7246747168053</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 SB Exit:12  / TO OLD STRATFORD RD(018)</name>
+      <Point><coordinates>-73.1154041876317,41.2765356985526</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 SB Exit:15  / TO SR-34(029)</name>
+      <Point><coordinates>-73.0844717804501,41.3183652404609</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 SB Exit:27  / TO SR-709 &amp; MAPLE ST(062)</name>
+      <Point><coordinates>-73.0510216539222,41.4920170450165</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 SB Exit:44  / TO SR-4 &amp; SR-836(110)</name>
+      <Point><coordinates>-73.1139004936915,41.8111219738427</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:2  / TO SR-824 &amp; REST AREA(243)</name>
+      <Point><coordinates>-73.5272878681665,41.3925342763407</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:14  / TO SR-172(036)</name>
+      <Point><coordinates>-73.2384664641265,41.4549086182733</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:19  / TO SR-8(TR-805)</name>
+      <Point><coordinates>-73.0581069196475,41.5503966167816</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:32  / TO SR-10(096)</name>
+      <Point><coordinates>-72.8733739738617,41.6320366454381</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:48A 48B / TO ASYLUM ST &amp; CAPITOL AVE</name>
+      <Point><coordinates>-72.6880428218728,41.7659616496725</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:53  / JCT US-44</name>
+      <Point><coordinates>-72.6631413442252,41.7694376287031</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB-700 Exit:-  / HOV TO RTES 30 &amp; 83(708)</name>
+      <Point><coordinates>-72.5076329768678,41.8189745422772</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:42  / TO TROUT BROOK DR(204)</name>
+      <Point><coordinates>-72.7354920925751,41.7448725459534</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:10  / TO SR-816(025)</name>
+      <Point><coordinates>-73.2910027459687,41.4180090560455</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:22  / TO UNION ST(059)</name>
+      <Point><coordinates>-73.0274747927696,41.5484071343387</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:25  / TO SCOTT RD(076)</name>
+      <Point><coordinates>-72.9911243597324,41.5422297125459</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:33  / JCT SR-72</name>
+      <Point><coordinates>-72.840683117979,41.6704142361477</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:59  / TO I-384(305)</name>
+      <Point><coordinates>-72.5657725276741,41.787227990275</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:67  / TO SR-31(263)</name>
+      <Point><coordinates>-72.4258101207438,41.8552689177544</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:73  / TO SR-190(287)</name>
+      <Point><coordinates>-72.1812079585153,41.9784347918529</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 NB Exit:20S  / ACCESS TO I-91(TR-821)</name>
+      <Point><coordinates>-72.6897942730062,41.6260333701035</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 NB Exit:19  / TO SR-372(045)</name>
+      <Point><coordinates>-72.6717726061039,41.6009198806331</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 SB Exit:13  / JCT SR-17</name>
+      <Point><coordinates>-72.6431771305789,41.5570385130388</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 SB Exit:22  / TO SR-372(054)</name>
+      <Point><coordinates>-72.7461081675904,41.6266443661764</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 SB Exit:23  / TO CHRISTIAN LA(056)</name>
+      <Point><coordinates>-72.753776311945,41.637821594071</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 NB Exit:29A  / JCT SR-598(WHITE HEAD HWY)</name>
+      <Point><coordinates>-72.6626729930968,41.7573302169119</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 NB Exit:8  / TO SR-80(FOXON BLVD)(016)</name>
+      <Point><coordinates>-72.8843224534182,41.32292442548</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 NB Exit:16  / TO EAST MAIN ST #1(144)</name>
+      <Point><coordinates>-72.7710220543806,41.5192922270749</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 NB Exit:28  / TO US-5 &amp; SR-15(TR-828)</name>
+      <Point><coordinates>-72.6643577496319,41.7349087824652</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 NB Exit:38  / TO SR-75(170)</name>
+      <Point><coordinates>-72.6623915597375,41.8742494643859</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 NB Exit:45  / TO SR-140(105)</name>
+      <Point><coordinates>-72.6089668035391,41.9283789982593</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 SB Exit:22S  / TO SR-9(TR-823)</name>
+      <Point><coordinates>-72.6875495275178,41.6322854099254</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 SB Exit:7  / TO MIDDLETOWN AVE(015)</name>
+      <Point><coordinates>-72.8929134184782,41.3196787105081</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 SB Exit:8  / TO SR-17(018)</name>
+      <Point><coordinates>-72.8807374446563,41.3270480924666</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 SB Exit:12  / TO US-5(028)</name>
+      <Point><coordinates>-72.8477528091593,41.4002755358358</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 SB Exit:15  / TO SR-68(037)</name>
+      <Point><coordinates>-72.7690026533864,41.4831552695758</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 SB Exit:18  / TO I-691(TR-854)</name>
+      <Point><coordinates>-72.7598066212536,41.5390754594577</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 SB Exit:31  / TO SR-2(TR-839)</name>
+      <Point><coordinates>-72.6686137316562,41.7696391637309</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 SB Exit:44  / TO US-5(103)</name>
+      <Point><coordinates>-72.609670319168,41.9257842421089</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 SB Exit:47E  / TO SR-190(TR-848)</name>
+      <Point><coordinates>-72.5881042480378,41.9891402898989</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:15  / JCT US-7 NB</name>
+      <Point><coordinates>-73.425992036139,41.1054513825718</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:21  / TO MILL PLAIN RD(070)</name>
+      <Point><coordinates>-73.26815567982,41.1430728840709</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:32  / TO BEARDSLEY AVE(108)</name>
+      <Point><coordinates>-73.1354854759868,41.1884834340109</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:39A  / TO US-1(128)</name>
+      <Point><coordinates>-73.0455252489595,41.2351948176529</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:39B  / TO US-1(132)</name>
+      <Point><coordinates>-73.0413505069905,41.2340112616189</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:41  / TO MARSH HILL RD(351)</name>
+      <Point><coordinates>-73.0035973395245,41.2500958472218</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:62  / TO SSR-450(200)</name>
+      <Point><coordinates>-72.5739244666232,41.2907478276885</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:73  / TO SOCIETY RD(235)</name>
+      <Point><coordinates>-72.2267171323015,41.34640671574</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:75  / TO US-1(BOSTON POST RD)(293)</name>
+      <Point><coordinates>-72.202706978323,41.3689886075764</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:11  / TO US-1(BOSTON POST RD)(041)</name>
+      <Point><coordinates>-73.4705709269287,41.0737738296778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:22  / TO SR-135(075)</name>
+      <Point><coordinates>-73.2486399694625,41.1505299500875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:23  / TO US-1(078)</name>
+      <Point><coordinates>-73.2446680158833,41.1579837162964</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:26  / TO WORDIN AVE #2(091)</name>
+      <Point><coordinates>-73.2014193240632,41.167849125667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:35  / TO SCHOOL HOUSE RD(121)</name>
+      <Point><coordinates>-73.0865278045744,41.2147664385933</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:46  / TO SARGENT DR(329)</name>
+      <Point><coordinates>-72.9210257102738,41.291830777641</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:54  / TO SR-740(CEDAR ST)(173)</name>
+      <Point><coordinates>-72.8169204509673,41.2888408803745</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:60  / TO MUNGERTOWN RD(194)</name>
+      <Point><coordinates>-72.622989461143,41.2883841824259</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:62  / TO SSR-450(203)</name>
+      <Point><coordinates>-72.5659870648757,41.2903537360688</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:88  / TO SR-117(NORTH RD)(268)</name>
+      <Point><coordinates>-72.0215603141128,41.3634707867705</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:90  / TO SR-27(276)</name>
+      <Point><coordinates>-71.9537002951481,41.3751107051933</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1 NB Exit:-  / TO BRIDGE ST #1(001)</name>
+      <Point><coordinates>-72.0776040286371,41.3640547056138</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>11 SB Exit:6  / TO SR-637 &amp; LAKE HAYWARD RD(017)</name>
+      <Point><coordinates>-72.325159784667,41.5609506481914</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 NB Exit:27  / TO NY SR-120A(001)</name>
+      <Point><coordinates>-73.6751280667953,41.0373377306442</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 NB Exit:31  / TO NORTH ST #1(015)</name>
+      <Point><coordinates>-73.631647929852,41.0938763838478</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 NB Exit:35  / TO SR-137(026)</name>
+      <Point><coordinates>-73.5502482354998,41.1103774519691</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 NB Exit:52  / TO SR-8(TR-808)</name>
+      <Point><coordinates>-73.1605157044262,41.2377471798309</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 NB Exit:-  / TO SR-175(150)</name>
+      <Point><coordinates>-72.704919807444,41.6959153709674</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 NB Exit:86  / ACCESS TO I-91(TR-826)</name>
+      <Point><coordinates>-72.6644546301456,41.7303889191916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 SB Exit:38  / TO SR-123(204)</name>
+      <Point><coordinates>-73.4574250933345,41.1333569103527</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 SB Exit:48  / TO SR-111(076)</name>
+      <Point><coordinates>-73.2175746414585,41.2320561407229</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 SB Exit:50  / TO SR-127(190)</name>
+      <Point><coordinates>-73.1765695449945,41.237343452273</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 SB Exit:56  / TO SR-915(104)</name>
+      <Point><coordinates>-73.0422435038719,41.2867797836006</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 SB Exit:58  / TO SR-34(112)</name>
+      <Point><coordinates>-73.0327924480173,41.3085726221798</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 SB Exit:60  / TO SR-10(119)</name>
+      <Point><coordinates>-72.9228129364017,41.3658280665867</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 SB Exit:63  / TO SR-725(132)</name>
+      <Point><coordinates>-72.8739232380002,41.3941060762852</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 SB Exit:67W  / TO EAST MAIN ST #1(148)</name>
+      <Point><coordinates>-72.7692724855171,41.5337087235818</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 SB Exit:90  / TO SR-502(179)</name>
+      <Point><coordinates>-72.6412212058982,41.7594941160517</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>17 SB Exit:-  / TO MAIN ST EXT(010)</name>
+      <Point><coordinates>-72.6440640558891,41.554466141512</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>17 SB Exit:-  / TO HUBBARD ST(001)</name>
+      <Point><coordinates>-72.6012962282576,41.7038306796388</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>184 EB Exit:1  / TO SR-12(007)</name>
+      <Point><coordinates>-72.067685970781,41.3662826932499</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 EB Exit:5B  / TO SUTTON AVE(007)</name>
+      <Point><coordinates>-72.6289170133288,41.7382049086055</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 EB Exit:-  / TO SR-680(FOXWOODS BLVD)(088)</name>
+      <Point><coordinates>-71.9689962644564,41.4832790762937</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 WB Exit:13  / TO SR-66(033)</name>
+      <Point><coordinates>-72.4561832483144,41.6330449083932</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 WB Exit:27  / TO OTROBANDO AVE(069)</name>
+      <Point><coordinates>-72.1173232087542,41.5522652344645</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>20 EB Exit:-  / TO HAMILTON RD(001)</name>
+      <Point><coordinates>-72.6890467690647,41.9185548361366</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>20 EB Exit:-  / TO SR-75(005)</name>
+      <Point><coordinates>-72.6787770947419,41.9172348967228</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>20 EB Exit:-  / TO KENNEDY RD(009)</name>
+      <Point><coordinates>-72.6577875130859,41.9061034275016</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>25 SB Exit:6  / TO OLD TOWN RD(002)</name>
+      <Point><coordinates>-73.1829638053599,41.224258296754</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>25 SB Exit:9  / TO SR-739(PARK ST)(008)</name>
+      <Point><coordinates>-73.2026141960546,41.2549846361672</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>291 WB Exit:1  / TO SR-218(002)</name>
+      <Point><coordinates>-72.6665241617566,41.8188076436048</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>291 WB Exit:3  / TO DEERFIELD RD(004)</name>
+      <Point><coordinates>-72.6510387233562,41.8149248095757</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2A EB Exit:6  / TO MOHEGAN SUN BLVD(PVT)(005)</name>
+      <Point><coordinates>-72.0840094639126,41.4810264999082</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3 NB Exit:-  / TO I-91(TR-804)</name>
+      <Point><coordinates>-72.6446896687882,41.7084665775584</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3 NB Exit:-  / TO GLASTONBURY BLVD(001)</name>
+      <Point><coordinates>-72.6243813623131,41.7233449618243</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3 SB Exit:-  / TO PUTNAM BLVD(004)</name>
+      <Point><coordinates>-72.618948217847,41.7244992395233</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>32 NB Exit:27  / TO OTROBANDO AVE(069)</name>
+      <Point><coordinates>-72.1173232087542,41.5522652344645</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>349 NB Exit:3A  / TO US-1(001)</name>
+      <Point><coordinates>-72.0668640333793,41.3590342415667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>395 NB Exit:49  / TO SR-12(RIVERSIDE DR)(072)</name>
+      <Point><coordinates>-71.8809625672103,41.9490586854966</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>395 NB Exit:14  / TO SR-642(WEST TOWN ST)(015)</name>
+      <Point><coordinates>-72.1068903214065,41.5507713026993</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>395 NB Exit:53  / TO WILSONVLLE RD(079)</name>
+      <Point><coordinates>-71.8535605559432,42.0059636739685</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>395 SB Exit:21A  / TO SR-12(028)</name>
+      <Point><coordinates>-71.9887504868066,41.5894319456006</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>395 SB Exit:29  / TO SR-14A(042)</name>
+      <Point><coordinates>-71.9076723166859,41.6868131171299</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>395 SB Exit:32  / TO SR-14(047)</name>
+      <Point><coordinates>-71.8931576402805,41.7222962303133</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>395 SB Exit:43  / TO ATTAWAUGAN CROSSING RD(058)</name>
+      <Point><coordinates>-71.8911813860107,41.869445793129</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5 NB Exit:-  / TO SR-372(174)</name>
+      <Point><coordinates>-72.7405475800833,41.6260346088218</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>500 SB Exit:-  / TO I-84(TR-803)</name>
+      <Point><coordinates>-72.651875590223,41.7689622773969</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>571 EB Exit:-  / TO SR-71(001)</name>
+      <Point><coordinates>-72.7753606230577,41.6463456190334</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 EB Exit:7  / JCT US-7</name>
+      <Point><coordinates>-73.4281504424941,41.4170923277077</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 EB Exit:13  / TO FISH ROCK RD(033)</name>
+      <Point><coordinates>-73.2494088959072,41.4436867642755</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>623 WB Exit:-  / TO SR-636(BRIGGS ST)(001)</name>
+      <Point><coordinates>-72.1097679616591,41.3669733301653</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>691 WB Exit:6  / TO LEWIS AVE(010)</name>
+      <Point><coordinates>-72.805366463613,41.5476346160357</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>695 WB Exit:1  / TO SQUAW ROCK RD(001)</name>
+      <Point><coordinates>-71.8669415300713,41.7681184713696</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7 SB Exit:-  / TO WEST AVE(001)</name>
+      <Point><coordinates>-73.4192655154991,41.1086482288887</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>72 NB Exit:6  / ACCESS TO I-84(TR-816)</name>
+      <Point><coordinates>-72.8182231447979,41.6666862703739</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>72 SB Exit:-  / TO SR-9(TR-801)</name>
+      <Point><coordinates>-72.7783186471842,41.6694573221073</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>72 SB Exit:8  / TO LAKE ST(019)</name>
+      <Point><coordinates>-72.790953648883,41.667176120776</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 NB Exit:-  / JCT SR-25(COL H MUCCI HWY)</name>
+      <Point><coordinates>-73.1810383775413,41.2177339470472</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 NB Exit:33  / ACCESS TO I-84(TR-808)</name>
+      <Point><coordinates>-73.0505508762244,41.5507963520772</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 NB Exit:2  / TO LAFAYETTE SQ(125)</name>
+      <Point><coordinates>-73.195205206338,41.1774053985052</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 NB Exit:9  / TO SR-15(801)</name>
+      <Point><coordinates>-73.1559621986646,41.2324916341809</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 NB Exit:22  / TO WAKELEY ST(046)</name>
+      <Point><coordinates>-73.0759714003897,41.3942856177787</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 NB Exit:37  / TO SR-262(085)</name>
+      <Point><coordinates>-73.0656698490837,41.6032823734137</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 NB Exit:45  / TO KENNEDY DR(113)</name>
+      <Point><coordinates>-73.1072907325318,41.8276775659322</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 NB Exit:46  / TO PINEWOODS RD(116)</name>
+      <Point><coordinates>-73.0725840247146,41.8754623290543</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 SB Exit:2  / TO SR-700(126)</name>
+      <Point><coordinates>-73.1946254450854,41.1804692942788</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 SB Exit:8  / TO SR-108(142)</name>
+      <Point><coordinates>-73.1565102310165,41.232391612369</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 SB Exit:10  / TO SR-15(809)</name>
+      <Point><coordinates>-73.1515020186688,41.2431902926871</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 SB Exit:20  / TO DERBY AVE(043)</name>
+      <Point><coordinates>-73.0843149418294,41.3734245772952</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 SB Exit:22  / TO SR-67(049)</name>
+      <Point><coordinates>-73.0683756947952,41.4006438961204</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 SB Exit:33  / ACCESS TO I-84(TR-807)</name>
+      <Point><coordinates>-73.055636598088,41.5565257229264</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:13  / TO FISH ROCK RD(033)</name>
+      <Point><coordinates>-73.2494088959072,41.4436867642755</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:16  / TO SR-188(046)</name>
+      <Point><coordinates>-73.1604109464937,41.4946946071088</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:17  / TO SR-63(048)</name>
+      <Point><coordinates>-73.0877881268614,41.5330852245641</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:21  / TO MEADOW ST #1(197)</name>
+      <Point><coordinates>-73.0465561094918,41.5518458061434</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:28  / TO SR-322(295)</name>
+      <Point><coordinates>-72.9191415906695,41.5591950379642</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:58  / TO SR-518(ROBERTS ST)(117)</name>
+      <Point><coordinates>-72.6306696672221,41.7636550029382</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:69  / TO SR-74(270)</name>
+      <Point><coordinates>-72.3151137211319,41.8846853334309</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:26  / TO SR-70(362)</name>
+      <Point><coordinates>-72.9475962901493,41.5419494387869</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:31  / TO SR-229(093)</name>
+      <Point><coordinates>-72.8971148314695,41.6149110638727</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:71  / TO SR-320(280)</name>
+      <Point><coordinates>-72.2571100906255,41.9255608506466</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:72  / TO SR-89(284)</name>
+      <Point><coordinates>-72.1931424163515,41.9624303293453</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB-701 Exit:-  / HOV TO SR-502(SILVER LA)(703)</name>
+      <Point><coordinates>-72.6283046663386,41.7649665386795</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB-701 Exit:-  / HOV TO I-84(705)</name>
+      <Point><coordinates>-72.5953359109991,41.7723961976153</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 NB Exit:2  / TO ESSEX RD(002)</name>
+      <Point><coordinates>-72.3725584341254,41.3218587663544</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 NB Exit:11  / TO SR-155(034)</name>
+      <Point><coordinates>-72.6167690193546,41.5310600319869</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 NB Exit:26  / TO COLUMBUS-BLVD(065)</name>
+      <Point><coordinates>-72.774034568009,41.6613699650451</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 NB Exit:31  / TO I-84</name>
+      <Point><coordinates>-72.7706713347002,41.7237461154564</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 SB Exit:7  / JCT SR-82</name>
+      <Point><coordinates>-72.4917116015798,41.4174970928755</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 SB Exit:14  / TO DEKOVEN DR(041)</name>
+      <Point><coordinates>-72.6458171691349,41.5601581581829</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 NB Exit:6  / TO WILLOW ST(141)</name>
+      <Point><coordinates>-72.9054977673596,41.3162278829958</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 NB Exit:17  / TO SR-15(TR-810)</name>
+      <Point><coordinates>-72.7712703841573,41.5213029432416</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 NB Exit:22N 22S / TO SR-9 &amp; SR-9(TR-820)</name>
+      <Point><coordinates>-72.6957387368877,41.6172156070749</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 NB Exit:23  / TO SSR-411(WEST ST)(044)</name>
+      <Point><coordinates>-72.6741597167447,41.6460149320577</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 NB Exit:27  / TO BRAINARD RD(147)</name>
+      <Point><coordinates>-72.6613276462329,41.7308958921892</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 NB Exit:37  / TO SR-305(159)</name>
+      <Point><coordinates>-72.6644484186292,41.8492940706308</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 NB-700 Exit:-  / HOV TO SR-305(706)</name>
+      <Point><coordinates>-72.6646891522867,41.8481986879644</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 SB Exit:23  / TO SSR-411(047)</name>
+      <Point><coordinates>-72.672362399406,41.6536555554118</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 SB Exit:25S  / TO SR-3(TR-856)</name>
+      <Point><coordinates>-72.6462287155697,41.7103119416457</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 SB Exit:41 39 / TO SOUTH CENTER ST(177)</name>
+      <Point><coordinates>-72.6328089593761,41.9084829930578</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 SB Exit:42  / TO SR-159(181)</name>
+      <Point><coordinates>-72.6277451103145,41.9157685804379</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:9  / TO SEASIDE AVE(031)</name>
+      <Point><coordinates>-73.5144047941068,41.0568700706677</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:14  / TO FAIRFIELD AVE(299)</name>
+      <Point><coordinates>-73.4280326363236,41.1047843343513</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:19  / TO CENTER ST(065)</name>
+      <Point><coordinates>-73.2930369819669,41.1348835744817</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:24  / TO US-1(080)</name>
+      <Point><coordinates>-73.2390237063098,41.1635549175346</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:46  / TO LONG WHARF DR(326)</name>
+      <Point><coordinates>-72.9248916599293,41.2871204818548</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:50  / TO WOODWARD AVE(346)</name>
+      <Point><coordinates>-72.9003157724648,41.2922981848366</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:54  / TO SR-740(CEDAR ST)(171)</name>
+      <Point><coordinates>-72.8233955042422,41.2876802549797</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:56  / TO LEETES ISLAND RD(178)</name>
+      <Point><coordinates>-72.7680234951716,41.2948340737763</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:59  / TO SR-718(GOOSE LA)(191)</name>
+      <Point><coordinates>-72.6668074257434,41.2899263037571</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:67  / TO SR-154(222)</name>
+      <Point><coordinates>-72.3820410621447,41.3042808373055</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:87  / TO SR-349 SB(TR-827)</name>
+      <Point><coordinates>-72.0600905905997,41.3623658255175</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:89  / TO SR-614(ALLYN ST)(269)</name>
+      <Point><coordinates>-71.9859233045766,41.3718918033125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:90  / TO SR-27(273)</name>
+      <Point><coordinates>-71.963046830075,41.3740320842116</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:93  / TO SR-216(286)</name>
+      <Point><coordinates>-71.8018468163193,41.4383156137797</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:2  / TO LOUDEN ST(004)</name>
+      <Point><coordinates>-73.6480225450582,41.0067035527459</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:4  / TO INDIAN FIELD RD(012)</name>
+      <Point><coordinates>-73.6026878772241,41.0280220656522</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:5  / TO US-1(016)</name>
+      <Point><coordinates>-73.576274165724,41.0416587479796</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:15  / TO US-7 NB(TR-803)</name>
+      <Point><coordinates>-73.4137532975375,41.1067995072755</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:16  / TO EAST AVE #1(053)</name>
+      <Point><coordinates>-73.4039780149552,41.1095264656832</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:20  / TO BRONSON RD(069)</name>
+      <Point><coordinates>-73.2744499515332,41.1423350850187</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:25  / TO SR-130(087)</name>
+      <Point><coordinates>-73.2135666114061,41.1665776075755</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:29  / TO SEAVIEW AVE(355)</name>
+      <Point><coordinates>-73.1691846191641,41.1758670286309</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:31  / TO SOUTH AVE #1(107)</name>
+      <Point><coordinates>-73.1384286874503,41.1851106521789</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:38  / TO SR-796 NB(TR-810)</name>
+      <Point><coordinates>-73.0678321729843,41.2344420400259</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:61  / TO SR-79(DURHAM RD)(199)</name>
+      <Point><coordinates>-72.5968982292661,41.2886734235664</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:68  / TO SR-628(289)</name>
+      <Point><coordinates>-72.363838205585,41.3129168871727</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:80  / TO WATERFORD PARKWAY NORTH(244)</name>
+      <Point><coordinates>-72.1874837516505,41.3746028908043</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:84S 84N 84E/ TO SR-32 &amp; SR-32 &amp; SR-635 SB</name>
+      <Point><coordinates>-72.0998822225692,41.3643095093728</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 NB Exit:28  / TO ROUND HILL RD(005)</name>
+      <Point><coordinates>-73.6656305074894,41.0822029706473</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 NB Exit:33  / TO DEN RD #2(018)</name>
+      <Point><coordinates>-73.5769390404786,41.100890358838</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 NB Exit:34  / TO SR-104(222)</name>
+      <Point><coordinates>-73.5703531864933,41.1013582650415</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 NB Exit:36  / TO SR-106(191)</name>
+      <Point><coordinates>-73.501388321999,41.1173939754051</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 NB Exit:39A  / TO US-7(TR-811)</name>
+      <Point><coordinates>-73.4385699053652,41.1392994101965</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 NB Exit:49N  / TO SR-25(TR-806)</name>
+      <Point><coordinates>-73.1899725143699,41.2357207646975</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 NB Exit:51  / TO SR-108(201)</name>
+      <Point><coordinates>-73.1654387397716,41.237577294529</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 NB Exit:53  / TO SR-110(MAIN ST)(216)</name>
+      <Point><coordinates>-73.1087618739223,41.2433339499044</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 NB Exit:57  / TO SR-34(105)</name>
+      <Point><coordinates>-73.0341914594276,41.3039509101502</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 SB Exit:31  / TO NORTH ST #1(014)</name>
+      <Point><coordinates>-73.6331786754644,41.0951739609254</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 SB Exit:40B  / TO SR-719(048)</name>
+      <Point><coordinates>-73.4237046078692,41.1430866450864</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 SB Exit:65  / TO SR-150(140)</name>
+      <Point><coordinates>-72.8309254488032,41.4667348005877</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 SB Exit:86  / ACCESS TO I-91(TR-832)</name>
+      <Point><coordinates>-72.6600605283138,41.7477785459678</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>17 SB Exit:-  / TO NEW LONDON TPKE(007)</name>
+      <Point><coordinates>-72.5982706395367,41.7107042774649</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 NB Exit:32A 32B / COLLECTOR DISTRIBUTOR RDWY TO I-84 &amp; TRUMBULL ST</name>
+      <Point><coordinates>-72.6653940084956,41.7605106691137</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 NB Exit:-  / BGN I-91 HOV LANE(700)</name>
+      <Point><coordinates>-72.6585582074331,41.7858837443299</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 NB Exit:29  / TO US-5 &amp; SR-15(TR-830)</name>
+      <Point><coordinates>-72.658823025908,41.7478485336171</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 NB Exit:35A 35B / TO I-291 &amp; SR-218</name>
+      <Point><coordinates>-72.6631694212505,41.8109849705923</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 NB Exit:46  / TO US-5(KING ST)(109)</name>
+      <Point><coordinates>-72.5999889206697,41.9535927359956</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 NB-700 Exit:-  / HOV TO SR-218(704)</name>
+      <Point><coordinates>-72.6645807699219,41.8148994624943</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 NB-700 Exit:-  / HOV TO SR-75(708)</name>
+      <Point><coordinates>-72.662503445144,41.8689088243491</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 SB Exit:-  / TO I-95(TR-803)</name>
+      <Point><coordinates>-72.9143271751449,41.3047586100158</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 SB Exit:-  / BGN I-91 HOV LANE(701)</name>
+      <Point><coordinates>-72.6559221657365,41.8866502540059</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 SB Exit:4  / TO HUMPHREY ST(137)</name>
+      <Point><coordinates>-72.9082190066275,41.3154547460093</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 SB Exit:6  / TO WILLOW ST(143)</name>
+      <Point><coordinates>-72.8995563929951,41.3185598061454</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 SB Exit:22N  / TO SR-9(TR-819)</name>
+      <Point><coordinates>-72.6897944423219,41.6301209430162</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 SB Exit:26  / TO GREAT MEADOW RD(058)</name>
+      <Point><coordinates>-72.6492019194237,41.7159993476454</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 SB Exit:32A 32B / TO I-84 &amp; TRUMBULL ST</name>
+      <Point><coordinates>-72.6683536691723,41.7747794041477</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 SB Exit:33  / TO JENNINGS RD(164)(PVT)</name>
+      <Point><coordinates>-72.6563618261286,41.7899024605945</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 SB Exit:34  / TO SR-159(199)</name>
+      <Point><coordinates>-72.6603368861641,41.8060295733462</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 SB Exit:36  / TO SR-178(209)</name>
+      <Point><coordinates>-72.6652608620658,41.8422236698492</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 SB Exit:49  / TO US-5(127)</name>
+      <Point><coordinates>-72.5895642216125,42.0238101000507</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:76  / JCT I-395(GOVERNOR J D LODGE TPKE)</name>
+      <Point><coordinates>-72.1956524424755,41.3739545355385</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:11  / TO US-1(040)</name>
+      <Point><coordinates>-73.4790920959417,41.0715379056194</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:27A  / JCT SR-8 &amp; 25</name>
+      <Point><coordinates>-73.1926660861841,41.1709749121118</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:34  / TO I-95 RAMP 117(114)</name>
+      <Point><coordinates>-73.096466564127,41.2075282829276</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:42  / TO SR-162(SAWMILL RD)(361)</name>
+      <Point><coordinates>-72.9714328663295,41.2712015895717</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:51  / TO US-1(167)</name>
+      <Point><coordinates>-72.8891143693863,41.2885971567926</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:57  / TO US-1(BOSTON POST RD)(182)</name>
+      <Point><coordinates>-72.7085028206942,41.2970901048197</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:61  / TO SR-79(DURHAM RD)(196)</name>
+      <Point><coordinates>-72.6067853168252,41.2877151370925</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:82  / TO SR-85(BROAD ST)(250)</name>
+      <Point><coordinates>-72.1355299848538,41.3701882997681</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:6  / TO GRENHART RD(021)</name>
+      <Point><coordinates>-73.555221732175,41.0443588249674</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:7  / TO NORTH STATE ST #2(343)</name>
+      <Point><coordinates>-73.5311158115658,41.0520378364622</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:9  / TO US-1(EAST MAIN ST)(033)</name>
+      <Point><coordinates>-73.5104501108738,41.0609543737286</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:52  / TO SR-100(168)</name>
+      <Point><coordinates>-72.8671558844593,41.2823868587124</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:56  / TO EAST INDUSTRIAL RD(323)</name>
+      <Point><coordinates>-72.7550717419057,41.2967735889118</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:58  / TO SR-77(CHURCH ST)(188)</name>
+      <Point><coordinates>-72.6839445322206,41.2952540570845</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:66  / TO SR-166(219)</name>
+      <Point><coordinates>-72.414764924379,41.2916546114012</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:71  / TO FOUR MILE RIVER RD(231)</name>
+      <Point><coordinates>-72.2562077430539,41.3234321895215</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 NB Exit:39B  / TO US-7(TR-812)</name>
+      <Point><coordinates>-73.4307395578163,41.1415138601882</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 NB Exit:40A  / TO SR-719(041)</name>
+      <Point><coordinates>-73.4269484008284,41.1423679105432</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 NB Exit:44  / TO SR-58(085)</name>
+      <Point><coordinates>-73.2716481584088,41.2012044159993</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 NB Exit:46  / TO SR-726(067)</name>
+      <Point><coordinates>-73.2538456286291,41.2214183644362</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 NB Exit:47  / TO PARK AVE(070)</name>
+      <Point><coordinates>-73.2445044036452,41.2284405577731</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 NB Exit:48  / TO SR-111 &amp; SR-731(074)</name>
+      <Point><coordinates>-73.2239399034914,41.2324040676302</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 NB Exit:55B  / TO WOLF HARBOR RD(097)</name>
+      <Point><coordinates>-73.0744668589961,41.2520423886322</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 NB Exit:65  / TO RIVER RD(137)</name>
+      <Point><coordinates>-72.8349956993799,41.4603570139064</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 NB Exit:-  / TO SR-372(174)</name>
+      <Point><coordinates>-72.7405475800833,41.6260346088218</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 NB Exit:87  / TO BRAINARD RD(160)</name>
+      <Point><coordinates>-72.6634107646037,41.7347553720891</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 SB Exit:67S  / ACCESS TO I-91(TR-809)</name>
+      <Point><coordinates>-72.771271196235,41.5240854541312</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 SB Exit:28  / TO ROUND HILL RD(008)</name>
+      <Point><coordinates>-73.6647319709215,41.0852912890243</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 SB Exit:37  / TO SR-124(210)</name>
+      <Point><coordinates>-73.4838836911891,41.1189096110959</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 SB Exit:42  / TO SR-57(185)</name>
+      <Point><coordinates>-73.3582537070318,41.1639679893608</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 SB Exit:61  / TO SR-707(123)</name>
+      <Point><coordinates>-72.9042122581839,41.3786922924749</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 SB Exit:66  / TO US-5(144)</name>
+      <Point><coordinates>-72.8070274999221,41.493313719415</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 SB Exit:85  / TO SR-99(158)</name>
+      <Point><coordinates>-72.6688641993458,41.7258043148846</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>190 EB Exit:-  / ACCESS TO I-91(TR-846)</name>
+      <Point><coordinates>-72.5903271708547,41.9903115238358</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>190 EB Exit:-  / ACCESS TO I-91(TR-849)</name>
+      <Point><coordinates>-72.5868594320982,41.9901593464271</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 EB Exit:5  / TO SR-516(001)</name>
+      <Point><coordinates>-72.6449467564397,41.7526758848445</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 WB Exit:21  / TO SR-616(055)</name>
+      <Point><coordinates>-72.2926220362183,41.5712615927248</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>20 EB Exit:-  / TO SSR-401(TR-801)</name>
+      <Point><coordinates>-72.7005317531597,41.9247530001921</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>291 WB Exit:2B  / TO I-91 NB(TR-802)</name>
+      <Point><coordinates>-72.66094677575,41.8190709984107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2A WB Exit:-  / TO I-395 SB(TR-801)</name>
+      <Point><coordinates>-72.1153945324322,41.4874118412173</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>32 NB Exit:-  / TO SR-623(NORTH FRONTAGE RD)(001)</name>
+      <Point><coordinates>-72.1055061971366,41.3654485566422</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>32 NB Exit:29  / TO NEW LONDON TPKE(073)</name>
+      <Point><coordinates>-72.0934174593851,41.5444507508867</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>32 SB Exit:-  / TO I-95 NB(002)</name>
+      <Point><coordinates>-72.1056670635192,41.3694014596369</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>384 WB Exit:-  / BGN HOV LANE(701)</name>
+      <Point><coordinates>-72.5621029366223,41.7648726063327</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>395 NB Exit:2  / TO SR-85(HARTFORD TPKE)(002)</name>
+      <Point><coordinates>-72.1694170039408,41.3941812575343</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>395 NB Exit:6  / TO SR-163(005)</name>
+      <Point><coordinates>-72.1172644629189,41.4419050358143</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>395 NB Exit:13B  / TO RTES 2 &amp; 32 WB(TR804)</name>
+      <Point><coordinates>-72.1084617498292,41.5471572230548</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>395 NB Exit:22  / TO SR-164(030)</name>
+      <Point><coordinates>-71.9801266234882,41.5902136585649</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>395 NB Exit:24  / TO SR-201(035)</name>
+      <Point><coordinates>-71.946291394702,41.61204407186</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>395 NB Exit:43  / TO ATTAWAUGAN CROSSING RD(056)</name>
+      <Point><coordinates>-71.8869639963807,41.8641208233784</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>395 NB Exit:50  / TO SR-200(074)</name>
+      <Point><coordinates>-71.8752339112841,41.960863802304</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>395 SB Exit:24  / TO SR-201(037)</name>
+      <Point><coordinates>-71.9453776845467,41.6170061986728</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5 NB Exit:85  / TO SR-99(156)</name>
+      <Point><coordinates>-72.6703639584936,41.7246895010202</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>571 WB Exit:-  / TO SR-71(003)</name>
+      <Point><coordinates>-72.7687969784244,41.64674232394</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 EB Exit:53  / JCT US-44</name>
+      <Point><coordinates>-72.6631413442252,41.7694376287031</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 EB Exit:58  / TO SR-518(ROBERTS ST)(117)</name>
+      <Point><coordinates>-72.6306696672221,41.7636550029382</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 EB Exit:-  / TO MANSFIELD CITY RD(015)</name>
+      <Point><coordinates>-72.2201523226468,41.7296060573103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 EB Exit:-  / TO I-395(TR-801)</name>
+      <Point><coordinates>-71.8799700804639,41.7944175711692</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>691 EB Exit:3  / TO SR-10(020)</name>
+      <Point><coordinates>-72.8938106898634,41.5570631261956</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>691 WB Exit:2 1 / TO I-84(TR-804) &amp; I-84</name>
+      <Point><coordinates>-72.9071985610832,41.5592422922611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7 NB Exit:1  / TO US-1(BELDEN AVE)(004)</name>
+      <Point><coordinates>-73.4188314735379,41.1152003757882</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7 NB Exit:3  / BGN COLL-DIST RDWY(601)</name>
+      <Point><coordinates>-73.4298456491983,41.1369697195897</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7 NB Exit:8  / TO PARK AVE(049)</name>
+      <Point><coordinates>-73.4732613994528,41.3770077197831</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7 SB Exit:10  / ACCESS TO I-84(TR-803)</name>
+      <Point><coordinates>-73.4216494852458,41.4207097543195</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7 SB Exit:1  / TO US-1(VAN BUREN AVE)(005)</name>
+      <Point><coordinates>-73.4206620221473,41.1191646972598</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7 SB Exit:3  / TO SR-15(TR-801)</name>
+      <Point><coordinates>-73.4317910468517,41.1443447391927</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7 SB Exit:7  / TO SUGAR HOLLOW RD(046)</name>
+      <Point><coordinates>-73.4735501097189,41.3747205500962</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7 SB Exit:8  / TO BACKUS-AVE(047)</name>
+      <Point><coordinates>-73.4743099145017,41.3795222290398</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>796 NB Exit:4  / TO WELLINGTON RD EXT(003)</name>
+      <Point><coordinates>-73.0808824462205,41.2521395209332</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>796 SB Exit:1B  / TO US-1(002)</name>
+      <Point><coordinates>-73.0647626668031,41.2317931323285</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>796 SB Exit:2B  / ACCESS TO I-95(TR-807)</name>
+      <Point><coordinates>-73.0709691925711,41.2340667516148</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 NB Exit:5  / TO SR-722(006)</name>
+      <Point><coordinates>-73.1909652359624,41.2056189328546</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 NB Exit:21  / TO SR-728(DERBY AVE)(045)</name>
+      <Point><coordinates>-73.0805765632252,41.3803273789906</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 NB Exit:26  / TO SR-63(058)</name>
+      <Point><coordinates>-73.0502607983958,41.4839757760472</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 NB Exit:28  / TO SR-710(066)</name>
+      <Point><coordinates>-73.0502289883505,41.499368459722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 NB Exit:36  / TO HUNTINGDON AVE(081)</name>
+      <Point><coordinates>-73.0526358894276,41.5823568911344</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 SB Exit:-  / ACCESS TO I-95(TR-804)</name>
+      <Point><coordinates>-73.1934828300934,41.1730180156525</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 SB Exit:3  / TO MAIN ST #2(002)</name>
+      <Point><coordinates>-73.1947445296082,41.192010836075</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 SB Exit:7  / TO SR-127(WHITE PLAINS RD)(009)</name>
+      <Point><coordinates>-73.1727133146348,41.2242968620713</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 SB Exit:41  / TO MARSH RD(098)</name>
+      <Point><coordinates>-73.1035705324666,41.7274208144512</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:15  / JCT US-6</name>
+      <Point><coordinates>-73.214448540197,41.4746017502292</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:22  / TO MARKET SQ(210)</name>
+      <Point><coordinates>-73.0436938025956,41.5519586618028</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:44  / TO CAYA AVE(110)</name>
+      <Point><coordinates>-72.7198414181266,41.7498400416076</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:50  / TO TRUMBULL ST(192)</name>
+      <Point><coordinates>-72.6780251259474,41.7707871269837</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:51  / TO I-91(TR-839)</name>
+      <Point><coordinates>-72.6766366733347,41.7701914722824</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:55  / TO SR-2(TR-828)</name>
+      <Point><coordinates>-72.6578915629101,41.7672688632883</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:61  / TO I-291(TR-837)</name>
+      <Point><coordinates>-72.5688837600569,41.7816748637788</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:64 65 / TO SR-83 &amp; SR-30</name>
+      <Point><coordinates>-72.4990363468658,41.823222516339</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:67  / TO SR-31(262)</name>
+      <Point><coordinates>-72.4321439863638,41.8533700284158</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:71  / TO SR-320(277)</name>
+      <Point><coordinates>-72.2635244336997,41.9187049366734</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:72  / TO SR-89(282)</name>
+      <Point><coordinates>-72.1972364816078,41.9566358520076</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:8  / TO US-6(019)</name>
+      <Point><coordinates>-73.4032740500764,41.4170778595968</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:23  / TO SR-69(062)</name>
+      <Point><coordinates>-73.0196096136048,41.5407257395667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:27  / TO I-691(TR-834)</name>
+      <Point><coordinates>-72.9107453754752,41.5677495048445</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:29  / JCT SR-597</name>
+      <Point><coordinates>-72.9007074095963,41.5807015880924</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:63  / TO SR-30(246)</name>
+      <Point><coordinates>-72.5220755552963,41.8115084050628</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:64  / TO KELLY RD(252)</name>
+      <Point><coordinates>-72.4996398424648,41.8235277019936</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 NB Exit:6  / TO SR-148(017)</name>
+      <Point><coordinates>-72.4697910289629,41.3972181206596</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 NB Exit:18  / JCT SR-99</name>
+      <Point><coordinates>-72.6483790226722,41.5820617401509</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 NB Exit:30  / TO SR-71(073)</name>
+      <Point><coordinates>-72.7609274287231,41.7113098928807</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 SB Exit:-  / ACCESS TO I-95(TR-816)</name>
+      <Point><coordinates>-72.3591910471097,41.3161375197591</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 SB Exit:11  / TO SR-155(035)</name>
+      <Point><coordinates>-72.6181693383873,41.5332782184265</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 SB Exit:12  / TO SILVER ST(040)</name>
+      <Point><coordinates>-72.6372683696818,41.5546711528029</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 SB Exit:15  / TO SR-545(WASHINGTON ST)(076)</name>
+      <Point><coordinates>-72.6482763892467,41.5635932301974</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 SB Exit:19  / TO SR-372(046)</name>
+      <Point><coordinates>-72.6760444830418,41.6073807237761</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 SB Exit:20N  / TO I-91(TR-803)</name>
+      <Point><coordinates>-72.6901034167258,41.6238159972623</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 SB Exit:20S  / TO I-91(TR-804)</name>
+      <Point><coordinates>-72.6983998231456,41.6246508775596</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 NB Exit:9  / TO SR-715(021)</name>
+      <Point><coordinates>-72.8677036103707,41.348077993265</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 NB Exit:20  / TO COUNTRY CLUB RD(129)</name>
+      <Point><coordinates>-72.7271308108673,41.567674797294</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 NB Exit:21  / TO SR-372(040)</name>
+      <Point><coordinates>-72.703713148862,41.6044163973403</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 NB Exit:34  / TO MEADOW RD(198)</name>
+      <Point><coordinates>-72.6569908220229,41.8027347361335</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 NB Exit:39 41 / TO KENNEDY RD(174)</name>
+      <Point><coordinates>-72.6518896333511,41.8890107261831</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 NB Exit:47W  / TO SR-190(TR-851)</name>
+      <Point><coordinates>-72.587389916512,41.9911187134928</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 SB Exit:17  / TO SR-15(TR-811)</name>
+      <Point><coordinates>-72.7675327545162,41.534083918466</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 SB Exit:46  / TO US-5(110)</name>
+      <Point><coordinates>-72.5976045128372,41.95499715048</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 SB-701 Exit:-  / HOV TO LEIBERT RD(703)</name>
+      <Point><coordinates>-72.6558828233092,41.7907788689589</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:2  / TO DORAN AVE(001)</name>
+      <Point><coordinates>-73.6527281262764,41.0005878835483</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:3  / TO ARCH ST #1(007)</name>
+      <Point><coordinates>-73.6283306403519,41.0193331257073</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:5  / TO US-1(015)</name>
+      <Point><coordinates>-73.5777334904635,41.0410133279772</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:6  / TO HARVARD AVE(019)</name>
+      <Point><coordinates>-73.5631252850348,41.0448762973611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:7  / TO GREENWICH AVE(022)</name>
+      <Point><coordinates>-73.5490721647862,41.0453757097956</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:12  / TO SR-136(TOKENEKE RD)(044)</name>
+      <Point><coordinates>-73.4663976853603,41.0752819106964</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:25  / TO COOLIDGE ST(084)</name>
+      <Point><coordinates>-73.2279706740031,41.1677920722226</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:26  / TO WORDIN AVE #2(089)</name>
+      <Point><coordinates>-73.2083393610039,41.1664042899178</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:53  / JCT TO SR-794</name>
+      <Point><coordinates>-72.8421696694273,41.2847539618377</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:69  / JCT SR-9 NB</name>
+      <Point><coordinates>-72.3594929768738,41.3158511147405</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:72  / TO SSR-449(296)</name>
+      <Point><coordinates>-72.2516299794245,41.3248376274314</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:88  / TO SR-117(NORTH RD)(265)</name>
+      <Point><coordinates>-72.0313836953135,41.3609207264787</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:91  / TO SR-234(PEQUOT TRAIL)(277)</name>
+      <Point><coordinates>-71.9082806538316,41.3769879805103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:27  / TO LAFAYETTE BLVD(305)</name>
+      <Point><coordinates>-73.1885646089244,41.1739932540926</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:30  / TO SURF AVE(103)</name>
+      <Point><coordinates>-73.1512697489236,41.1760113398103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:36  / TO PLAINS RD #1(124)</name>
+      <Point><coordinates>-73.0773921200181,41.2245084026933</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:41  / TO MARSH HILL RD(354)</name>
+      <Point><coordinates>-72.9956132569022,41.2563410575659</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:43  / TO SR-122 &amp; SR-745(151)</name>
+      <Point><coordinates>-72.948357032062,41.284326110956</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:69  / TO SR-9 NB(TR-815)</name>
+      <Point><coordinates>-72.3561876942488,41.3176247717822</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:72  / TO SSR-449(297)</name>
+      <Point><coordinates>-72.2512482075036,41.3251076243174</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:89  / TO SR-614(MYSTIC ST)(272)</name>
+      <Point><coordinates>-71.9771478069881,41.3713471760497</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB-815 Exit:1  / I-95 TO OLD STATE RD(311)</name>
+      <Point><coordinates>-72.3595954043262,41.3174881411814</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>11 SB Exit:5  / TO WITCH MEADOW RD(013)</name>
+      <Point><coordinates>-72.3024922156736,41.5058140927728</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 NB Exit:58  / TO SR-34(109)</name>
+      <Point><coordinates>-73.0335689726752,41.3066515127751</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 NB Exit:61  / TO SR-707(124)</name>
+      <Point><coordinates>-72.9016753433618,41.3801624908166</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 NB Exit:62  / TO SR-717(127)</name>
+      <Point><coordinates>-72.8948820749604,41.3840855021156</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 NB Exit:85  / TO SR-99(156)</name>
+      <Point><coordinates>-72.6703639584936,41.7246895010202</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 SB Exit:29  / TO OLD MILL RD #2(012)</name>
+      <Point><coordinates>-73.6505024136077,41.0953705537102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 SB Exit:41  / TO SR-33(WILTON RD)(196)</name>
+      <Point><coordinates>-73.3773132658107,41.1639711763052</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 SB Exit:62  / TO SR-707(126)</name>
+      <Point><coordinates>-72.9007336546255,41.3808727737352</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 SB Exit:-  / TO SR-15 RAMP 177(176)</name>
+      <Point><coordinates>-72.741296366169,41.6243430038856</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>17 NB Exit:-  / TO SR-9(TR-801)</name>
+      <Point><coordinates>-72.6423095117921,41.5549487678745</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>17 SB Exit:-  / TO NEW LONDON TPKE(005)</name>
+      <Point><coordinates>-72.5987113526991,41.7099193478304</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>190 WB Exit:-  / ACCESS TO I-91(TR-853)</name>
+      <Point><coordinates>-72.5850950829188,41.9901559089951</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 EB Exit:3  / TO PITKIN ST(077)</name>
+      <Point><coordinates>-72.660850305068,41.7659673061781</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 EB Exit:5A  / TO SR-517(HIGH ST)(003)</name>
+      <Point><coordinates>-72.6364678556571,41.7426340767363</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 EB Exit:5D  / TO SR-3(TR-805)</name>
+      <Point><coordinates>-72.6163092217493,41.7294058063541</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 EB Exit:9  / TO NEIPSIC RD(022)</name>
+      <Point><coordinates>-72.5727043925392,41.7050622037203</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 EB Exit:21  / TO CHESTNUT HILL RD(052)</name>
+      <Point><coordinates>-72.3011050076857,41.5708614417185</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 EB Exit:28S  / JCT SR-2A</name>
+      <Point><coordinates>-72.1121291369898,41.5468075871723</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 WB Exit:3  / TO PITKIN ST(079)</name>
+      <Point><coordinates>-72.6536477270288,41.7618264045929</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 WB Exit:10  / TO SR-83(025)</name>
+      <Point><coordinates>-72.5392842072622,41.6757237658167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 WB Exit:15  / TO SOUTH MAIN ST(036)</name>
+      <Point><coordinates>-72.4295534583121,41.608057248733</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 WB Exit:25  / JCT SR-32</name>
+      <Point><coordinates>-72.1243626475956,41.5592778263327</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>20 WB Exit:-  / TO SR-75(008)</name>
+      <Point><coordinates>-72.6711788250953,41.9139424874236</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>25 NB Exit:4  / TO LINDLEY ST(004)</name>
+      <Point><coordinates>-73.1950578039522,41.1949802867096</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>25 NB Exit:5  / TO SR-722(006)</name>
+      <Point><coordinates>-73.1909652359624,41.2056189328546</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>291 EB Exit:5  / TO TOLLAND TPKE(010)</name>
+      <Point><coordinates>-72.5761525247865,41.7962417736521</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2A EB Exit:9  / JCT SR-2A  </name>
+      <Point><coordinates>-72.1147646869895,41.4927377493642</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2A EB Exit:5  / TO SR-32(001)</name>
+      <Point><coordinates>-72.1041248673051,41.4848202278246</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>32 NB Exit:25  / JCT SR-32</name>
+      <Point><coordinates>-72.1243626475956,41.5592778263327</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>349 SB Exit:3  / TO US-1(003)</name>
+      <Point><coordinates>-72.0643935548078,41.3599403486949</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>384 WB Exit:3  / TO SR-534(019)</name>
+      <Point><coordinates>-72.5153838100807,41.7621929847317</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>395 NB Exit:19  / TO SR-169(023)</name>
+      <Point><coordinates>-72.0259583260829,41.5880745013274</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>395 NB Exit:21  / TO SR-12(027)</name>
+      <Point><coordinates>-71.9905593489209,41.58908387342</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>395 NB Exit:32  / TO SR-14(044)</name>
+      <Point><coordinates>-71.8943696324579,41.7189075642247</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>395 SB Exit:13  / TO SR-2 &amp; SR-32(TR-803)</name>
+      <Point><coordinates>-72.109302684217,41.5457016475733</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>395 SB Exit:21B  / TO SR-12(026)</name>
+      <Point><coordinates>-71.9924316061792,41.5890242176751</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>395 SB Exit:28  / TO SR-647(LATHROP RD)(082)</name>
+      <Point><coordinates>-71.9124284436718,41.6673002784262</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>395 SB Exit:45  / TO KENNEDY DR(062)</name>
+      <Point><coordinates>-71.8979133204847,41.9029682538371</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>395 SB Exit:46  / TO HERITAGE RD(066)</name>
+      <Point><coordinates>-71.8907615637147,41.9116981689202</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>44 EB Exit:-  / TO EAST RIVER DR(001)</name>
+      <Point><coordinates>-72.6619286695981,41.7690547971158</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5 NB Exit:-  / TO SR-9(175)</name>
+      <Point><coordinates>-72.7414959445926,41.6224067714056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 EB Exit:52  / TO I-91(TR-825)</name>
+      <Point><coordinates>-72.6700502940314,41.7695222784205</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 EB Exit:55  / TO SR-2(TR-828)</name>
+      <Point><coordinates>-72.6578915629101,41.7672688632883</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 EB Exit:-  / BGN HOV LANE(700)</name>
+      <Point><coordinates>-72.6409276633502,41.7633106218265</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 EB Exit:-  / TO SOUTH MAIN ST(005)</name>
+      <Point><coordinates>-71.8897034005715,41.8016948120002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>624 EB Exit:-  / TO SR-908(COLMAN ST)(001)</name>
+      <Point><coordinates>-72.115673595921,41.3683856767851</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7 NB Exit:12  / TO US-202(060)</name>
+      <Point><coordinates>-73.4052694802365,41.4691763902164</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 NB Exit:12  / TO OLD STRATFORD RD(016)</name>
+      <Point><coordinates>-73.1188334813831,41.2727591722391</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 NB Exit:17  / TO MOHAWK AVE &amp; WINTER ST(035)</name>
+      <Point><coordinates>-73.0915548456955,41.3322756240861</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 NB Exit:25  / TO COTTON HOLLOW RD(145)</name>
+      <Point><coordinates>-73.0523336296688,41.4665922530696</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 NB Exit:32  / TO RIVERSIDE ST NB(128)</name>
+      <Point><coordinates>-73.0489709733728,41.5502153267024</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 SB Exit:5  / TO SR-722(007)</name>
+      <Point><coordinates>-73.1909723628304,41.2064267762915</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 SB Exit:17  / TO SEYMOUR AVE(033)</name>
+      <Point><coordinates>-73.0904850316496,41.3308853665549</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 SB Exit:19  / TO DERBY AVE(041)</name>
+      <Point><coordinates>-73.0919621345127,41.3636344672645</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 SB Exit:24  / TO NORTH MAIN ST(138)</name>
+      <Point><coordinates>-73.0673353164245,41.4482725550566</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 SB Exit:26  / TO SR-63(060)</name>
+      <Point><coordinates>-73.0518174811941,41.4877098754223</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 SB Exit:30  / TO WASHINGTON AVE #3(076)</name>
+      <Point><coordinates>-73.0446529002446,41.5461495713404</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 SB Exit:32  / TO RIVERSIDE ST SB(130)</name>
+      <Point><coordinates>-73.055500365044,41.555776782322</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 SB Exit:36  / TO COLONIAL AVE(083)</name>
+      <Point><coordinates>-73.0583269686135,41.5886113975101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 SB Exit:37  / TO ECHO LAKE RD #3(086)</name>
+      <Point><coordinates>-73.062213009941,41.6165529619727</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 SB Exit:45  / TO SR-800(114)</name>
+      <Point><coordinates>-73.1054378229873,41.8307969757173</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>82 WB Exit:-  / TO SR-9(TR-801)</name>
+      <Point><coordinates>-72.4933038637848,41.4186786131933</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:3  / TO US-7(TR-801)</name>
+      <Point><coordinates>-73.4821391062091,41.3838745694091</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:9  / TO SR-25(020)</name>
+      <Point><coordinates>-73.3578840628517,41.4236971312339</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:31  / TO SR-229(090)</name>
+      <Point><coordinates>-72.9008966150425,41.6085429160004</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:40  / TO SR-71(103)</name>
+      <Point><coordinates>-72.7569899571569,41.7279499972421</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:49  / TO HIGH ST #1(188)</name>
+      <Point><coordinates>-72.6813402912264,41.7706373932671</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:73  / TO SR-190(286)</name>
+      <Point><coordinates>-72.1836861381945,41.974225742701</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:3  / JCT US-7</name>
+      <Point><coordinates>-73.4763245875041,41.3873981448377</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:14  / TO SR-172(039)</name>
+      <Point><coordinates>-73.2306067011581,41.4613351465878</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:18  / TO HIGHLAND AVE(055)</name>
+      <Point><coordinates>-73.0616762312284,41.549261549739</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:21  / TO FIELD ST(201)</name>
+      <Point><coordinates>-73.04031118671,41.5515022786291</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:30  / TO MARION AVE(088)</name>
+      <Point><coordinates>-72.9012403516178,41.5889669854254</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:39A  / TO SR-9(TR-820)</name>
+      <Point><coordinates>-72.7622136992691,41.7270722140842</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:40  / TO SR-535(104)</name>
+      <Point><coordinates>-72.7543256402058,41.7312571057198</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:41  / TO SR-173(109)</name>
+      <Point><coordinates>-72.7399378168973,41.7374357442404</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:46  / JCT SR-503</name>
+      <Point><coordinates>-72.6969198881826,41.7621886352432</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:48  / TO SPRING ST(187)</name>
+      <Point><coordinates>-72.6826246864564,41.7699877241963</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:50  / JCT US-44</name>
+      <Point><coordinates>-72.667604630192,41.7695421291964</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:57  / JCT SR-15(WILBUR CROSS PKWY)</name>
+      <Point><coordinates>-72.631887909604,41.7642865460633</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:65  / TO SR-30(256)</name>
+      <Point><coordinates>-72.4819582036127,41.8278999380001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:66  / TO SR-542(259)</name>
+      <Point><coordinates>-72.4618404680779,41.8350682580245</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 NB Exit:15  / SR-545(WB)(WASHINGTON ST)</name>
+      <Point><coordinates>-72.6479066499882,41.5633847809327</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 NB Exit:28  / JCT SR-72</name>
+      <Point><coordinates>-72.7729522377289,41.6676429410533</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 NB Exit:20N  / TO I-91(TR-802)</name>
+      <Point><coordinates>-72.6849776559414,41.622861625312</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 NB Exit:21  / TO SR-372(MILL ST)(050)</name>
+      <Point><coordinates>-72.7294211182442,41.6214917661838</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 NB Exit:22  / TO SR-572(FRONTAGE RD)(053)</name>
+      <Point><coordinates>-72.7446528904538,41.6262705963505</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 SB Exit:-  / ACCESS TO I-95(TR-814)</name>
+      <Point><coordinates>-72.3606400122925,41.3174814710484</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 SB Exit:4  / TO SR-154(011)</name>
+      <Point><coordinates>-72.4271448944461,41.3633014673341</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 SB Exit:28 28A / TO SR-72 &amp; SR-174</name>
+      <Point><coordinates>-72.7699907559104,41.676188592361</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 SB Exit:30  / TO SR-71(074)</name>
+      <Point><coordinates>-72.7675659782831,41.7144358385155</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 NB Exit:10  / JCT SR-40</name>
+      <Point><coordinates>-72.8694032776907,41.3714196974562</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 NB Exit:25 26 / TO SR-3 &amp; GREAT MEADOW RD</name>
+      <Point><coordinates>-72.6445446591488,41.7048018522267</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 NB Exit:44  / TO RAMP 103(100)(TO US-5)</name>
+      <Point><coordinates>-72.6147352524859,41.9190482056972</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 NB Exit:48  / TO SR-220(121)</name>
+      <Point><coordinates>-72.5862595751775,41.9956132818952</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 SB Exit:30  / TO I-84(TR-840)</name>
+      <Point><coordinates>-72.6686137316562,41.7696391637309</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 SB Exit:2  / TO HAMILTON ST #2(002)</name>
+      <Point><coordinates>-72.9145334193391,41.307956411957</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 SB Exit:13  / TO SR-702(TR-808)</name>
+      <Point><coordinates>-72.8225585731532,41.4247188338838</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 SB Exit:25N  / TO SR-3(TR-857)</name>
+      <Point><coordinates>-72.6449721651366,41.7058593283527</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 SB Exit:38A 38B / TO SR-75 &amp; DAY HILL RD(173)</name>
+      <Point><coordinates>-72.6614289980427,41.8803744960257</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 SB Exit:47W  / TO SR-190(TR-852)</name>
+      <Point><coordinates>-72.5869557075383,41.993696356825</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:18  / TO SSR-476(059)</name>
+      <Point><coordinates>-73.3356804683716,41.1227847224153</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:22  / TO ROUND HILL RD(291)</name>
+      <Point><coordinates>-73.2597838309214,41.1459001057066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:23  / TO US-1(077)</name>
+      <Point><coordinates>-73.2451535853798,41.1547101803387</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:27  / TO MYRTLE AVE #1(344)</name>
+      <Point><coordinates>-73.1952665533998,41.1699594428838</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:33  / TO SR-130 EB(112)</name>
+      <Point><coordinates>-73.1211247189056,41.1968882184242</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:37  / TO HIGH ST(126)</name>
+      <Point><coordinates>-73.0726325972277,41.2305704746705</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:38  / TO SR-796(TR-809)</name>
+      <Point><coordinates>-73.068223974899,41.2339259155379</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:71  / TO FOUR MILE RIVER RD(230)</name>
+      <Point><coordinates>-72.2580485145406,41.3228579090834</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:83  / TO SR-641(310)</name>
+      <Point><coordinates>-72.1094195903135,41.3664638427019</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:85  / JCT US-1</name>
+      <Point><coordinates>-72.081113749337,41.3641231335517</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:92  / TO SR-2(281)</name>
+      <Point><coordinates>-71.8576651341817,41.4087473137156</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:87  / TO SR-349 SB(TR-822)</name>
+      <Point><coordinates>-72.0529158624649,41.3604940281005</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:24  / TO CHAMBERS ST(082)</name>
+      <Point><coordinates>-73.2304348553007,41.1671421068073</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:32  / TO LINDEN AVE(111)</name>
+      <Point><coordinates>-73.1323932094293,41.1928492718939</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:48 47 / TO I-91 &amp; SR-34</name>
+      <Point><coordinates>-72.9066351520432,41.3006730200974</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:57  / TO US-1(BOSTON POST RD)(185)</name>
+      <Point><coordinates>-72.6999767869664,41.296546247834</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:59  / TO SR-718(GOOSE LA)(192)</name>
+      <Point><coordinates>-72.6657942950837,41.2899023065242</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:64  / TO SR-145(HORSE HILL RD)(211)</name>
+      <Point><coordinates>-72.4851166775001,41.2944410799404</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:67  / TO ELM ST(220)</name>
+      <Point><coordinates>-72.3902587575458,41.3001831725066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:73  / TO WEST SOCIETY RD #1(234)</name>
+      <Point><coordinates>-72.2297459519868,41.3442039640909</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:81  / TO WATERFORD PARKWAY NORTH(248)</name>
+      <Point><coordinates>-72.1525868951828,41.3681205687394</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:82  / TO SR-85(HARTFORD TPKE)(253)</name>
+      <Point><coordinates>-72.1309873692063,41.3708868097049</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB-813 Exit:2  / I-95 TO HAMILTON ST #2(309)</name>
+      <Point><coordinates>-72.9128950308687,41.3028776548948</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1 NB Exit:69  / JCT SR-9 NB</name>
+      <Point><coordinates>-72.3594929768738,41.3158511147405</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>11 NB Exit:5  / TO WITCH MEADOW RD(011)</name>
+      <Point><coordinates>-72.30174179297,41.4976027250385</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>11 NB Exit:6  / TO SR-637(016)</name>
+      <Point><coordinates>-72.3190635471215,41.5535795564745</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>11 SB Exit:4  / TO SR-82(010)</name>
+      <Point><coordinates>-72.2830034589824,41.467062105257</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 NB Exit:42  / TO SR-57(189)</name>
+      <Point><coordinates>-73.3577452337599,41.1640099854201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 NB Exit:49S  / TO SR-25(805)</name>
+      <Point><coordinates>-73.2003691792335,41.2341825386124</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 NB Exit:55A  / TO WHEELERS FARMS RD(184)</name>
+      <Point><coordinates>-73.0794929265542,41.2489062641959</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 NB Exit:56  / TO SR-121(101)</name>
+      <Point><coordinates>-73.0432159071135,41.2854617270179</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 NB Exit:66  / TO US-5(218)</name>
+      <Point><coordinates>-72.8088456237035,41.4918593502234</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 SB Exit:33  / TO DEN RD #1(019)</name>
+      <Point><coordinates>-73.5765712516839,41.101062361183</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 SB Exit:34  / TO SR-104(024)</name>
+      <Point><coordinates>-73.5625836986012,41.1048323676242</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 SB Exit:47  / TO PARK AVE(182)</name>
+      <Point><coordinates>-73.2438635475142,41.2287715324998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 SB Exit:52  / TO &amp; SR-8(TR-810)</name>
+      <Point><coordinates>-73.1449501688275,41.2370379997961</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 SB Exit:54  / TO SR-796(TR-802)</name>
+      <Point><coordinates>-73.0754791951914,41.2514705386227</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 SB Exit:59  / TO SR-69(116)</name>
+      <Point><coordinates>-72.9772964736666,41.3388571107321</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>17 NB Exit:15  / SR-545(WB)(WASHINGTON ST)</name>
+      <Point><coordinates>-72.6479066499882,41.5633847809327</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>17 NB Exit:-  / TO MAIN ST EXT(009)</name>
+      <Point><coordinates>-72.6468279937739,41.553228052021</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>17 NB Exit:-  / TO NEW LONDON TPKE(004)</name>
+      <Point><coordinates>-72.599433850547,41.7085352371004</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>184 WB Exit:1  / TO SR-12(009)</name>
+      <Point><coordinates>-72.0658405407194,41.3674199275083</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>187 NB Exit:-  / TO TARIFFVILLE RD#1(001)</name>
+      <Point><coordinates>-72.7469714979561,41.8847992455903</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>189 SB Exit:-  / TO SR-187(007)</name>
+      <Point><coordinates>-72.753209012986,41.8972014802754</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 EB Exit:-  / TO SR-680(090)</name>
+      <Point><coordinates>-71.956536215885,41.4759461647653</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 WB Exit:5D  / TO SR-3(TR-806)</name>
+      <Point><coordinates>-72.6136980245654,41.7282030554127</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 WB Exit:23  / TO SR-163(061)</name>
+      <Point><coordinates>-72.162352104116,41.5616142370448</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 WB Exit:28S  / TO I-395(TR-803)</name>
+      <Point><coordinates>-72.1096537180656,41.5464699679064</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>25 NB Exit:7A 7B / TO SR-15 &amp; SR-127</name>
+      <Point><coordinates>-73.186500676647,41.2293418943127</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>291 EB Exit:4  / TO US-5(008)</name>
+      <Point><coordinates>-72.6204980736714,41.8068452769407</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>32 SB Exit:-  / TO SR-638(BRIGGS ST)(003)</name>
+      <Point><coordinates>-72.1034937896307,41.3716260121255</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>349 NB Exit:3B  / ACCESS TO I-95(TR-821)</name>
+      <Point><coordinates>-72.059386260077,41.3600491352484</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>384 EB Exit:5  / TO SR-85(BOLTON CENTER RD)(024)</name>
+      <Point><coordinates>-72.4642321178104,41.7745364452881</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>395 NB Exit:13A  / TO RTES 2 &amp; 32(TR-802)</name>
+      <Point><coordinates>-72.1098631855213,41.543945797916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>395 SB Exit:2  / TO SR-85(003)</name>
+      <Point><coordinates>-72.163815190824,41.3968925320516</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>395 SB Exit:37B  / TO US-6(TR-807)</name>
+      <Point><coordinates>-71.8750975276558,41.7975288427934</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>395 SB Exit:38  / TO SR-607(WESTCOTT RD)(051)</name>
+      <Point><coordinates>-71.8711714407993,41.8127563299702</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>395 SB Exit:50  / TO SR-200(076)</name>
+      <Point><coordinates>-71.8717476706188,41.9676932814695</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>500 SB Exit:-  / STO SR-2(TR-805)</name>
+      <Point><coordinates>-72.6519684658816,41.7684486365852</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>598 WB Exit:-  / TO COLUMBUS-BLVD(006)</name>
+      <Point><coordinates>-72.6688804341797,41.7611027997961</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 EB Exit:43  / JCT SR-501</name>
+      <Point><coordinates>-72.7348021224942,41.7434147113547</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 EB Exit:56  / JCT SR-500</name>
+      <Point><coordinates>-72.6547665300779,41.7653473165836</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 EB Exit:5  / TO SR-841(010)</name>
+      <Point><coordinates>-73.4645164102017,41.4023920730277</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 EB Exit:11  / TO SSR-490(029)</name>
+      <Point><coordinates>-73.2734084222613,41.4140926599752</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 EB Exit:14  / TO SR-172(036)</name>
+      <Point><coordinates>-73.2384664641265,41.4549086182733</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 EB Exit:40  / TO SR-71(103)</name>
+      <Point><coordinates>-72.7569899571569,41.7279499972421</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 EB Exit:50  / TO TRUMBULL ST(192)</name>
+      <Point><coordinates>-72.6780251259474,41.7707871269837</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>66 WB Exit:13  / TO EAST MAIN ST #1(004)</name>
+      <Point><coordinates>-72.7425515954168,41.5288378647788</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>691 EB Exit:4  / TO SR-322(016)</name>
+      <Point><coordinates>-72.8526378746304,41.5540569994716</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>691 WB Exit:8  / TO US-5(BROAD ST)(001)</name>
+      <Point><coordinates>-72.7802991790976,41.5423193942183</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7 NB Exit:7  / TO WOOSTER HEIGHTS RD(044)</name>
+      <Point><coordinates>-73.474163102173,41.3676378178728</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7 SB Exit:2  / TO SR-123(010)</name>
+      <Point><coordinates>-73.4287166660557,41.1318833487651</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>72 NB Exit:1  / TO SR-177(028)</name>
+      <Point><coordinates>-72.8743364814033,41.6783073513703</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>796 NB Exit:3A  / TO SR-15(TR-801)</name>
+      <Point><coordinates>-73.0832647537651,41.2450960958245</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 NB Exit:8  / TO SR-743(PENNY AVE)(141)</name>
+      <Point><coordinates>-73.1624683783533,41.2278151271528</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 NB Exit:31  / ACCESS TO I-84(TR-811)</name>
+      <Point><coordinates>-73.0469930959689,41.5493755457453</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 NB Exit:38  / TO SR-848 &amp; SR-254(088)</name>
+      <Point><coordinates>-73.0795078516826,41.6514386791578</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 NB Exit:43  / TO HARWINTON AVE #2(104)</name>
+      <Point><coordinates>-73.1077064592753,41.7899616440325</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 NB Exit:44  / TO US-202 &amp; SR-837(109)</name>
+      <Point><coordinates>-73.1127896182525,41.8036726389664</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 SB Exit:25  / TO COTTON HOLLOW RD(147)</name>
+      <Point><coordinates>-73.0506262926039,41.4723873848583</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 SB Exit:39  / TO SR-222(EAST MAIN ST)(093)</name>
+      <Point><coordinates>-73.0646263732527,41.6779308928449</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 SB Exit:42  / TO SR-118(103)</name>
+      <Point><coordinates>-73.1153456540073,41.7659862241394</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 SB Exit:43  / TO LAUREL HILL RD(107)</name>
+      <Point><coordinates>-73.113250083485,41.8016081354408</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:20  / TO SR-8(TR-806)</name>
+      <Point><coordinates>-73.0566006477321,41.5508623980533</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:36  / TO SLATER RD(182)</name>
+      <Point><coordinates>-72.8205609639151,41.6722645187047</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:46  / TO SR-503(TR-823)</name>
+      <Point><coordinates>-72.700551915179,41.757622365331</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:4  / TO US-6 &amp; US-202(205)</name>
+      <Point><coordinates>-73.4764217628751,41.3899131919442</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:11  / TO SSR-490(029)</name>
+      <Point><coordinates>-73.2734084222613,41.4140926599752</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:25A  / TO AUSTIN RD(219)</name>
+      <Point><coordinates>-72.9787496461393,41.5420547047037</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:26  / TO SR-70(361)</name>
+      <Point><coordinates>-72.9575102554194,41.5391233258087</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:74  / TO SR-171(290)</name>
+      <Point><coordinates>-72.145999876174,42.0229357966414</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB-700 Exit:-  / HOV TO I-384(700)</name>
+      <Point><coordinates>-72.5902659414177,41.7730047239142</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:55  / TO SR-2(TR-830)</name>
+      <Point><coordinates>-72.6518596300072,41.7663245436342</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:2B 2A / TO OLD RIDGEBURY RD &amp; SR-824</name>
+      <Point><coordinates>-73.5148637685256,41.3902206456757</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:6  / TO SR-37(015)</name>
+      <Point><coordinates>-73.4519959050631,41.4115422308123</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:15  / TO US-6 &amp; SR-67(043)</name>
+      <Point><coordinates>-73.2086816142363,41.4782691335516</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:25A  / TO AUSTIN RD(363)</name>
+      <Point><coordinates>-72.9720343186387,41.5392781526783</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:58  / TO SR-518(ROBERTS ST)(120)</name>
+      <Point><coordinates>-72.6203536998098,41.767286199797</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:61  / TO I-291(838)</name>
+      <Point><coordinates>-72.5619643564285,41.7925821111836</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:68  / TO SR-195(267)</name>
+      <Point><coordinates>-72.3577242021482,41.8655082076268</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:74  / JCT SR-171</name>
+      <Point><coordinates>-72.1383128325353,42.0285776588531</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 NB Exit:24  / JCT SR-571</name>
+      <Point><coordinates>-72.7610810618421,41.6458705661423</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 NB Exit:4  / TO SR-154(048)</name>
+      <Point><coordinates>-72.4247822082689,41.3623124951255</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 NB Exit:25  / TO ELLIS ST(059)</name>
+      <Point><coordinates>-72.7708508711268,41.6544613425065</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 SB Exit:8  / TO BEAVER MEADOW RD(023)</name>
+      <Point><coordinates>-72.5304820289957,41.4578414854244</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 SB Exit:10  / TO SR-154(032)</name>
+      <Point><coordinates>-72.6011427978246,41.5152463863894</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 SB Exit:29  / TO SR-505(070)</name>
+      <Point><coordinates>-72.7579515021481,41.7012723106524</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 NB Exit:3  / TO TRUMBULL ST(134)</name>
+      <Point><coordinates>-72.9126355442143,41.3127209127858</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 NB Exit:12  / TO US-5(027)</name>
+      <Point><coordinates>-72.8510140140919,41.3995063437041</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 NB Exit:15  / TO SR-68(034)</name>
+      <Point><coordinates>-72.7710604459975,41.4764821003922</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 NB Exit:33  / TO JENNINGS RD(161)(PVT)</name>
+      <Point><coordinates>-72.6598889569094,41.7842366648398</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 NB Exit:36  / TO SR-178(210)</name>
+      <Point><coordinates>-72.6651930784915,41.8352115892705</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 NB Exit:40  / TO SR-20(TR-842)</name>
+      <Point><coordinates>-72.6428735463889,41.894279679973</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 NB Exit:49  / TO US-5(124)</name>
+      <Point><coordinates>-72.5869247828992,42.0174721410591</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 SB Exit:9  / TO SR-715(022)</name>
+      <Point><coordinates>-72.8676256557539,41.3505193244171</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 SB Exit:14  / TO SR-738(E CENTER ST)(033)</name>
+      <Point><coordinates>-72.7892356078272,41.4463807429166</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 SB Exit:20  / TO MIDDLE ST(130)</name>
+      <Point><coordinates>-72.7222241865483,41.5732108325211</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 SB Exit:28  / TO US-5 &amp; SR-15(TR-829)</name>
+      <Point><coordinates>-72.6645419474712,41.7381860380238</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 SB Exit:29A  / TO SR-598(TR-835)</name>
+      <Point><coordinates>-72.6668899234955,41.7628012348985</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 SB Exit:35A  / TO I-291(TR-855)</name>
+      <Point><coordinates>-72.6658223379001,41.8179342405119</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 SB Exit:35B  / TO SR-218(205)</name>
+      <Point><coordinates>-72.6661092294942,41.8224535917892</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 SB Exit:37  / TO SR-305(158)</name>
+      <Point><coordinates>-72.6638120327272,41.8559645622744</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:86  / JCT SR-184 EB</name>
+      <Point><coordinates>-72.0723992336461,41.3644820056859</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:17  / TO SR-33(SAUGATUCK AVE)(055)</name>
+      <Point><coordinates>-73.379033156876,41.1195700222263</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:28  / TO SR-127(EAST MAIN ST)(092)</name>
+      <Point><coordinates>-73.1842123551478,41.1781399268683</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:35  / TO SCHOOL HOUSE RD(118)</name>
+      <Point><coordinates>-73.0896366211157,41.2112633698151</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:43  / TO CAMPBELL AVE(149)</name>
+      <Point><coordinates>-72.9584743764875,41.2804340720567</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:47  / TO SR-34 WB(MLK)(TR-812)</name>
+      <Point><coordinates>-72.9198291567743,41.2927910926184</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:48  / JCT I-91 NB</name>
+      <Point><coordinates>-72.9164441611033,41.296969987666</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:58  / TO SR-77(CHURCH ST)(186)</name>
+      <Point><coordinates>-72.691124564714,41.2956815961314</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:65  / TO SR-153(ESSEX RD)(212)</name>
+      <Point><coordinates>-72.4474641619658,41.2919147105292</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:66  / TO SR-166(216)</name>
+      <Point><coordinates>-72.4246751129728,41.2904452396158</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:70  / JCT US-1 NB</name>
+      <Point><coordinates>-72.3480033074886,41.3187573258887</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 NB Exit:82A  / JCT SR-624(PARKWAY SOUTH)</name>
+      <Point><coordinates>-72.1253986578884,41.3712744877575</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:3  / TO ARCH ST #1(008)</name>
+      <Point><coordinates>-73.6244069332888,41.020288337749</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:21  / TO MILL PLAIN RD(073)</name>
+      <Point><coordinates>-73.261889059831,41.1453837410129</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:63  / TO SR-81(206)</name>
+      <Point><coordinates>-72.5301363118509,41.2881987979584</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:70  / TO US-1(BOSTON POST RD)(227)</name>
+      <Point><coordinates>-72.3248324188367,41.3232398760065</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:74  / TO SR-161(FLANDERS RD)(239)</name>
+      <Point><coordinates>-72.2103031919422,41.3605015245925</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:75  / TO US-1(BOSTON POST RD)(243)</name>
+      <Point><coordinates>-72.1999382313231,41.3714300679392</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:86  / TO SR-900(BONNIE CIR)(314)</name>
+      <Point><coordinates>-72.0571214005578,41.3621345973193</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 SB Exit:93  / TO SR-216(288)</name>
+      <Point><coordinates>-71.7978903530786,41.4417044378958</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 NB Exit:29  / TO OLD MILL RD #1(009)</name>
+      <Point><coordinates>-73.6570911642258,41.0913709596329</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 NB Exit:37  / TO SR-124(207)</name>
+      <Point><coordinates>-73.4873618220605,41.1177356434181</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 NB Exit:59  / TO SR-69(114)</name>
+      <Point><coordinates>-72.9784049753889,41.3377406144072</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 NB Exit:68N 68E / ACCESS TO I-91(TR-812) &amp; SR-66</name>
+      <Point><coordinates>-72.7685579918726,41.5309706873099</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 NB Exit:90  / JCT US-5 NB</name>
+      <Point><coordinates>-72.6512559572375,41.7549164906786</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 NB Exit:91  / TO SR-502(171)</name>
+      <Point><coordinates>-72.6401322243079,41.7596419570526</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 SB Exit:35  / TO SR-137(027)</name>
+      <Point><coordinates>-73.5484342746134,41.1112886605813</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 SB Exit:49  / TO SR-25(807)</name>
+      <Point><coordinates>-73.1837387263241,41.2367724301228</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 SB Exit:-  / TO SR-175(152)</name>
+      <Point><coordinates>-72.7047509993301,41.6974540592557</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 SB Exit:87  / ACCESS TO I-91(TR-827)&amp; BRAINARD RD</name>
+      <Point><coordinates>-72.6626489720217,41.7385568786635</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>190 WB Exit:-  / ACCESS TO I-91(TR-850)</name>
+      <Point><coordinates>-72.58860408357,41.9903437962528</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 EB Exit:7  / JCT SR-17</name>
+      <Point><coordinates>-72.6031682350583,41.7190922614783</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 EB Exit:8  / JCT SR-94</name>
+      <Point><coordinates>-72.6003474307105,41.7165021713217</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 EB Exit:13  / TO SR-66(032)</name>
+      <Point><coordinates>-72.4604211016674,41.6371541937529</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 WB Exit:11  / TO TOLL GATE RD(028)</name>
+      <Point><coordinates>-72.5198297995068,41.6610207627533</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 WB Exit:20  / TO SR-354(049)</name>
+      <Point><coordinates>-72.3132396774675,41.5644187207294</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 WB Exit:22  / TO SCOTT HILL RD(059)</name>
+      <Point><coordinates>-72.2042363473461,41.5708271682258</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 WB Exit:29  / TO NEW LONDON TPKE(073)</name>
+      <Point><coordinates>-72.0934174593851,41.5444507508867</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>20 WB Exit:-  / TO HAMILTON RD SOUTH(004)</name>
+      <Point><coordinates>-72.6801510485967,41.9176327489477</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>20 WB Exit:-  / TO OLD COUNTY RD(012)</name>
+      <Point><coordinates>-72.6507377325778,41.9039422592458</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>291 EB Exit:-  / TO I-84 WB(803)</name>
+      <Point><coordinates>-72.5688037701561,41.7897392521581</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2A WB Exit:5  / TO SR-32(003)</name>
+      <Point><coordinates>-72.0943035225448,41.4814731017737</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>384 EB Exit:2  / TO WETHERELL ST(012)</name>
+      <Point><coordinates>-72.5474961068899,41.7644121900127</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>384 EB Exit:3  / TO SR-83(017)</name>
+      <Point><coordinates>-72.5207230684077,41.7624336612086</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>384 EB Exit:4  / TO SPRING ST(021)</name>
+      <Point><coordinates>-72.49729654077,41.7626435790889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>384 WB Exit:1  / TO SR-502(SPENCER ST)(011)</name>
+      <Point><coordinates>-72.5697780337453,41.7648777105061</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>395 NB Exit:9  / TO SR-2A(TR-801)</name>
+      <Point><coordinates>-72.1157619241154,41.4845109201205</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>395 NB Exit:18  / TO SR-97(020)</name>
+      <Point><coordinates>-72.0523876552839,41.5848188345709</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>395 NB Exit:28  / TO SR-647(LATHROP RD)(038)</name>
+      <Point><coordinates>-71.9161846874256,41.6634252453085</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>395 NB Exit:38  / TO KNOX AVE(048)</name>
+      <Point><coordinates>-71.8738306776748,41.7990921768976</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>395 NB Exit:47  / TO US-44(SCHOOL ST)(068)</name>
+      <Point><coordinates>-71.8855421360598,41.9223717359519</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>395 SB Exit:9  / JCT SR-2A  </name>
+      <Point><coordinates>-72.1147646869895,41.4927377493642</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>395 SB Exit:22  / TO SR-138(032)</name>
+      <Point><coordinates>-71.9680622093386,41.594957176201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5 NB Exit:89  / ACCESS TO I-91 NB(TR-861)</name>
+      <Point><coordinates>-72.6604039776835,41.7463993103503</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>598 WB Exit:-  / TO PROSPECT ST(004)</name>
+      <Point><coordinates>-72.6713951742776,41.7616551775769</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 EB Exit:46  / TO SR-503(TR-823)</name>
+      <Point><coordinates>-72.700551915179,41.757622365331</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 EB Exit:39A  / TO SR-9(TR-819)</name>
+      <Point><coordinates>-72.7824765241014,41.7252590852835</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 EB Exit:41  / TO SR-173(107)</name>
+      <Point><coordinates>-72.7466261365685,41.7344295984326</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 EB Exit:44  / TO CAYA AVE(110)</name>
+      <Point><coordinates>-72.7198414181266,41.7498400416076</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 EB Exit:-  / TO SR-32(MAIN ST)(011)</name>
+      <Point><coordinates>-72.2454536599674,41.7251118030811</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 EB Exit:-  / TO SOUTH FRONTAGE RD(001)</name>
+      <Point><coordinates>-71.8538541541646,41.7896230574449</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 WB Exit:-  / TO I-395(TR-803)</name>
+      <Point><coordinates>-71.8728652403019,41.7915360309538</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>691 WB Exit:4  / TO SR-322(013)</name>
+      <Point><coordinates>-72.8446343946856,41.554554157231</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>695 EB Exit:1  / TO ROSS RD(003)</name>
+      <Point><coordinates>-71.8616728970804,41.7700845169878</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>796 SB Exit:2A  / ACCESS TO I-95(TR-808)</name>
+      <Point><coordinates>-73.0688088574701,41.2331376408955</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 NB Exit:35  / JCT SR-73</name>
+      <Point><coordinates>-73.0578488452346,41.5653598722556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 NB Exit:14  / TO KNEEN ST(023)</name>
+      <Point><coordinates>-73.0897147042732,41.3120909987692</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 NB Exit:16  / JCT SR-727(PERSHING DR)</name>
+      <Point><coordinates>-73.0852290061416,41.3258146102069</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 SB Exit:1  / TO PROSPECT ST(122)</name>
+      <Point><coordinates>-73.1950506021734,41.1747017371603</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 SB Exit:14  / TO RT 110(026)</name>
+      <Point><coordinates>-73.0864448484147,41.3148905495544</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 SB Exit:34  / TO WEST MAIN ST #1(079)</name>
+      <Point><coordinates>-73.0572480454409,41.5607799033436</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>82 WB Exit:-  / TO SR-9(TR-802)</name>
+      <Point><coordinates>-72.4913203895357,41.4214487663093</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:7  / JCT US-7</name>
+      <Point><coordinates>-73.4281504424941,41.4170923277077</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:33  / TO SR-72(TR-813)</name>
+      <Point><coordinates>-72.8462291834128,41.6654255833836</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:56  / JCT SR-500</name>
+      <Point><coordinates>-72.6547665300779,41.7653473165836</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:5  / TO SR-841(010)</name>
+      <Point><coordinates>-73.4645164102017,41.4023920730277</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:8  / JCT US-6</name>
+      <Point><coordinates>-73.4139218355077,41.4140440345926</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:25  / TO HARPERS FERRY RD(296)</name>
+      <Point><coordinates>-73.0254261416352,41.5437097151844</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:41  / TO SR-173(107)</name>
+      <Point><coordinates>-72.7466261365685,41.7344295984326</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:59  / JCT I-384</name>
+      <Point><coordinates>-72.5975185774597,41.7718847001065</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:62  / TO BUCKLAND ST(306)</name>
+      <Point><coordinates>-72.5636269402341,41.789184565728</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:66  / TO SR-541(258)</name>
+      <Point><coordinates>-72.4644090789172,41.8334104576479</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 EB Exit:68  / TO SR-195(266)</name>
+      <Point><coordinates>-72.3640565457047,41.8623516852332</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:19  / TO SR-8(TR-812)</name>
+      <Point><coordinates>-73.0482226717381,41.5517511985549</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:-  / BGN HOV LANE(701)</name>
+      <Point><coordinates>-72.4933213939532,41.825062179423</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:7  / TO US-7(TR-804)</name>
+      <Point><coordinates>-73.4202125459125,41.4175078065989</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:9  / TO SR-25(023)</name>
+      <Point><coordinates>-73.3504245428028,41.4259488767317</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:16  / TO SR-188(045)</name>
+      <Point><coordinates>-73.1591559449879,41.4962021317592</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:20  / TO SR-8(TR-810)</name>
+      <Point><coordinates>-73.0507114151456,41.551659211455</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:32  / TO SR-10(095)</name>
+      <Point><coordinates>-72.8737720420981,41.6322517691543</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:36  / TO RAMP 182(184)(SLATER RD)</name>
+      <Point><coordinates>-72.8185934006863,41.6801163053406</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:38  / TO US-6(207)</name>
+      <Point><coordinates>-72.7940195586003,41.7214027504362</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:39  / JCT SR-508</name>
+      <Point><coordinates>-72.7905340617602,41.7231507595381</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:45  / JCT SR-504</name>
+      <Point><coordinates>-72.7032447286348,41.7515396566262</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:62 60 / TO PLEASANT VALLEY RD &amp; US-44 &amp; I-384</name>
+      <Point><coordinates>-72.5466490842308,41.8033547332275</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 WB Exit:70  / TO SR-32(276)</name>
+      <Point><coordinates>-72.2809045125168,41.9033173054638</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 NB Exit:16  / JCT SR-17(NB)(HARTFORD AVE)</name>
+      <Point><coordinates>-72.6505397236624,41.5679916875195</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 NB Exit:7  / TO SR-82(TR-801)</name>
+      <Point><coordinates>-72.4911610649587,41.4175911627426</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 NB Exit:8  / TO BEAVER MEADOW RD(021)</name>
+      <Point><coordinates>-72.5254152759278,41.4547420839072</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 NB Exit:10  / TO SR-154(030)</name>
+      <Point><coordinates>-72.594280007539,41.5101406823558</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 SB Exit:27  / TO CHESTNUT ST(062)</name>
+      <Point><coordinates>-72.774093238129,41.67028409998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 SB Exit:2  / TO SR-154(005)</name>
+      <Point><coordinates>-72.3823801820619,41.3244671885467</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 SB Exit:5  / TO SR-80(016)</name>
+      <Point><coordinates>-72.4500358570153,41.3845436727656</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 SB Exit:9  / TO SR-81(027)</name>
+      <Point><coordinates>-72.5583007494203,41.4731133249421</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 NB Exit:13  / JCT SR-702</name>
+      <Point><coordinates>-72.8251348537345,41.4215182703953</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
