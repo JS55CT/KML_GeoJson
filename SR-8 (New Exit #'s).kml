@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Exit renumbering for Routes 8, 9, 17, 72 and 571</name>
+    <description/>
+    <Style id="icon-1899-DB4436-labelson">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>Route 8</name>
+      <Placemark>
+        <name>New 1 = Old 2 - DESCRIPTION: to CT-130, Downtown</name>
+        <description><![CDATA[ROUTE_ID   8-N    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 1  =  Old 2    <br>   DESCRIPTION   to CT-130, Downtown    <br>   NOTES       <br>   TOWN   Bridgeport    <br>   MAINTENANCE   3]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.195186,41.177286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 2A = Old 4 - DESCRIPTION: Lindley Street</name>
+        <description><![CDATA[ROUTE_ID   8-N    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 2A  =  Old 4    <br>   DESCRIPTION   Lindley Street    <br>   NOTES       <br>   TOWN   Bridgeport    <br>   MAINTENANCE   3]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.194975,41.194703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 2B = Old 5 - DESCRIPTION: US-1, Boston Ave, North Ave</name>
+        <description><![CDATA[ROUTE_ID   8-N    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 2B  =  Old 5    <br>   DESCRIPTION   US-1, Boston Ave, North Ave    <br>   NOTES       <br>   TOWN   Bridgeport    <br>   MAINTENANCE   3]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.190681,41.205863,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 3 = Old N/A - DESCRIPTION: (LEFT EXIT) CT-25 NORTH to CT-15 SOUTH, Trumbull, N.Y. City</name>
+        <description><![CDATA[ROUTE_ID   8-N    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 3  =  Old N/A    <br>   DESCRIPTION   (LEFT EXIT) CT-25 NORTH to CT-15 SOUTH, Trumbull, N.Y. City    <br>   NOTES       <br>   TOWN   Bridgeport    <br>   MAINTENANCE   3]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.181149,41.21761,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 5 = Old 8 - DESCRIPTION: to CT-108, Stratford</name>
+        <description><![CDATA[ROUTE_ID   8-N    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 5  =  Old 8    <br>   DESCRIPTION   to CT-108, Stratford    <br>   NOTES       <br>   TOWN   Trumbull    <br>   MAINTENANCE   3]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.162338,41.227855,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 6 = Old 9 - DESCRIPTION: CT-15 NORTH, Merritt Pkwy, New Haven (PASSENGER VEHICLES ONLY) </name>
+        <description><![CDATA[ROUTE_ID   8-N    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 6  =  Old 9    <br>   DESCRIPTION   CT-15 NORTH, Merritt Pkwy, New Haven (PASSENGER VEHICLES ONLY)    <br>   NOTES   round up to eliminate suffix and align numbering with RTE 15 SB    <br>   TOWN   Trumbull    <br>   MAINTENANCE   3]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.15583,41.232601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 7 = Old 11 - DESCRIPTION: Huntington Rd</name>
+        <description><![CDATA[ROUTE_ID   8-N    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 7  =  Old 11    <br>   DESCRIPTION   Huntington Rd    <br>   NOTES       <br>   TOWN   Trumbull    <br>   MAINTENANCE   3]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.147514,41.252681,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 9 = Old 12 - DESCRIPTION: Old Stratford Rd</name>
+        <description><![CDATA[ROUTE_ID   8-N    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 9  =  Old 12    <br>   DESCRIPTION   Old Stratford Rd    <br>   NOTES       <br>   TOWN   Shelton    <br>   MAINTENANCE   3]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.118797,41.27275,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 11  =  Old 13 - DESCRIPTION: Constitution Blvd, Bridgeport Ave</name>
+        <description><![CDATA[ROUTE_ID   8-N    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 11  =  Old 13    <br>   DESCRIPTION   Constitution Blvd, Bridgeport Ave    <br>   NOTES       <br>   TOWN   Shelton    <br>   MAINTENANCE   3]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.100578,41.302421,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 12A = Old 14 - DESCRIPTION: CT-110, Howe Ave, Shelton</name>
+        <description><![CDATA[ROUTE_ID   8-N    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 12A  =  Old 14    <br>   DESCRIPTION   CT-110, Howe Ave, Shelton    <br>   NOTES       <br>   TOWN   Shelton    <br>   MAINTENANCE   3]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.089686,41.312061,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 12B = Old 15 - DESCRIPTION: CT-34, Derby, New Haven</name>
+        <description><![CDATA[ROUTE_ID   8-N    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 12B  =  Old 15    <br>   DESCRIPTION   CT-34, Derby, New Haven    <br>   NOTES       <br>   TOWN   Derby    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.08541,41.316057,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 13A = Old 16 - DESCRIPTION: Pershing Dr, Ansonia</name>
+        <description><![CDATA[ROUTE_ID   8-N    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 13A  =  Old 16    <br>   DESCRIPTION   Pershing Dr, Ansonia    <br>   NOTES       <br>   TOWN   Derby    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.0852,41.325843,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 13B = Old 17 - DESCRIPTION: Seymour Avenue</name>
+        <description><![CDATA[ROUTE_ID   8-N    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 13B  =  Old 17    <br>   DESCRIPTION   Seymour Avenue    <br>   NOTES       <br>   TOWN   Derby    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.091546,41.33233,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 14 = Old 18 - DESCRIPTION: Division Street</name>
+        <description><![CDATA[ROUTE_ID   8-N    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 14  =  Old 18    <br>   DESCRIPTION   Division Street    <br>   NOTES       <br>   TOWN   Derby    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.092142,41.336946,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 15 = Old 19 - DESCRIPTION: CT-334, Wakelee Avenue</name>
+        <description><![CDATA[ROUTE_ID   8-N    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 15  =  Old 19    <br>   DESCRIPTION   CT-334, Wakelee Avenue    <br>   NOTES       <br>   TOWN   Ansonia    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.092994,41.355386,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 17 = Old 21 - DESCRIPTION: Derby Ave</name>
+        <description><![CDATA[ROUTE_ID   8-N    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 17  =  Old 21    <br>   DESCRIPTION   Derby Ave    <br>   NOTES       <br>   TOWN   Seymour    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.080533,41.380305,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 18 = Old 22 - DESCRIPTION:  CT-67, Seymour</name>
+        <description><![CDATA[ROUTE_ID   8-N    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 18  =  Old 22    <br>   DESCRIPTION   CT-67, Seymour    <br>   NOTES       <br>   TOWN   Seymour    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.075938,41.394264,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 20 = Old 23 - DESCRIPTION: CT-42, Beacon Falls, Oxford</name>
+        <description><![CDATA[ROUTE_ID   8-N    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 20  =  Old 23    <br>   DESCRIPTION   CT-42, Beacon Falls, Oxford    <br>   NOTES       <br>   TOWN   Beacon Falls    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.06751,41.426961,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 24 = Old 25 - DESCRIPTION: Cross St</name>
+        <description><![CDATA[ROUTE_ID   8-N    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 24  =  Old 25    <br>   DESCRIPTION   Cross St    <br>   NOTES       <br>   TOWN   Beacon Falls    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.052333,41.466536,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 25A = Old 26 - DESCRIPTION: CT-63, S Main St</name>
+        <description><![CDATA[ROUTE_ID   8-N    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 25A  =  Old 26    <br>   DESCRIPTION   CT-63, S Main St    <br>   NOTES       <br>   TOWN   Naugatuck    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.050192,41.483946,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 25B = Old 27 - DESCRIPTION: Naugatuck</name>
+        <description><![CDATA[ROUTE_ID   8-N    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 25B  =  Old 27    <br>   DESCRIPTION   Naugatuck    <br>   NOTES       <br>   TOWN   Naugatuck    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.050767,41.493605,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 26 = Old 28 - DESCRIPTION: to CT-68, Union City, Prospect</name>
+        <description><![CDATA[ROUTE_ID   8-N    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 26  =  Old 28    <br>   DESCRIPTION   to CT-68, Union City, Prospect    <br>   NOTES       <br>   TOWN   Naugatuck    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.050225,41.499333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 27 = Old 29 - DESCRIPTION: S Main St, Waterbury</name>
+        <description><![CDATA[ROUTE_ID   8-N    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 27  =  Old 29    <br>   DESCRIPTION   S Main St, Waterbury    <br>   NOTES       <br>   TOWN   Naugatuck    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.048061,41.512511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 29 = Old 30 - DESCRIPTION: South Leonard St, Washington Ave</name>
+        <description><![CDATA[ROUTE_ID   8-N    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 29  =  Old 30    <br>   DESCRIPTION   South Leonard St, Washington Ave    <br>   NOTES       <br>   TOWN   Waterbury    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.043936,41.537849,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 30A = Old 31 - DESCRIPTION: I-84 EAST, Hartford</name>
+        <description><![CDATA[ROUTE_ID   8-N    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 30A  =  Old 31    <br>   DESCRIPTION   I-84 EAST, Hartford    <br>   NOTES       <br>   TOWN   Waterbury    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.047025,41.5494,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 30B  =  Old 32 - DESCRIPTION: Downtown Waterbury</name>
+        <description><![CDATA[ROUTE_ID   8-N    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 30B  =  Old 32    <br>   DESCRIPTION   Downtown Waterbury    <br>   NOTES       <br>   TOWN   Waterbury    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.048327,41.550016,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 30C = Old 33 - DESCRIPTION: (LEFT EXIT) I-84 WEST, Danbury</name>
+        <description><![CDATA[ROUTE_ID   8-N    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 30C  =  Old 33    <br>   DESCRIPTION   (LEFT EXIT) I-84 WEST, Danbury    <br>   NOTES       <br>   TOWN   Waterbury    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.050626,41.550771,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 31 = Old 35 - DESCRIPTION: (LEFT EXIT) CT-73, Oakville, Watertown</name>
+        <description><![CDATA[ROUTE_ID   8-N    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 31  =  Old 35    <br>   DESCRIPTION   (LEFT EXIT) CT-73, Oakville, Watertown    <br>   NOTES       <br>   TOWN   Waterbury    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.057923,41.565179,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 32 = Old 36 - DESCRIPTION: Huntingdon Ave, Colonial Ave</name>
+        <description><![CDATA[ROUTE_ID   8-N    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 32  =  Old 36    <br>   DESCRIPTION   Huntingdon Ave, Colonial Ave    <br>   NOTES       <br>   TOWN   Waterbury    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.052568,41.5823,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 34 = Old 37 - DESCRIPTION: CT-262, Watertown</name>
+        <description><![CDATA[ROUTE_ID   8-N    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 34  =  Old 37    <br>   DESCRIPTION   CT-262, Watertown    <br>   NOTES       <br>   TOWN   Watertown    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.065687,41.603167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 38 = Old 38 - DESCRIPTION: US-6 WEST, CT-109, CT-254, Thomaston</name>
+        <description><![CDATA[ROUTE_ID   8-N    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 38  =  Old 38    <br>   DESCRIPTION   US-6 WEST, CT-109, CT-254, Thomaston    <br>   NOTES       <br>   TOWN   Thomaston    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.079454,41.651451,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 39 = Old 39 - DESCRIPTION: US-6 EAST, CT-222, Thomaston, Bristol</name>
+        <description><![CDATA[ROUTE_ID   8-N    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 39  =  Old 39    <br>   DESCRIPTION   US-6 EAST, CT-222, Thomaston, Bristol    <br>   NOTES       <br>   TOWN   Thomaston    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.066927,41.671836,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 44 = Old 41 - DESCRIPTION: Northfield, Campville</name>
+        <description><![CDATA[ROUTE_ID   8-N    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 44  =  Old 41    <br>   DESCRIPTION   Northfield, Campville    <br>   NOTES       <br>   TOWN   Litchfield    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.098155,41.724704,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 46 = Old 42 - DESCRIPTION: CT-118, Litchfield, Harwinton</name>
+        <description><![CDATA[ROUTE_ID   8-N    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 46  =  Old 42    <br>   DESCRIPTION   CT-118, Litchfield, Harwinton    <br>   NOTES       <br>   TOWN   Harwinton    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.115337,41.758889,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 49 = Old 43 - DESCRIPTION: Harwinton Avenue</name>
+        <description><![CDATA[ROUTE_ID   8-N    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 49  =  Old 43    <br>   DESCRIPTION   Harwinton Avenue    <br>   NOTES       <br>   TOWN   Harwinton    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.107644,41.789907,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 50 = Old 44 - DESCRIPTION: CT-4, US-202, Downtown Torrington</name>
+        <description><![CDATA[ROUTE_ID   8-N    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 50  =  Old 44    <br>   DESCRIPTION   CT-4, US-202, Downtown Torrington    <br>   NOTES       <br>   TOWN   Torrington    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.112731,41.803606,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 51 = Old 45 - DESCRIPTION: Kennedy Dr, Winsted Rd</name>
+        <description><![CDATA[ROUTE_ID   8-N    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 51  =  Old 45    <br>   DESCRIPTION   Kennedy Dr, Winsted Rd    <br>   NOTES       <br>   TOWN   Torrington    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.107214,41.827683,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 55 = Old 46 - DESCRIPTION:  Pinewoods Rd, Burrville</name>
+        <description><![CDATA[ROUTE_ID   8-N    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 55  =  Old 46    <br>   DESCRIPTION   Pinewoods Rd, Burrville    <br>   NOTES       <br>   TOWN   Torrington    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.07257,41.875392,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 1A = Old N/A - DESCRIPTION: (LEFT EXIT) I-95 NORTH, New Haven</name>
+        <description><![CDATA[ROUTE_ID   8-S    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 1A  =  Old N/A    <br>   DESCRIPTION   (LEFT EXIT) I-95 NORTH, New Haven    <br>   NOTES       <br>   TOWN   Bridgeport    <br>   MAINTENANCE   3]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.193042,41.172366,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 1B = Old N/A - DESCRIPTION: I-95 SOUTH, NY City</name>
+        <description><![CDATA[ROUTE_ID   8-S    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 1B  =  Old N/A    <br>   DESCRIPTION   I-95 SOUTH, NY City    <br>   NOTES       <br>   TOWN   Bridgeport    <br>   MAINTENANCE   3]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.193243,41.172504,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 1C = Old 1 - DESCRIPTION: South End</name>
+        <description><![CDATA[ROUTE_ID   8-S    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 1C  =  Old 1    <br>   DESCRIPTION   South End    <br>   NOTES       <br>   TOWN   Bridgeport    <br>   MAINTENANCE   3]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.1948,41.174276,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 1D = Old 2 - DESCRIPTION: CT-130, Downtown</name>
+        <description><![CDATA[ROUTE_ID   8-S    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 1D  =  Old 2    <br>   DESCRIPTION   CT-130, Downtown    <br>   NOTES       <br>   TOWN   Bridgeport    <br>   MAINTENANCE   3]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.194654,41.180435,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 2A = Old 3 - DESCRIPTION: Main St, Washington Ave</name>
+        <description><![CDATA[ROUTE_ID   8-S    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 2A  =  Old 3    <br>   DESCRIPTION   Main St, Washington Ave    <br>   NOTES       <br>   TOWN   Bridgeport    <br>   MAINTENANCE   3]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.194807,41.191921,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 2B = Old 5 - DESCRIPTION: US-1, Boston Ave, North Ave</name>
+        <description><![CDATA[ROUTE_ID   8-S    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 2B  =  Old 5    <br>   DESCRIPTION   US-1, Boston Ave, North Ave    <br>   NOTES       <br>   TOWN   Bridgeport    <br>   MAINTENANCE   3]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.190994,41.206557,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 4 = Old 7 - DESCRIPTION: CT-127, E Main St, White Plains Rd</name>
+        <description><![CDATA[ROUTE_ID   8-S    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 4  =  Old 7    <br>   DESCRIPTION   CT-127, E Main St, White Plains Rd    <br>   NOTES       <br>   TOWN   Trumbull    <br>   MAINTENANCE   3]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.172757,41.224327,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 5 = Old 8 - DESCRIPTION: CT-108, Stratford, to CT-15 NORTH, Merritt Pkwy, New Haven</name>
+        <description><![CDATA[ROUTE_ID   8-S    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 5  =  Old 8    <br>   DESCRIPTION   CT-108, Stratford, to CT-15 NORTH, Merritt Pkwy, New Haven    <br>   NOTES       <br>   TOWN   Trumbull    <br>   MAINTENANCE   3]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.156507,41.232458,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 6 = Old 10 - DESCRIPTION: CT-15 SOUTH, Merritt Pkwy, N.Y. City (PASSENGER VEHICLES ONLY)</name>
+        <description><![CDATA[ROUTE_ID   8-S    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 6  =  Old 10    <br>   DESCRIPTION   CT-15 SOUTH, Merritt Pkwy, N.Y. City (PASSENGER VEHICLES ONLY)    <br>   NOTES       <br>   TOWN   Trumbull    <br>   MAINTENANCE   3]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.151569,41.243135,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 7  =  Old 11 - DESCRIPTION: Huntington Rd</name>
+        <description><![CDATA[ROUTE_ID   8-S    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 7  =  Old 11    <br>   DESCRIPTION   Huntington Rd    <br>   NOTES       <br>   TOWN   Shelton    <br>   MAINTENANCE   3]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.134719,41.261694,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 9 = Old 12 - DESCRIPTION: Old Stratford Rd</name>
+        <description><![CDATA[ROUTE_ID   8-S    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 9  =  Old 12    <br>   DESCRIPTION   Old Stratford Rd    <br>   NOTES       <br>   TOWN   Shelton    <br>   MAINTENANCE   3]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.115446,41.276587,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 11 = Old 13 - DESCRIPTION: Bridgeport Ave, Constitution Blvd</name>
+        <description><![CDATA[ROUTE_ID   8-S    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 11  =  Old 13    <br>   DESCRIPTION   Bridgeport Ave, Constitution Blvd    <br>   NOTES       <br>   TOWN   Shelton    <br>   MAINTENANCE   3]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.099759,41.304378,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 12A = Old 14 - DESCRIPTION: CT-110, Howe Ave, Shelton</name>
+        <description><![CDATA[ROUTE_ID   8-S    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 12A  =  Old 14    <br>   DESCRIPTION   CT-110, Howe Ave, Shelton    <br>   NOTES       <br>   TOWN   Derby    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.086561,41.314882,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 12B = Old 15 - DESCRIPTION: CT-34, Derby, New Haven</name>
+        <description><![CDATA[ROUTE_ID   8-S    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 12B  =  Old 15    <br>   DESCRIPTION   CT-34, Derby, New Haven    <br>   NOTES       <br>   TOWN   Derby    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.084554,41.318247,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 13 = Old 17 - DESCRIPTION: Seymour Avenue</name>
+        <description><![CDATA[ROUTE_ID   8-S    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 13  =  Old 17    <br>   DESCRIPTION   Seymour Avenue    <br>   NOTES       <br>   TOWN   Derby    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.090503,41.330872,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 15 = Old 19 - DESCRIPTION:  to CT-334, Wakelee Ave, Ansonia</name>
+        <description><![CDATA[ROUTE_ID   8-S    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 15  =  Old 19    <br>   DESCRIPTION   to CT-334, Wakelee Ave, Ansonia    <br>   NOTES       <br>   TOWN   Seymour    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.092038,41.363624,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 18 = Old 22 - DESCRIPTION: CT-67, Seymour</name>
+        <description><![CDATA[ROUTE_ID   8-S    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 18  =  Old 22    <br>   DESCRIPTION   CT-67, Seymour    <br>   NOTES       <br>   TOWN   Seymour    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.068425,41.400636,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 22 = Old 24 - DESCRIPTION: to CT-42, Beacon Falls, Oxford</name>
+        <description><![CDATA[ROUTE_ID   8-S    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 22  =  Old 24    <br>   DESCRIPTION   to CT-42, Beacon Falls, Oxford    <br>   NOTES       <br>   TOWN   Beacon Falls    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.067338,41.448442,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 24 = Old 25 - DESCRIPTION: Cross St to CT-63</name>
+        <description><![CDATA[ROUTE_ID   8-S    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 24  =  Old 25    <br>   DESCRIPTION   Cross St to CT-63    <br>   NOTES       <br>   TOWN   Naugatuck    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.050685,41.472376,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 25A = Old 26 - DESCRIPTION: CT-63, S Main St</name>
+        <description><![CDATA[ROUTE_ID   8-S    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 25A  =  Old 26    <br>   DESCRIPTION   CT-63, S Main St    <br>   NOTES       <br>   TOWN   Naugatuck    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.051882,41.487769,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 25B  =  Old 27 - DESCRIPTION: Naugatuck</name>
+        <description><![CDATA[ROUTE_ID   8-S    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 25B  =  Old 27    <br>   DESCRIPTION   Naugatuck    <br>   NOTES       <br>   TOWN   Naugatuck    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.051056,41.492114,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 26  =  Old 28 - DESCRIPTION: to CT-68, Union City, Prospect</name>
+        <description><![CDATA[ROUTE_ID   8-S    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 26  =  Old 28    <br>   DESCRIPTION   to CT-68, Union City, Prospect    <br>   NOTES       <br>   TOWN   Naugatuck    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.046049,41.508239,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 27  =  Old 29 - DESCRIPTION: S Main St</name>
+        <description><![CDATA[ROUTE_ID   8-S    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 27  =  Old 29    <br>   DESCRIPTION   S Main St    <br>   NOTES       <br>   TOWN   Naugatuck    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.049422,41.514514,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 29  =  Old 30 - DESCRIPTION: Washington Avenue</name>
+        <description><![CDATA[ROUTE_ID   8-S    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 29  =  Old 30    <br>   DESCRIPTION   Washington Avenue    <br>   NOTES       <br>   TOWN   Waterbury    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.044717,41.54621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 30A  =  Old 31 - DESCRIPTION: (LEFT EXIT) I-84 EAST, Hartford</name>
+        <description><![CDATA[ROUTE_ID   8-S    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 30A  =  Old 31    <br>   DESCRIPTION   (LEFT EXIT) I-84 EAST, Hartford    <br>   NOTES       <br>   TOWN   Waterbury    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.055222,41.554238,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 30B  =  Old 32 - DESCRIPTION: (LEFT EXIT) Riverside Street</name>
+        <description><![CDATA[ROUTE_ID   8-S    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 30B  =  Old 32    <br>   DESCRIPTION   (LEFT EXIT) Riverside Street    <br>   NOTES       <br>   TOWN   Waterbury    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.055446,41.555718,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 30C  =  Old 33 - DESCRIPTION: I-84, WEST, Danbury</name>
+        <description><![CDATA[ROUTE_ID   8-S    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 30C  =  Old 33    <br>   DESCRIPTION   I-84, WEST, Danbury    <br>   NOTES       <br>   TOWN   Waterbury    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.055744,41.556536,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 30D  =  Old 34 - DESCRIPTION: W Main St, Downtown Waterbury</name>
+        <description><![CDATA[ROUTE_ID   8-S    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 30D  =  Old 34    <br>   DESCRIPTION   W Main St, Downtown Waterbury    <br>   NOTES       <br>   TOWN   Waterbury    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.057371,41.560905,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 32  =  Old 36 - DESCRIPTION: Huntingdon Ave, Colonial Ave</name>
+        <description><![CDATA[ROUTE_ID   8-S    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 32  =  Old 36    <br>   DESCRIPTION   Huntingdon Ave, Colonial Ave    <br>   NOTES       <br>   TOWN   Waterbury    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.058359,41.588587,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 34  =  Old 37 - DESCRIPTION: CT-262, Watertown</name>
+        <description><![CDATA[ROUTE_ID   8-S    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 34  =  Old 37    <br>   DESCRIPTION   CT-262, Watertown    <br>   NOTES       <br>   TOWN   Watertown    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.062254,41.616532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 38  =  Old 38 - DESCRIPTION: US-6 WEST, CT-254, to CT-109, Thomaston, Watertown</name>
+        <description><![CDATA[ROUTE_ID   8-S    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 38  =  Old 38    <br>   DESCRIPTION   US-6 WEST, CT-254, to CT-109, Thomaston, Watertown    <br>   NOTES       <br>   TOWN   Thomaston    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.07832,41.660724,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 39  =  Old 39 - DESCRIPTION: US-6 EAST, Bristol</name>
+        <description><![CDATA[ROUTE_ID   8-S    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 39  =  Old 39    <br>   DESCRIPTION   US-6 EAST, Bristol    <br>   NOTES       <br>   TOWN   Thomaston    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.064683,41.677917,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 40  =  Old 40 - DESCRIPTION: CT-222, N Main St</name>
+        <description><![CDATA[ROUTE_ID   8-S    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 40  =  Old 40    <br>   DESCRIPTION   CT-222, N Main St    <br>   NOTES       <br>   TOWN   Thomaston    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.068315,41.684353,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 44  =  Old 41 - DESCRIPTION: Northfield, Campville</name>
+        <description><![CDATA[ROUTE_ID   8-S    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 44  =  Old 41    <br>   DESCRIPTION   Northfield, Campville    <br>   NOTES       <br>   TOWN   Litchfield    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.103561,41.727401,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 46  =  Old 42 - DESCRIPTION: CT-118, Harwinton, Litchfield</name>
+        <description><![CDATA[ROUTE_ID   8-S    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 46  =  Old 42    <br>   DESCRIPTION   CT-118, Harwinton, Litchfield    <br>   NOTES       <br>   TOWN   Harwinton    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.115391,41.766039,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 49  =  Old 43 - DESCRIPTION: Harwinton Avenue</name>
+        <description><![CDATA[ROUTE_ID   8-S    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 49  =  Old 43    <br>   DESCRIPTION   Harwinton Avenue    <br>   NOTES       <br>   TOWN   Torrington    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.1133,41.801602,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 50  =  Old 44 - DESCRIPTION: CT-4, US-202, Downtown Torrington</name>
+        <description><![CDATA[ROUTE_ID   8-S    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 50  =  Old 44    <br>   DESCRIPTION   CT-4, US-202, Downtown Torrington    <br>   NOTES       <br>   TOWN   Torrington    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.113949,41.811102,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 51  =  Old 45 - DESCRIPTION: Winsted Rd, Kennedy Dr</name>
+        <description><![CDATA[ROUTE_ID   8-S    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 51  =  Old 45    <br>   DESCRIPTION   Winsted Rd, Kennedy Dr    <br>   NOTES       <br>   TOWN   Torrington    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.105495,41.830804,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 55  =  Old 46 - DESCRIPTION: Pinewoods Rd, Burrville</name>
+        <description><![CDATA[ROUTE_ID   8-S    <br>   PROJECT   0015-0381    <br>   CONSTRUCTION COMPLETION YEAR   2025    <br>   LABEL   New 55  =  Old 46    <br>   DESCRIPTION   Pinewoods Rd, Burrville    <br>   NOTES       <br>   TOWN   Torrington    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.071598,41.882751,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

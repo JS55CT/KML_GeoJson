@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Route 8 and Route 25</name>
+    <Style id="icon-1899-DB4436-labelson">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>New 1 = Old 2 | CT-130, Downtown</name>
+      <Point>
+        <coordinates>
+          -73.195204,41.177397,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 2A = Old 4 | Lindley Street</name>
+      <Point>
+        <coordinates>
+          -73.195057,41.194972,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 2B = Old 5 | US-1, Boston Ave / North Ave</name>
+      <Point>
+        <coordinates>
+          -73.190964,41.205611,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 3 = Old - | (LEFT EXIT) CT-25 NORTH to CT-15 SOUTH, Trumbull / N.Y. City</name>
+      <Point>
+        <coordinates>
+          -73.181037,41.217726,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 5 = Old 8 | CT-108, Stratford</name>
+      <Point>
+        <coordinates>
+          -73.162467,41.227807,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 6 = Old 9 | CT-15 NORTH, Merritt Pkwy / New Haven (PASSENGER VEHICLES ONLY)</name>
+      <Point>
+        <coordinates>
+          -73.155961,41.232483,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 7 = Old 11 | Huntington Rd</name>
+      <Point>
+        <coordinates>
+          -73.147556,41.25267,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 9 = Old 12 | Old Stratford Rd</name>
+      <Point>
+        <coordinates>
+          -73.118832,41.272751,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 11 = Old 13 | Constitution Blvd / Bridgeport Ave</name>
+      <Point>
+        <coordinates>
+          -73.10065,41.302371,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 12A = Old 14 | CT-110, Howe Ave / Shelton</name>
+      <Point>
+        <coordinates>
+          -73.089714,41.312083,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 12B = Old 15 | CT-34, Derby / New Haven</name>
+      <Point>
+        <coordinates>
+          -73.085314,41.316167,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 13A = Old 16 | Pershing Dr / Ansonia</name>
+      <Point>
+        <coordinates>
+          -73.085228,41.325806,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 13B = Old 17 | Seymour Avenue</name>
+      <Point>
+        <coordinates>
+          -73.091611,41.332359,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 14 = Old 18 | Division Street</name>
+      <Point>
+        <coordinates>
+          -73.092191,41.33701,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 15 = Old 19 | CT-334, Wakelee Avenue</name>
+      <Point>
+        <coordinates>
+          -73.093001,41.355453,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 17 = Old 21 | Derby Ave</name>
+      <Point>
+        <coordinates>
+          -73.080575,41.380319,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 18 = Old 22 | CT-67, Seymour</name>
+      <Point>
+        <coordinates>
+          -73.07597,41.394277,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 21 = Old 23 | CT-42, Beacon Falls / Oxford</name>
+      <Point>
+        <coordinates>
+          -73.06755,41.426922,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 24 = Old 25 | Cross St</name>
+      <Point>
+        <coordinates>
+          -73.052332,41.466584,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 25A = Old 26 | CT-63, S Main St</name>
+      <Point>
+        <coordinates>
+          -73.05026,41.483967,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 25B = Old 27 | Naugatuck</name>
+      <Point>
+        <coordinates>
+          -73.050811,41.493628,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 26 = Old 28 | CT-68, Union City / Prospect</name>
+      <Point>
+        <coordinates>
+          -73.050228,41.49936,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 27 = Old 29 | S Main St / Waterbury</name>
+      <Point>
+        <coordinates>
+          -73.048092,41.512467,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 29 = Old 30 | South Leonard St / Washington Ave</name>
+      <Point>
+        <coordinates>
+          -73.043986,41.537889,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 30A = Old 31 | I-84 EAST, Hartford </name>
+      <Point>
+        <coordinates>
+          -73.046992,41.549367,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 30B = Old 32 | Downtown Waterbury</name>
+      <Point>
+        <coordinates>
+          -73.04897,41.550207,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 30C = Old 33 | (LEFT EXIT) I-84 WEST, Danbury</name>
+      <Point>
+        <coordinates>
+          -73.05055,41.550788,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 31 = Old 35 | (LEFT EXIT) CT-73, Oakville / Watertown</name>
+      <Point>
+        <coordinates>
+          -73.057848,41.565351,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 32 = Old 36 | Huntingdon Ave / Colonial Ave</name>
+      <Point>
+        <coordinates>
+          -73.052635,41.582348,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 34 = Old 37 | CT-262, Watertown</name>
+      <Point>
+        <coordinates>
+          -73.065669,41.603274,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 38 = Old 38 | US-6 WEST / CT-109 / CT-254, Thomaston</name>
+      <Point>
+        <coordinates>
+          -73.079507,41.65143,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 39 = Old 39 | US-6 EAST / CT-222, Thomaston / Bristol</name>
+      <Point>
+        <coordinates>
+          -73.066944,41.671854,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 44 = Old 41 | Northfield / Campville</name>
+      <Point>
+        <coordinates>
+          -73.098172,41.724666,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 46 = Old 42 | CT-118, Litchfield / Harwinton</name>
+      <Point>
+        <coordinates>
+          -73.115383,41.758916,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 49 = Old 43 | Harwinton Avenue</name>
+      <Point>
+        <coordinates>
+          -73.107705,41.789953,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 50 = Old 44 | CT-4 / US-202, Downtown Torrington</name>
+      <Point>
+        <coordinates>
+          -73.112788,41.803664,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 51 = Old 45 | Kennedy Dr / Winsted Rd</name>
+      <Point>
+        <coordinates>
+          -73.10729,41.827669,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 55 = Old 46 | Pinewoods Rd / Burrville</name>
+      <Point>
+        <coordinates>
+          -73.072583,41.875454,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 1A = Old - | (LEFT EXIT) I-95 NORTH, New Haven</name>
+      <Point>
+        <coordinates>
+          -73.193482,41.17301,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 1B = Old - | I-95 SOUTH, N.Y. City</name>
+      <Point>
+        <coordinates>
+          -73.193482,41.17301,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 1C = Old 1 | South End</name>
+      <Point>
+        <coordinates>
+          -73.194773,41.174304,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 1D = Old 2 | CT-130, Downtown</name>
+      <Point>
+        <coordinates>
+          -73.194715,41.180129,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 2A = Old 3 | Main St / Washington Ave</name>
+      <Point>
+        <coordinates>
+          -73.194743,41.192002,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 2B = Old 5 | US-1, Boston Ave / North Ave</name>
+      <Point>
+        <coordinates>
+          -73.190971,41.206418,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 4 = Old 7 | CT-127, E Main St / White Plains Rd</name>
+      <Point>
+        <coordinates>
+          -73.172712,41.224288,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 5 = Old 8 | CT-108, Stratford, to CT-15 NORTH, Merritt Pkwy / New Haven</name>
+      <Point>
+        <coordinates>
+          -73.156509,41.232383,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 6 = Old 10 | CT-15 SOUTH, Merritt Pkwy / N.Y. City (PASSENGER VEHICLES ONLY)</name>
+      <Point>
+        <coordinates>
+          -73.151501,41.243182,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 7 = Old 11 | Huntington Rd</name>
+      <Point>
+        <coordinates>
+          -73.134527,41.261725,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 9 = Old 12 | Old Stratford Rd</name>
+      <Point>
+        <coordinates>
+          -73.115403,41.276527,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 11 = Old 13 | Bridgeport Ave / Constitution Blvd</name>
+      <Point>
+        <coordinates>
+          -73.099655,41.304482,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 12A = Old 14 | CT-110, Howe Ave / Shelton</name>
+      <Point>
+        <coordinates>
+          -73.086444,41.314882,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 12B = Old 15 | CT-34, Derby / New Haven</name>
+      <Point>
+        <coordinates>
+          -73.084471,41.318357,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 13 = Old 17 | Seymour Avenue</name>
+      <Point>
+        <coordinates>
+          -73.090484,41.330877,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 15 = Old 19 | CT-334, Wakelee Ave / Ansonia</name>
+      <Point>
+        <coordinates>
+          -73.091961,41.363626,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 17 = Old 20 | Derby Avenue</name>
+      <Point>
+        <coordinates>
+          -73.083813,41.374375,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 18 = Old 22 | CT-67, Seymour</name>
+      <Point>
+        <coordinates>
+          -73.068375,41.400635,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 21 = Old 24 | CT-42, Beacon Falls / Oxford</name>
+      <Point>
+        <coordinates>
+          -73.067198,41.448885,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 24 = Old 25 | Cross St to CT-63</name>
+      <Point>
+        <coordinates>
+          -73.050625,41.472379,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 25A = Old 26 | CT-63, S Main St</name>
+      <Point>
+        <coordinates>
+          -73.051816,41.487701,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 25B = Old 27 | Naugatuck</name>
+      <Point>
+        <coordinates>
+          -73.05102,41.492009,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 26 = Old 28 | CT-68, Union City / Prospect</name>
+      <Point>
+        <coordinates>
+          -73.046019,41.508313,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 27 = Old 29 | S Main St</name>
+      <Point>
+        <coordinates>
+          -73.049289,41.514382,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 29 = Old 30 | Washington Avenue</name>
+      <Point>
+        <coordinates>
+          -73.044652,41.546141,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 30A = Old 31 | (LEFT EXIT) I-84 EAST, Hartford</name>
+      <Point>
+        <coordinates>
+          -73.055319,41.554632,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 30B = Old 32 | (LEFT EXIT) Riverside Street</name>
+      <Point>
+        <coordinates>
+          -73.055499,41.555768,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 30C = Old 33 | I-84 WEST, Danbury</name>
+      <Point>
+        <coordinates>
+          -73.055635,41.556517,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 30D = Old 34 | W Main St / Downtown Waterbury</name>
+      <Point>
+        <coordinates>
+          -73.057247,41.560771,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 32 = Old 36 | Huntingdon Ave / Colonial Ave</name>
+      <Point>
+        <coordinates>
+          -73.058326,41.588603,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 34 = Old 37 | CT-262, Watertown</name>
+      <Point>
+        <coordinates>
+          -73.062212,41.616544,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 38 = Old 38 | US-6 WEST / CT-254 / CT-109, Thomaston / Watertown</name>
+      <Point>
+        <coordinates>
+          -73.078313,41.66066,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 39 = Old 39 | US-6 EAST, Bristol</name>
+      <Point>
+        <coordinates>
+          -73.064625,41.677922,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 40 = Old 40 | CT-222, N Main St</name>
+      <Point>
+        <coordinates>
+          -73.068289,41.684392,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 44 = Old 41 | Northfield / Campville</name>
+      <Point>
+        <coordinates>
+          -73.103101,41.727158,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 46 = Old 42 | CT-118, Harwinton / Litchfield</name>
+      <Point>
+        <coordinates>
+          -73.115344,41.765978,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 49 = Old 43 | Harwinton Avenue</name>
+      <Point>
+        <coordinates>
+          -73.113249,41.8016,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 50 = Old 44 | CT-4 / US-202, Downtown Torrington</name>
+      <Point>
+        <coordinates>
+          -73.113899,41.811113,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 51 = Old 45 | Winsted Rd / Kennedy Dr</name>
+      <Point>
+        <coordinates>
+          -73.105437,41.830788,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 55 = Old 46 | Pinewoods Rd / Burrville</name>
+      <Point>
+        <coordinates>
+          -73.071533,41.88268,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 5 = Old 7A-B | CT-127, White Plains Rd, CT-15 SOUTH, N.Y. City</name>
+      <Point>
+        <coordinates>
+          -73.186499,41.229334,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 6 = Old 9 | Daniels Farm Rd</name>
+      <Point>
+        <coordinates>
+          -73.194632,41.250979,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 4 = Old 6 | CT-127, Old Town Rd / White Plains Rd </name>
+      <Point>
+        <coordinates>
+          -73.182963,41.22425,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 5 = Old 8B-A | (NO COMMERCIAL VEHICLES) CT-15, Hartford, N.Y. City</name>
+      <Point>
+        <coordinates>
+          -73.190248,41.241689,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 6 = Old 9 | Daniels Farm Road / Trumbull</name>
+      <Point>
+        <coordinates>
+          -73.202613,41.254976,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Exit renumbering for Routes 8, 9, 17, 72 and 571</name>
+    <description/>
+    <Style id="icon-1899-DB4436-labelson">
+      <IconStyle><scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+  <Folder>
+      <name>Route 9</name>
+      <Placemark>
+        <name>New 2  =  Old 2 - DESCRIPTION:  CT-154, Old Saybrook</name>
+        <description><![CDATA[ROUTE_ID   9-N    <br>   PROJECT   0172-0473    <br>   LABEL   New 2  =  Old 2    <br>   DESCRIPTION   CT-154, Old Saybrook    <br>   NOTES       <br>   TOWN   Old Saybrook    <br>   MAINTENANCE   2]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.372502,41.321887,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 3  =  Old 3 - DESCRIPTION: CT-154, CT-153, Essex</name>
+        <description><![CDATA[ROUTE_ID   9-N    <br>   PROJECT   0172-0473    <br>   LABEL   New 3  =  Old 3    <br>   DESCRIPTION   CT-154, CT-153, Essex    <br>   NOTES       <br>   TOWN   Essex    <br>   MAINTENANCE   2]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.401128,41.347793,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 5  =  Old 4 - DESCRIPTION:  CT-154, Middlesex Turnpike</name>
+        <description><![CDATA[ROUTE_ID   9-N    <br>   PROJECT   0172-0473    <br>   LABEL   New 5  =  Old 4    <br>   DESCRIPTION   CT-154, Middlesex Turnpike    <br>   NOTES       <br>   TOWN   Essex    <br>   MAINTENANCE   2]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.424762,41.362353,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 7  =  Old 5 - DESCRIPTION:  CT-80, Deep River</name>
+        <description><![CDATA[ROUTE_ID   9-N    <br>   PROJECT   0172-0473    <br>   LABEL   New 7  =  Old 5    <br>   DESCRIPTION   CT-80, Deep River    <br>   NOTES       <br>   TOWN   Deep River    <br>   MAINTENANCE   2]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.440134,41.377802,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 8  =  Old 6 - DESCRIPTION:  CT-148, Chester</name>
+        <description><![CDATA[ROUTE_ID   9-N    <br>   PROJECT   0172-0473    <br>   LABEL   New 8  =  Old 6    <br>   DESCRIPTION   CT-148, Chester    <br>   NOTES       <br>   TOWN   Chester    <br>   MAINTENANCE   2]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.469816,41.397287,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 10  =  Old 7 - DESCRIPTION:  CT-82, Haddam, East Haddam</name>
+        <description><![CDATA[ROUTE_ID   9-N    <br>   PROJECT   0172-0473    <br>   LABEL   New 10  =  Old 7    <br>   DESCRIPTION   CT-82, Haddam, East Haddam    <br>   NOTES       <br>   TOWN   Chester    <br>   MAINTENANCE   2]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.491239,41.417711,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 13  =  Old 8 - DESCRIPTION:  Beaver Meadow Rd</name>
+        <description><![CDATA[ROUTE_ID   9-N    <br>   PROJECT   0172-0473    <br>   LABEL   New 13  =  Old 8    <br>   DESCRIPTION   Beaver Meadow Rd    <br>   NOTES       <br>   TOWN   Haddam    <br>   MAINTENANCE   2]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.525371,41.454757,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 15  =  Old 9 - DESCRIPTION   CT-81, Higganum</name>
+        <description><![CDATA[ROUTE_ID   9-N    <br>   PROJECT   0172-0473    <br>   LABEL   New 15  =  Old 9    <br>   DESCRIPTION   CT-81, Higganum    <br>   NOTES       <br>   TOWN   Haddam    <br>   MAINTENANCE   2]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.556522,41.471681,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 19  =  Old 10 - DESCRIPTION   CT-154 SOUTH, Aircraft Rd</name>
+        <description><![CDATA[ROUTE_ID   9-N    <br>   PROJECT   0172-0473    <br>   LABEL   New 19  =  Old 10    <br>   DESCRIPTION   CT-154 SOUTH, Aircraft Rd    <br>   NOTES       <br>   TOWN   Middletown    <br>   MAINTENANCE   1]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.594274,41.510182,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 21  =  Old 11 - DESCRIPTION   CT-155 to CT-17, Durham</name>
+        <description><![CDATA[ROUTE_ID   9-N    <br>   PROJECT   0172-0473    <br>   LABEL   New 21  =  Old 11    <br>   DESCRIPTION   CT-155 to CT-17, Durham    <br>   NOTES       <br>   TOWN   Middletown    <br>   MAINTENANCE   1]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.616782,41.531154,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 22  =  Old 12 - DESCRIPTION   Bow Lane, Harbor Area</name>
+        <description><![CDATA[ROUTE_ID   9-N    <br>   PROJECT   0172-0473    <br>   LABEL   New 22  =  Old 12    <br>   DESCRIPTION   Bow Lane, Harbor Area    <br>   NOTES       <br>   TOWN   Middletown    <br>   MAINTENANCE   1]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.629107,41.545347,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 23  =  Old 15 - DESCRIPTION   (LEFT EXIT) CT-66 WEST, Middletown</name>
+        <description><![CDATA[ROUTE_ID   9-N    <br>   PROJECT   0172-0473    <br>   LABEL   New 23  =  Old 15    <br>   DESCRIPTION   (LEFT EXIT) CT-66 WEST, Middletown    <br>   NOTES       <br>   TOWN   Middletown    <br>   MAINTENANCE   1]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.647934,41.563241,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 24  =  Old 16 - DESCRIPTION   (LEFT EXIT) CT-66 EAST, CT-17 NORTH, Portland</name>
+        <description><![CDATA[ROUTE_ID   9-N    <br>   PROJECT   0172-0473    <br>   LABEL   New 24  =  Old 16    <br>   DESCRIPTION   (LEFT EXIT) CT-66 EAST, CT-17 NORTH, Portland    <br>   NOTES       <br>   TOWN   Middletown    <br>   MAINTENANCE   1]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.650554,41.567795,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 25  =  Old 18 - DESCRIPTION   CT-99, Cromwell, Rocky Hill</name>
+        <description><![CDATA[ROUTE_ID   9-N    <br>   PROJECT   0007-0189    <br>   LABEL   New 25  =  Old 18    <br>   DESCRIPTION   CT-99, Cromwell, Rocky Hill    <br>   NOTES       <br>   TOWN   Cromwell    <br>   MAINTENANCE   1]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.648341,41.582057,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 27  =  Old 19 - DESCRIPTION   CT-372, West St</name>
+        <description><![CDATA[ROUTE_ID   9-N    <br>   PROJECT   0007-0189    <br>   LABEL   New 27  =  Old 19    <br>   DESCRIPTION   CT-372, West St    <br>   NOTES       <br>   TOWN   Cromwell    <br>   MAINTENANCE   1]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.671738,41.600927,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 29  =  Old 20N - DESCRIPTION   I-91 NORTH, Hartford</name>
+        <description><![CDATA[ROUTE_ID   9-N    <br>   PROJECT   0007-0189    <br>   LABEL   New 29  =  Old 20N    <br>   DESCRIPTION   I-91 NORTH, Hartford    <br>   NOTES       <br>   TOWN   Cromwell    <br>   MAINTENANCE   1]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.684842,41.622754,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 30  =  Old 20S - DESCRIPTION   (LEFT EXIT) I-91 SOUTH, New Haven</name>
+        <description><![CDATA[ROUTE_ID   9-N    <br>   PROJECT   0007-0189    <br>   LABEL   New 30  =  Old 20S    <br>   DESCRIPTION   (LEFT EXIT) I-91 SOUTH, New Haven    <br>   NOTES   round up to eliminate suffix    <br>   TOWN   Cromwell    <br>   MAINTENANCE   1]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.689776,41.626004,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 31  =  Old 21 - DESCRIPTION   CT-372 to US-5 CT-15 NORTH, East Berlin, Hartford</name>
+        <description><![CDATA[ROUTE_ID   9-N    <br>   PROJECT   0007-0189    <br>   LABEL   New 31  =  Old 21    <br>   DESCRIPTION   CT-372 to US-5 CT-15 NORTH, East Berlin, Hartford    <br>   NOTES       <br>   TOWN   Berlin    <br>   MAINTENANCE   1]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.729491,41.621516,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 32  =  Old 22 - DESCRIPTION   US-5, CT-15 SOUTH, New Haven</name>
+        <description><![CDATA[ROUTE_ID   9-N    <br>   PROJECT   0007-0189    <br>   LABEL   New 32  =  Old 22    <br>   DESCRIPTION   US-5, CT-15 SOUTH, New Haven    <br>   NOTES       <br>   TOWN   Berlin    <br>   MAINTENANCE   1]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.744636,41.626308,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 34  =  Old 24 - DESCRIPTION   (LEFT EXIT) CT-71 CT-372, Kensington</name>
+        <description><![CDATA[ROUTE_ID   9-N    <br>   PROJECT   0007-0189    <br>   LABEL   New 34  =  Old 24    <br>   DESCRIPTION   (LEFT EXIT) CT-71 CT-372, Kensington    <br>   NOTES       <br>   TOWN   Berlin    <br>   MAINTENANCE   1]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.761087,41.645838,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 35  =  Old 25 - DESCRIPTION   Ellis Street</name>
+        <description><![CDATA[ROUTE_ID   9-N    <br>   PROJECT   0007-0189    <br>   LABEL   New 35  =  Old 25    <br>   DESCRIPTION   Ellis Street    <br>   NOTES   round up to eliminate suffix    <br>   TOWN   New Britain    <br>   MAINTENANCE   1]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.770809,41.654478,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 36  =  Old 26 - DESCRIPTION   Downtown New Britain</name>
+        <description><![CDATA[ROUTE_ID   9-N    <br>   PROJECT   0171-0425    <br>   LABEL   New 36  =  Old 26    <br>   DESCRIPTION   Downtown New Britain    <br>   NOTES   round up to eliminate suffix    <br>   TOWN   New Britain    <br>   MAINTENANCE   1]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.773951,41.661252,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 37  =  Old 28 - DESCRIPTION   (LEFT EXIT) CT-72 WEST, Bristol</name>
+        <description><![CDATA[ROUTE_ID   9-N    <br>   PROJECT   0171-0425    <br>   LABEL   New 37  =  Old 28    <br>   DESCRIPTION   (LEFT EXIT) CT-72 WEST, Bristol    <br>   NOTES   round up to eliminate suffix    <br>   TOWN   New Britain    <br>   MAINTENANCE   1]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.773005,41.667697,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 38  =  Old 29 - DESCRIPTION   CT-175, Newington</name>
+        <description><![CDATA[ROUTE_ID   9-N    <br>   PROJECT   0171-0425    <br>   LABEL   New 38  =  Old 29    <br>   DESCRIPTION   CT-175, Newington    <br>   NOTES       <br>   TOWN   Newington    <br>   MAINTENANCE   1]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.757268,41.69082,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 39  =  Old 30 - DESCRIPTION   CT-71, Corbin's Corner</name>
+        <description><![CDATA[ROUTE_ID   9-N    <br>   PROJECT   0171-0425    <br>   LABEL   New 39  =  Old 30    <br>   DESCRIPTION   CT-71, Corbin's Corner    <br>   NOTES       <br>   TOWN   Newington    <br>   MAINTENANCE   1]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.760984,41.711393,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 40A  =  Old 32 - DESCRIPTION   (LEFT EXIT) I-84 WEST, Waterbury</name>
+        <description><![CDATA[ROUTE_ID   9-N    <br>   PROJECT   0171-0425    <br>   LABEL   New 40A  =  Old 32    <br>   DESCRIPTION   (LEFT EXIT) I-84 WEST, Waterbury    <br>   NOTES       <br>   TOWN   Farmington    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.770738,41.723733,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 40B  =  Old 31 - DESCRIPTION   I-84 EAST, Hartford</name>
+        <description><![CDATA[ROUTE_ID   9-N    <br>   PROJECT   0171-0425    <br>   LABEL   New 40B  =  Old 31    <br>   DESCRIPTION   I-84 EAST, Hartford    <br>   NOTES       <br>   TOWN   Farmington    <br>   MAINTENANCE   4]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.770683,41.723704,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 1A  =  Old N/A - DESCRIPTION   I-95 US-1 NORTH, New London</name>
+        <description><![CDATA[ROUTE_ID   9-S    <br>   PROJECT   0172-0473    <br>   LABEL   New 1A  =  Old N/A    <br>   DESCRIPTION   I-95 US-1 NORTH, New London    <br>   NOTES       <br>   TOWN   Old Saybrook    <br>   MAINTENANCE   2]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.360144,41.316974,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 1B  =  Old N/A - DESCRIPTION   I-95 US-1 SOUTH, New Haven</name>
+        <description><![CDATA[ROUTE_ID   9-S    <br>   PROJECT   0172-0473    <br>   LABEL   New 1B  =  Old N/A    <br>   DESCRIPTION   I-95 US-1 SOUTH, New Haven    <br>   NOTES       <br>   TOWN   Old Saybrook    <br>   MAINTENANCE   2]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.360681,41.31747,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 2  =  Old 2 - DESCRIPTION   CT-154, Old Saybrook</name>
+        <description><![CDATA[ROUTE_ID   9-S    <br>   PROJECT   0172-0473    <br>   LABEL   New 2  =  Old 2    <br>   DESCRIPTION   CT-154, Old Saybrook    <br>   NOTES       <br>   TOWN   Old Saybrook    <br>   MAINTENANCE   2]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.38244,41.324462,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 3  =  Old 3 - DESCRIPTION   CT-154, CT-153, Essex</name>
+        <description><![CDATA[ROUTE_ID   9-S    <br>   PROJECT   0172-0473    <br>   LABEL   New 3  =  Old 3    <br>   DESCRIPTION   CT-154, CT-153, Essex    <br>   NOTES       <br>   TOWN   Essex    <br>   MAINTENANCE   2]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.407783,41.353822,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 5  =  Old 4 - DESCRIPTION   CT-154, Middlesex Turnpike</name>
+        <description><![CDATA[ROUTE_ID   9-S    <br>   PROJECT   0172-0473    <br>   LABEL   New 5  =  Old 4    <br>   DESCRIPTION   CT-154, Middlesex Turnpike    <br>   NOTES       <br>   TOWN   Essex    <br>   MAINTENANCE   2]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.427216,41.363313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 7  =  Old 5 - DESCRIPTION   CT-80, Deep River</name>
+        <description><![CDATA[ROUTE_ID   9-S    <br>   PROJECT   0172-0473    <br>   LABEL   New 7  =  Old 5    <br>   DESCRIPTION   CT-80, Deep River    <br>   NOTES       <br>   TOWN   Deep River    <br>   MAINTENANCE   2]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.450066,41.384523,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 8  =  Old 6 - DESCRIPTION   CT-148, Chester</name>
+        <description><![CDATA[ROUTE_ID   9-S    <br>   PROJECT   0172-0473    <br>   LABEL   New 8  =  Old 6    <br>   DESCRIPTION   CT-148, Chester    <br>   NOTES       <br>   TOWN   Chester    <br>   MAINTENANCE   2]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.47509,41.404153,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 10  =  Old 7 - DESCRIPTION   CT-82, Haddam, East Haddam</name>
+        <description><![CDATA[ROUTE_ID   9-S    <br>   PROJECT   0172-0473    <br>   LABEL   New 10  =  Old 7    <br>   DESCRIPTION   CT-82, Haddam, East Haddam    <br>   NOTES       <br>   TOWN   Chester    <br>   MAINTENANCE   2]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.491749,41.41746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 13  =  Old 8 - DESCRIPTION   Beaver Meadow Rd</name>
+        <description><![CDATA[ROUTE_ID   9-S    <br>   PROJECT   0172-0473    <br>   LABEL   New 13  =  Old 8    <br>   DESCRIPTION   Beaver Meadow Rd    <br>   NOTES       <br>   TOWN   Haddam    <br>   MAINTENANCE   2]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.530524,41.457818,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 15  =  Old 9 - DESCRIPTION   CT-81, Killingworth, Clinton</name>
+        <description><![CDATA[ROUTE_ID   9-S    <br>   PROJECT   0172-0473    <br>   LABEL   New 15  =  Old 9    <br>   DESCRIPTION   CT-81, Killingworth, Clinton    <br>   NOTES       <br>   TOWN   Haddam    <br>   MAINTENANCE   2]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.558349,41.473072,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 19  =  Old 10 - DESCRIPTION   CT-154 SOUTH, Aircraft Rd</name>
+        <description><![CDATA[ROUTE_ID   9-S    <br>   PROJECT   0172-0473    <br>   LABEL   New 19  =  Old 10    <br>   DESCRIPTION   CT-154 SOUTH, Aircraft Rd    <br>   NOTES       <br>   TOWN   Middletown    <br>   MAINTENANCE   1]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.601206,41.515249,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 21  =  Old 11 - DESCRIPTION   CT-155 to CT-17, Durham</name>
+        <description><![CDATA[ROUTE_ID   9-S    <br>   PROJECT   0172-0473    <br>   LABEL   New 21  =  Old 11    <br>   DESCRIPTION   CT-155 to CT-17, Durham    <br>   NOTES       <br>   TOWN   Middletown    <br>   MAINTENANCE   1]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.618235,41.533254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 22  =  Old 12 - DESCRIPTION   Silver St</name>
+        <description><![CDATA[ROUTE_ID   9-S    <br>   PROJECT   0172-0473    <br>   LABEL   New 22  =  Old 12    <br>   DESCRIPTION   Silver St    <br>   NOTES       <br>   TOWN   Middletown    <br>   MAINTENANCE   1]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.637305,41.554645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 23A  =  Old 13 - DESCRIPTION   CT-17 SOUTH, S Main St</name>
+        <description><![CDATA[ROUTE_ID   9-S    <br>   PROJECT   0172-0473    <br>   LABEL   New 23A  =  Old 13    <br>   DESCRIPTION   CT-17 SOUTH, S Main St    <br>   NOTES       <br>   TOWN   Middletown    <br>   MAINTENANCE   1]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.643214,41.557031,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 23B  =  Old 14 - DESCRIPTION   deKoven Dr, Harbor Area</name>
+        <description><![CDATA[ROUTE_ID   9-S    <br>   PROJECT   0172-0473    <br>   LABEL   New 23B  =  Old 14    <br>   DESCRIPTION   deKoven Dr, Harbor Area    <br>   NOTES       <br>   TOWN   Middletown    <br>   MAINTENANCE   1]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.645858,41.560147,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 23D  =  Old 15 - DESCRIPTION   CT-66 WEST, Middletown</name>
+        <description><![CDATA[ROUTE_ID   9-S    <br>   PROJECT   0172-0473    <br>   LABEL   New 23C  =  Old 15    <br>   DESCRIPTION   CT-66 WEST, Middletown    <br>   NOTES       <br>   TOWN   Middletown    <br>   MAINTENANCE   1]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.64828,41.563489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 24  =  Old 16 - DESCRIPTION   CT-66 EAST, CT-17 NORTH, Portland</name>
+        <description><![CDATA[ROUTE_ID   9-S    <br>   PROJECT   0172-0473    <br>   LABEL   New 24  =  Old 16    <br>   DESCRIPTION   CT-66 EAST, CT-17 NORTH, Portland    <br>   NOTES       <br>   TOWN   Middletown    <br>   MAINTENANCE   1]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.650896,41.568104,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 27  =  Old 19 - DESCRIPTION   CT-372, Cromwell, West St</name>
+        <description><![CDATA[ROUTE_ID   9-S    <br>   PROJECT   0007-0189    <br>   LABEL   New 27  =  Old 19    <br>   DESCRIPTION   CT-372, Cromwell, West St    <br>   NOTES       <br>   TOWN   Cromwell    <br>   MAINTENANCE   1]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.676072,41.607344,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 29  =  Old 20N - DESCRIPTION   I-91 NORTH, Hartford</name>
+        <description><![CDATA[ROUTE_ID   9-S    <br>   PROJECT   0007-0189    <br>   LABEL   New 29  =  Old 20N    <br>   DESCRIPTION   I-91 NORTH, Hartford    <br>   NOTES       <br>   TOWN   Cromwell    <br>   MAINTENANCE   1]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.689912,41.623734,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 30  =  Old 20S - DESCRIPTION   I-91 SOUTH, New Haven</name>
+        <description><![CDATA[ROUTE_ID   9-S    <br>   PROJECT   0007-0189    <br>   LABEL   New 30  =  Old 20S    <br>   DESCRIPTION   I-91 SOUTH, New Haven    <br>   NOTES   round up to eliminate suffix    <br>   TOWN   Cromwell    <br>   MAINTENANCE   1]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.69831,41.624614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 31  =  Old 21 - DESCRIPTION   US-5, CT-15, Hartford, New Haven</name>
+        <description><![CDATA[ROUTE_ID   9-S    <br>   PROJECT   0007-0189    <br>   LABEL   New 31  =  Old 21    <br>   DESCRIPTION   US-5, CT-15, Hartford, New Haven    <br>   NOTES       <br>   TOWN   Berlin    <br>   MAINTENANCE   1]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.740391,41.624657,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 32  =  Old 22 - DESCRIPTION   CT-372, East Berlin</name>
+        <description><![CDATA[ROUTE_ID   9-S    <br>   PROJECT   0007-0189    <br>   LABEL   New 32  =  Old 22    <br>   DESCRIPTION   CT-372, East Berlin    <br>   NOTES       <br>   TOWN   Berlin    <br>   MAINTENANCE   1]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.746128,41.626621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 33  =  Old 23 - DESCRIPTION   Christian Lane</name>
+        <description><![CDATA[ROUTE_ID   9-S    <br>   PROJECT   0007-0189    <br>   LABEL   New 33  =  Old 23    <br>   DESCRIPTION   Christian Lane    <br>   NOTES       <br>   TOWN   Berlin    <br>   MAINTENANCE   1]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.75385,41.637886,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 35  =  Old 25 - DESCRIPTION   to CT-71, Kensington</name>
+        <description><![CDATA[ROUTE_ID   9-S    <br>   PROJECT   0007-0189    <br>   LABEL   New 35  =  Old 25    <br>   DESCRIPTION   to CT-71, Kensington    <br>   NOTES   round up to eliminate suffix    <br>   TOWN   New Britain    <br>   MAINTENANCE   1]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.772777,41.65741,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 36  =  Old 27 - DESCRIPTION   (LEFT EXIT) Chestnut Street</name>
+        <description><![CDATA[ROUTE_ID   9-S    <br>   PROJECT   0171-0425    <br>   LABEL   New 36  =  Old 27    <br>   DESCRIPTION   (LEFT EXIT) Chestnut Street    <br>   NOTES   round up to eliminate suffix    <br>   TOWN   New Britain    <br>   MAINTENANCE   1]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.774062,41.670294,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 37A  =  Old 28 - DESCRIPTION   CT-72 to I-84 Bristol</name>
+        <description><![CDATA[ROUTE_ID   9-S    <br>   PROJECT   0171-0425    <br>   LABEL   New 37A  =  Old 28    <br>   DESCRIPTION   CT-72 to I-84 Bristol    <br>   NOTES   round up to eliminate suffix in NB direction    <br>   TOWN   New Britain    <br>   MAINTENANCE   1]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.769968,41.67627,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 37B  =  Old 28A - DESCRIPTION   Downtown New Britain</name>
+        <description><![CDATA[ROUTE_ID   9-S    <br>   PROJECT   0171-0425    <br>   LABEL   New 37B  =  Old 28A    <br>   DESCRIPTION   Downtown New Britain    <br>   NOTES   round up to eliminate suffix in NB direction    <br>   TOWN   New Britain    <br>   MAINTENANCE   1]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.772041,41.674347,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 38  =  Old 29 - DESCRIPTION   to CT-175, Newington</name>
+        <description><![CDATA[ROUTE_ID   9-S    <br>   PROJECT   0171-0425    <br>   LABEL   New 38  =  Old 29    <br>   DESCRIPTION   to CT-175, Newington    <br>   NOTES       <br>   TOWN   Newington    <br>   MAINTENANCE   1]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.757998,41.701297,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New 39  =  Old 30 - DESCRIPTION   CT-71, Corbin's Corner</name>
+        <description><![CDATA[ROUTE_ID   9-S    <br>   PROJECT   0171-0425    <br>   LABEL   New 39  =  Old 30    <br>   DESCRIPTION   CT-71, Corbin's Corner    <br>   NOTES       <br>   TOWN   New Britain    <br>   MAINTENANCE   1]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -72.767683,41.71446,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

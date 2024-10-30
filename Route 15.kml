@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Route 15</name>
+    <Placemark>
+      <name>New NY-19B = Old 27 | NY-120A NORTH, King St / Armonk, NY</name>
+      <Point>
+        <coordinates>
+          -73.675127,41.04,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 3 = Old 28 | Round Hill Road</name>
+      <Point>
+        <coordinates>
+          -73.665629,41.082195,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 4 = Old 29 | Lake Ave</name>
+      <Point>
+        <coordinates>
+          -73.65709,41.091363,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 5 = Old 31 | North St</name>
+      <Point>
+        <coordinates>
+          -73.631647,41.093868,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 8 = Old 33 | Den Rd</name>
+      <Point>
+        <coordinates>
+          -73.576938,41.100882,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 9 = Old 34 | CT-104, Long Ridge Rd</name>
+      <Point>
+        <coordinates>
+          -73.570352,41.10135,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 10 = Old 35 | CT-137, High Ridge Rd</name>
+      <Point>
+        <coordinates>
+          -73.550247,41.110369,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 13 = Old 36 | CT-106, Old Stamford Rd</name>
+      <Point>
+        <coordinates>
+          -73.501387,41.117386,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 14 = Old 37 | CT-124, New Canaan / Darien</name>
+      <Point>
+        <coordinates>
+          -73.487361,41.117727,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 15 = Old 38 | CT-123, New Canaan Ave</name>
+      <Point>
+        <coordinates>
+          -73.454527,41.134757,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 16 = Old 39A | US-7 SOUTH, Norwalk</name>
+      <Point>
+        <coordinates>
+          -73.438569,41.139291,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 17A = Old 39B | US-7 NORTH, Danbury</name>
+      <Point>
+        <coordinates>
+          -73.430738,41.141506,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 17B = Old 40A | SOUTH, Main Ave</name>
+      <Point>
+        <coordinates>
+          -73.426947,41.14236,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 17C = Old 40B | NORTH, Main Ave</name>
+      <Point>
+        <coordinates>
+          -73.42494,41.142723,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 20 = Old 41 | CT-33, Westport / Wilton</name>
+      <Point>
+        <coordinates>
+          -73.3741,41.163731,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 21 = Old 42 | CT-57, Westport / Weston</name>
+      <Point>
+        <coordinates>
+          -73.357744,41.164002,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 27 = Old 44 | CT-58, Fairfield / Redding</name>
+      <Point>
+        <coordinates>
+          -73.271647,41.201196,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 28 = Old 46 | CT-59, Fairfield / Easton</name>
+      <Point>
+        <coordinates>
+          -73.253844,41.22141,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 29 = Old 47 | Park Ave</name>
+      <Point>
+        <coordinates>
+          -73.244503,41.228432,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 30 = Old 48 | CT-111, Main Street</name>
+      <Point>
+        <coordinates>
+          -73.223939,41.232396,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 31 = Old 49S | CT-25 SOUTH, Bridgeport</name>
+      <Point>
+        <coordinates>
+          -73.200368,41.234174,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 32 = Old 49N | CT-25 NORTH, Danbury</name>
+      <Point>
+        <coordinates>
+          -73.189971,41.235712,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 33 = Old 51 | CT-108, Nichols Ave</name>
+      <Point>
+        <coordinates>
+          -73.165438,41.237569,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 34 = Old 52 | CT-8 NORTH, Waterbury</name>
+      <Point>
+        <coordinates>
+          -73.160514,41.237739,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 36 = Old 53 | CT-110, Stratford / Shelton</name>
+      <Point>
+        <coordinates>
+          -73.108761,41.24,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 37 = Old 54 | I-95 / US-1, Milford / New London</name>
+      <Point>
+        <coordinates>
+          -73.087977,41.25,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 38A = Old 55A | Wheelers Farms Rd</name>
+      <Point>
+        <coordinates>
+          -73.079492,41.248898,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 38B = Old 55B | Wolf Harbor Rd</name>
+      <Point>
+        <coordinates>
+          -73.074466,41.252034,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 41 = Old 56 | CT-121, Orange</name>
+      <Point>
+        <coordinates>
+          -73.043215,41.285453,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 42A = Old 57 | CT-34 EAST, New Haven</name>
+      <Point>
+        <coordinates>
+          -73.03419,41.303943,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 42B = Old 58 | CT-34 WEST, Derby</name>
+      <Point>
+        <coordinates>
+          -73.033568,41.31,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 46 = Old 59 | CT-69 / CT-63, New Haven / Woodbridge</name>
+      <Point>
+        <coordinates>
+          -72.978404,41.34,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 50 = Old 60 | CT-10, Hamden</name>
+      <Point>
+        <coordinates>
+          -72.92582,41.365491,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 51 = Old 61 | Whitney Ave / Hamden</name>
+      <Point>
+        <coordinates>
+          -72.901674,41.38,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 52 = Old 62 | Dixwell Ave</name>
+      <Point>
+        <coordinates>
+          -72.894881,41.384077,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 53 = Old 63 | CT-22, North Haven</name>
+      <Point>
+        <coordinates>
+          -72.877069,41.391371,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 58A = Old 64 | Wallingford</name>
+      <Point>
+        <coordinates>
+          -72.838593,41.456251,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 58B = Old 65 | CT-150, Yalesville</name>
+      <Point>
+        <coordinates>
+          -72.834995,41.460349,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 61 = Old 66 | US-5, Wallingford / Meriden</name>
+      <Point>
+        <coordinates>
+          -72.808845,41.491851,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 62 = Old - | Conn. D.O.T. Maintenance Facility</name>
+      <Point>
+        <coordinates>
+          -72.78,41.51,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 64A = Old 67 | East Main Street</name>
+      <Point>
+        <coordinates>
+          -72.770446,41.522431,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 64B = Old 68N | I-91 NORTH / CT-66 EAST, Hartford / Middletown</name>
+      <Point>
+        <coordinates>
+          -72.768557,41.530962,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 65 = Old 68W | I-691 WEST, Meriden / Waterbury</name>
+      <Point>
+        <coordinates>
+          -72.768376,41.534905,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New NY-19B = Old 27 | NY-120A NORTH, King St / Armonk, NY</name>
+      <Point>
+        <coordinates>
+          -73.674521,41.038541,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 3 = Old 28 | Round Hill Road</name>
+      <Point>
+        <coordinates>
+          -73.664731,41.085283,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 4 = Old 29 | Lake Ave</name>
+      <Point>
+        <coordinates>
+          -73.650501,41.095362,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 5 = Old 31 | North St</name>
+      <Point>
+        <coordinates>
+          -73.633177,41.095166,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 8 = Old 33 | Den Rd</name>
+      <Point>
+        <coordinates>
+          -73.57657,41.101054,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 9 = Old 34 | CT-104, Long Ridge Rd</name>
+      <Point>
+        <coordinates>
+          -73.562582,41.104824,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 10 = Old 35 | CT-137, High Ridge Rd</name>
+      <Point>
+        <coordinates>
+          -73.548433,41.11128,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 13 = Old 36 | CT-106, Old Stamford Rd</name>
+      <Point>
+        <coordinates>
+          -73.49962,41.117267,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 14 = Old 37 | CT-124, New Canaan / Darien</name>
+      <Point>
+        <coordinates>
+          -73.483882,41.118901,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 15 = Old 38 | CT-123, New Canaan Ave</name>
+      <Point>
+        <coordinates>
+          -73.457424,41.133349,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 17A = Old 40A | TO US-7 SOUTH, Norwalk</name>
+      <Point>
+        <coordinates>
+          -73.425999,41.142668,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 17B = Old 40B | TO US-7 NORTH, Danbury</name>
+      <Point>
+        <coordinates>
+          -73.423703,41.143078,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 20 = Old 41 | CT-33, Westport / Wilton</name>
+      <Point>
+        <coordinates>
+          -73.377312,41.163963,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 21 = Old 42 | CT-57, Westport / Weston</name>
+      <Point>
+        <coordinates>
+          -73.358252,41.16396,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 27 = Old 44 | CT-58, Fairfield / Redding</name>
+      <Point>
+        <coordinates>
+          -73.269529,41.204111,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 28 = Old 46 | CT-59, Fairfield / Easton</name>
+      <Point>
+        <coordinates>
+          -73.254983,41.220323,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 29 = Old 47 | Park Ave</name>
+      <Point>
+        <coordinates>
+          -73.243862,41.228763,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 30 = Old 48 | CT-111, Main Street</name>
+      <Point>
+        <coordinates>
+          -73.217573,41.232048,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 32A = Old 49 | CT-25 NORTH, Danbury</name>
+      <Point>
+        <coordinates>
+          -73.183738,41.236764,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 32B = Old 50 | CT-127, Trumbull</name>
+      <Point>
+        <coordinates>
+          -73.176568,41.237335,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 34 = Old 52 | CT-8 / CT-108, Bridgeport / Waterbury</name>
+      <Point>
+        <coordinates>
+          -73.144949,41.23703,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 36 = Old 53 | CT-110, Stratford / Shelton</name>
+      <Point>
+        <coordinates>
+          -73.097407,41.246198,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 37 = Old 54 | TO I-95 US-1, Milford</name>
+      <Point>
+        <coordinates>
+          -73.075478,41.25,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 38 = Old 55 | Wheelers Farms Rd</name>
+      <Point>
+        <coordinates>
+          -73.072864,41.253389,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 41 = Old 56 | CT-121, Orange</name>
+      <Point>
+        <coordinates>
+          -73.042242,41.286771,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 42A = Old 57 | CT-34 EAST, Orange</name>
+      <Point>
+        <coordinates>
+          -73.033995,41.30561,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 42B = Old 58 | CT-34 WEST, Derby</name>
+      <Point>
+        <coordinates>
+          -73.032791,41.308564,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 46 = Old 59 | CT-69 / CT-63, New Haven / Woodbridge</name>
+      <Point>
+        <coordinates>
+          -72.977295,41.338849,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 50 = Old 60 | CT-10, Hamden / New Haven</name>
+      <Point>
+        <coordinates>
+          -72.922812,41.36582,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 51 = Old 61 | Whitney Ave / New Haven</name>
+      <Point>
+        <coordinates>
+          -72.904211,41.378684,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 52 = Old 62 | Whitney Ave / Hamden</name>
+      <Point>
+        <coordinates>
+          -72.900733,41.380864,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 53 = Old 63 | CT-22, North Haven</name>
+      <Point>
+        <coordinates>
+          -72.873922,41.394098,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 58A = Old 64 | Wallingford</name>
+      <Point>
+        <coordinates>
+          -72.836625,41.458645,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 58B = Old 65 | CT-150, Yalesville</name>
+      <Point>
+        <coordinates>
+          -72.830924,41.466726,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 61 = Old 66 | US-5, Wallingford / Meriden</name>
+      <Point>
+        <coordinates>
+          -72.807026,41.493305,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 62 = Old - | Conn. D.O.T. Maintenance Facility</name>
+      <Point>
+        <coordinates>
+          -72.79,41.51,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New 64B = Old 67W | East Main Street</name>
+      <Point>
+        <coordinates>
+          -72.769271,41.5337,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

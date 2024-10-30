@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Folder><name>SR_8_AND_SR_25_NEW_EXIT_NUMBERS</name>
+  <Placemark>
+	<name>NEW EXIT #:1
+Old EXIT #2
+SIGN LEGEND: CT-130, Downtown</name>
+      <Point><coordinates>-73.19520399,41.177397022</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:2A
+Old EXIT #4
+SIGN LEGEND: Lindley Street</name>
+      <Point><coordinates>-73.195056586,41.194971907</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:2B
+Old EXIT #5
+SIGN LEGEND: US-1, Boston Ave / North Ave</name>
+      <Point><coordinates>-73.19096402,41.2056105510001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:3
+Old EXIT #-
+SIGN LEGEND: (LEFT EXIT) CT-25 NORTH to CT-15 SOUTH, Trumbull / N.Y. City</name>
+      <Point><coordinates>-73.181037163,41.217725563</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:5
+Old EXIT #8
+SIGN LEGEND: CT-108, Stratford</name>
+      <Point><coordinates>-73.16246717,41.2278067400001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:6
+Old EXIT #9
+SIGN LEGEND: CT-15 NORTH, Merritt Pkwy / New Haven (PASSENGER VEHICLES ONLY)</name>
+      <Point><coordinates>-73.155960992,41.2324832460001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:7
+Old EXIT #11
+SIGN LEGEND: Huntington Rd</name>
+      <Point><coordinates>-73.147555874,41.2526703550001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:9
+Old EXIT #12
+SIGN LEGEND: Old Stratford Rd</name>
+      <Point><coordinates>-73.118832284,41.2727507750001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:11
+Old EXIT #13
+SIGN LEGEND: Constitution Blvd / Bridgeport Ave</name>
+      <Point><coordinates>-73.100649721,41.302370888</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:12A
+Old EXIT #14
+SIGN LEGEND: CT-110, Howe Ave / Shelton</name>
+      <Point><coordinates>-73.089713514,41.3120825930001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:12B
+Old EXIT #15
+SIGN LEGEND: CT-34, Derby / New Haven</name>
+      <Point><coordinates>-73.0853138969999,41.3161672030001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:13A
+Old EXIT #16
+SIGN LEGEND: Pershing Dr / Ansonia</name>
+      <Point><coordinates>-73.085227816,41.325806201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:13B
+Old EXIT #17
+SIGN LEGEND: Seymour Avenue</name>
+      <Point><coordinates>-73.09161053,41.332359099</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:14
+Old EXIT #18
+SIGN LEGEND: Division Street</name>
+      <Point><coordinates>-73.092190705,41.337009913</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:15
+Old EXIT #19
+SIGN LEGEND: CT-334, Wakelee Avenue</name>
+      <Point><coordinates>-73.093001236,41.355453332</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:17
+Old EXIT #21
+SIGN LEGEND: Derby Ave</name>
+      <Point><coordinates>-73.0805753719999,41.3803189590001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:18
+Old EXIT #22
+SIGN LEGEND: CT-67, Seymour</name>
+      <Point><coordinates>-73.0759702089999,41.394277195</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:21
+Old EXIT #23
+SIGN LEGEND: CT-42, Beacon Falls / Oxford</name>
+      <Point><coordinates>-73.0675496279999,41.4269219830001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:24
+Old EXIT #25
+SIGN LEGEND: Cross St</name>
+      <Point><coordinates>-73.052332442,41.466583816</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:25A
+Old EXIT #26
+SIGN LEGEND: CT-63, S Main St</name>
+      <Point><coordinates>-73.05025961,41.483967335</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:25B
+Old EXIT #27
+SIGN LEGEND: Naugatuck</name>
+      <Point><coordinates>-73.050810531,41.4936276120001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:26
+Old EXIT #28
+SIGN LEGEND: CT-68, Union City / Prospect</name>
+      <Point><coordinates>-73.0502278,41.4993600170001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:27
+Old EXIT #29
+SIGN LEGEND: S Main St / Waterbury</name>
+      <Point><coordinates>-73.0480921339999,41.5124674190001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:29
+Old EXIT #30
+SIGN LEGEND: South Leonard St / Washington Ave</name>
+      <Point><coordinates>-73.043986283,41.5378891390001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:30A
+Old EXIT #31
+SIGN LEGEND: I-84 EAST, Hartford</name>
+      <Point><coordinates>-73.046991905,41.5493670920001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:30B
+Old EXIT #32
+SIGN LEGEND: Downtown Waterbury</name>
+      <Point><coordinates>-73.048969782,41.550206873</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:30C
+Old EXIT #33
+SIGN LEGEND: (LEFT EXIT) I-84 WEST, Danbury</name>
+      <Point><coordinates>-73.050549684,41.5507878990001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:31
+Old EXIT #35
+SIGN LEGEND: (LEFT EXIT) CT-73, Oakville / Watertown</name>
+      <Point><coordinates>-73.05784765,41.565351417</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:32
+Old EXIT #36
+SIGN LEGEND: Huntingdon Ave / Colonial Ave</name>
+      <Point><coordinates>-73.0526346939999,41.5823484320001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:34
+Old EXIT #37
+SIGN LEGEND: CT-262, Watertown</name>
+      <Point><coordinates>-73.065668649,41.603273911</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:38
+Old EXIT #38
+SIGN LEGEND: US-6 WEST / CT-109 / CT-254, Thomaston</name>
+      <Point><coordinates>-73.0795066439999,41.651430207</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:39
+Old EXIT #39
+SIGN LEGEND: US-6 EAST / CT-222, Thomaston / Bristol</name>
+      <Point><coordinates>-73.066943784,41.6718535750001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:44
+Old EXIT #41
+SIGN LEGEND: Northfield / Campville</name>
+      <Point><coordinates>-73.098171623,41.7246662320001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:46
+Old EXIT #42
+SIGN LEGEND: CT-118, Litchfield / Harwinton</name>
+      <Point><coordinates>-73.115382941,41.7589157240001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:49
+Old EXIT #43
+SIGN LEGEND: Harwinton Avenue</name>
+      <Point><coordinates>-73.107705234,41.7899531460001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:50
+Old EXIT #44
+SIGN LEGEND: CT-4 / US-202, Downtown Torrington</name>
+      <Point><coordinates>-73.112788391,41.803664139</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:51
+Old EXIT #45
+SIGN LEGEND: Kennedy Dr / Winsted Rd</name>
+      <Point><coordinates>-73.107289505,41.8276690610001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:55
+Old EXIT #46
+SIGN LEGEND: Pinewoods Rd / Burrville</name>
+      <Point><coordinates>-73.072582805,41.875453814</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:5
+Old EXIT #7A-B
+SIGN LEGEND: CT-127, White Plains Rd, CT-15 SOUTH, N.Y. City</name>
+      <Point><coordinates>-73.1864994599999,41.229333508</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:6
+Old EXIT #9
+SIGN LEGEND: Daniels Farm Rd</name>
+      <Point><coordinates>-73.194632433,41.25097936</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:1A
+Old EXIT #-
+SIGN LEGEND: (LEFT EXIT) I-95 NORTH, New Haven</name>
+      <Point><coordinates>-73.19351,41.17306</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:1B
+Old EXIT #-
+SIGN LEGEND: I-95 SOUTH, N.Y. City</name>
+      <Point><coordinates>-73.1934816139999,41.17300964</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:1C
+Old EXIT #1
+SIGN LEGEND: South End</name>
+      <Point><coordinates>-73.194773232,41.174304417</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:1D
+Old EXIT #2
+SIGN LEGEND: CT-130, Downtown</name>
+      <Point><coordinates>-73.194715479,41.180129058</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:2A
+Old EXIT #3
+SIGN LEGEND: Main St / Washington Ave</name>
+      <Point><coordinates>-73.1947433129999,41.1920024570001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:2B
+Old EXIT #5
+SIGN LEGEND: US-1, Boston Ave / North Ave</name>
+      <Point><coordinates>-73.190971146,41.2064183950001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:4
+Old EXIT #7
+SIGN LEGEND: CT-127, E Main St / White Plains Rd</name>
+      <Point><coordinates>-73.172712103,41.224288476</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:5
+Old EXIT #8
+SIGN LEGEND: CT-108, Stratford, to CT-15 NORTH, Merritt Pkwy / New Haven</name>
+      <Point><coordinates>-73.1565090249999,41.232383224</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:6
+Old EXIT #10
+SIGN LEGEND: CT-15 SOUTH, Merritt Pkwy / N.Y. City (PASSENGER VEHICLES ONLY)</name>
+      <Point><coordinates>-73.151500813,41.2431819020001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:7
+Old EXIT #11
+SIGN LEGEND: Huntington Rd</name>
+      <Point><coordinates>-73.13452699,41.2617252740001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:9
+Old EXIT #12
+SIGN LEGEND: Old Stratford Rd</name>
+      <Point><coordinates>-73.1154029909999,41.2765273000001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:11
+Old EXIT #13
+SIGN LEGEND: Bridgeport Ave / Constitution Blvd</name>
+      <Point><coordinates>-73.099654954,41.3044824520001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:12A
+Old EXIT #14
+SIGN LEGEND: CT-110, Howe Ave / Shelton</name>
+      <Point><coordinates>-73.08644366,41.314882143</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:12B
+Old EXIT #15
+SIGN LEGEND: CT-34, Derby / New Haven</name>
+      <Point><coordinates>-73.084470591,41.3183568330001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:13
+Old EXIT #17
+SIGN LEGEND: Seymour Avenue</name>
+      <Point><coordinates>-73.0904838399999,41.330876957</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:15
+Old EXIT #19
+SIGN LEGEND: CT-334, Wakelee Ave / Ansonia</name>
+      <Point><coordinates>-73.091960941,41.363626051</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:17
+Old EXIT #20
+SIGN LEGEND: Derby Avenue</name>
+      <Point><coordinates>-73.083813,41.374375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:18
+Old EXIT #22
+SIGN LEGEND: CT-67, Seymour</name>
+      <Point><coordinates>-73.068374507,41.400635472</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:21
+Old EXIT #24
+SIGN LEGEND: CT-42, Beacon Falls / Oxford</name>
+      <Point><coordinates>-73.067198,41.4488850000001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:24
+Old EXIT #25
+SIGN LEGEND: Cross St to CT-63</name>
+      <Point><coordinates>-73.0506251049999,41.472378946</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:25A
+Old EXIT #26
+SIGN LEGEND: CT-63, S Main St</name>
+      <Point><coordinates>-73.051816292,41.487701434</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:25B
+Old EXIT #27
+SIGN LEGEND: Naugatuck</name>
+      <Point><coordinates>-73.051020465,41.492008603</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:26
+Old EXIT #28
+SIGN LEGEND: CT-68, Union City / Prospect</name>
+      <Point><coordinates>-73.04601866,41.508313081</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:27
+Old EXIT #29
+SIGN LEGEND: S Main St</name>
+      <Point><coordinates>-73.049289172,41.5143821890001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:29
+Old EXIT #30
+SIGN LEGEND: Washington Avenue</name>
+      <Point><coordinates>-73.044651711,41.546141118</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:30A
+Old EXIT #31
+SIGN LEGEND: (LEFT EXIT) I-84 EAST, Hartford</name>
+      <Point><coordinates>-73.055318552,41.5546320180001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:30B
+Old EXIT #32
+SIGN LEGEND: (LEFT EXIT) Riverside Street</name>
+      <Point><coordinates>-73.0554991719999,41.5557683280001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:30C
+Old EXIT #33
+SIGN LEGEND: I-84 WEST, Danbury</name>
+      <Point><coordinates>-73.055635404,41.5565172680001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:30D
+Old EXIT #34
+SIGN LEGEND: W Main St / Downtown Waterbury</name>
+      <Point><coordinates>-73.0572468509999,41.560771448</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:32
+Old EXIT #36
+SIGN LEGEND: Huntingdon Ave / Colonial Ave</name>
+      <Point><coordinates>-73.058325772,41.5886029370001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:34
+Old EXIT #37
+SIGN LEGEND: CT-262, Watertown</name>
+      <Point><coordinates>-73.06221181,41.6165444970001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:38
+Old EXIT #38
+SIGN LEGEND: US-6 WEST / CT-254 / CT-109, Thomaston / Watertown</name>
+      <Point><coordinates>-73.0783127839999,41.660660427</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:39
+Old EXIT #39
+SIGN LEGEND: US-6 EAST, Bristol</name>
+      <Point><coordinates>-73.064625169,41.6779224150001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:40
+Old EXIT #40
+SIGN LEGEND: CT-222, N Main St</name>
+      <Point><coordinates>-73.0682887529999,41.6843924990001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:44
+Old EXIT #41
+SIGN LEGEND: Northfield / Campville</name>
+      <Point><coordinates>-73.103100543,41.7271580820001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:46
+Old EXIT #42
+SIGN LEGEND: CT-118, Harwinton / Litchfield</name>
+      <Point><coordinates>-73.115344428,41.7659777320001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:49
+Old EXIT #43
+SIGN LEGEND: Harwinton Avenue</name>
+      <Point><coordinates>-73.113248856,41.801599636</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:50
+Old EXIT #44
+SIGN LEGEND: CT-4 / US-202, Downtown Torrington</name>
+      <Point><coordinates>-73.113899266,41.811113473</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:51
+Old EXIT #45
+SIGN LEGEND: Winsted Rd / Kennedy Dr</name>
+      <Point><coordinates>-73.1054365959999,41.8307884710001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:55
+Old EXIT #46
+SIGN LEGEND: Pinewoods Rd / Burrville</name>
+      <Point><coordinates>-73.071532953,41.8826795050001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:4
+Old EXIT #6
+SIGN LEGEND: CT-127, Old Town Rd / White Plains Rd</name>
+      <Point><coordinates>-73.18296259,41.2242499110001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:5
+Old EXIT #8B-A
+SIGN LEGEND: (NO COMMERCIAL VEHICLES) CT-15, Hartford, N.Y. City</name>
+      <Point><coordinates>-73.1902477629999,41.241688648</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW EXIT #:6
+Old EXIT #9
+SIGN LEGEND: Daniels Farm Road / Trumbull</name>
+      <Point><coordinates>-73.202612973,41.2549762460001</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
